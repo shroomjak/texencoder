@@ -2,14 +2,11 @@ PWD /home/ilia/storage/Projects/Latex/texencoder
 INPUT /home/ilia/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
 INPUT /home/ilia/storage/Projects/Latex/texencoder/NIR.tex
 OUTPUT NIR.log
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/extsizes/extarticle.cls
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/extsizes/extarticle.cls
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/extsizes/size14.clo
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/extsizes/size14.clo
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/extsizes/size14.clo
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/exscale.sty
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/exscale.sty
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/article.cls
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/article.cls
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/size10.clo
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/size10.clo
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/size10.clo
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
@@ -23,30 +20,38 @@ INPUT /home/ilia/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/inputenc.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2aenc.def
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2aenc.def
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2aenc.def
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1000.tfm
 INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/babel.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/babel.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/txtbabel.def
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
-INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
-INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
-INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
 INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex
 INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex
 INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex
-INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-en.ini
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
 INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/ru/babel-ru.ini
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-russian/russianb.ldf
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-russian/russianb.ldf
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-russian/russianb.ldf
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2aenc.def
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/t2aenc.dfu
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/t2aenc.dfu
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/base/t2aenc.dfu
+INPUT /home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-en.ini
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
@@ -71,8 +76,6 @@ INPUT /home/ilia/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/float/float.sty
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/float/float.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
@@ -93,6 +96,8 @@ INPUT /home/ilia/.miktex/texmfs/install/tex/latex/caption/caption3.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/caption/caption3.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/float/float.sty
+INPUT /home/ilia/.miktex/texmfs/install/tex/latex/float/float.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/tools/indentfirst.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/tools/indentfirst.sty
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
@@ -162,10 +167,6 @@ INPUT /home/ilia/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./NIR.aux
 INPUT ./NIR.aux
 INPUT NIR.aux
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmr.fd
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmr.fd
-INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmr.fd
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1440.tfm
 OUTPUT NIR.aux
 INPUT /home/ilia/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 INPUT /home/ilia/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
@@ -193,38 +194,36 @@ INPUT ./images/logo/msu.png
 INPUT ./images/logo/msu.png
 INPUT ./images/logo/msu.png
 INPUT ./images/logo/msu.png
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1728.tfm
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm2074.tfm
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/labx2074.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1200.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1440.tfm
 INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/labx1440.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/labx1000.tfm
 INPUT /home/ilia/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT ./NIR.toc
 INPUT ./NIR.toc
 INPUT NIR.toc
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 OUTPUT NIR.toc
 INPUT introduction.tex
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/lati1440.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1440.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/lati1000.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT literary_review.tex
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/labx1728.tfm
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1000.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/labx1200.tfm
 INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0700.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0500.tfm
 INPUT ./images/многодорожечные диски.png
 INPUT ./images/многодорожечные диски.png
 INPUT ./images/многодорожечные диски.png
@@ -232,7 +231,7 @@ INPUT ./images/многодорожечные диски.png
 INPUT ./images/многодорожечные диски.png
 INPUT ./images/многодорожечные диски.png
 INPUT ./images/многодорожечные диски.png
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1200.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0900.tfm
 INPUT ./images/двоичный и грей.png
 INPUT ./images/двоичный и грей.png
 INPUT ./images/двоичный и грей.png
@@ -240,22 +239,16 @@ INPUT ./images/двоичный и грей.png
 INPUT ./images/двоичный и грей.png
 INPUT ./images/двоичный и грей.png
 INPUT ./images/двоичный и грей.png
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmr9.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT ./images/ABZ инкрементальный диск .png
@@ -279,6 +272,7 @@ INPUT ./images/однодор грей код.png
 INPUT ./images/однодор грей код.png
 INPUT ./images/однодор грей код.png
 INPUT ./images/однодор грей код.png
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0800.tfm
 INPUT ./images/однодор грей головки.png
 INPUT ./images/однодор грей головки.png
 INPUT ./images/однодор грей головки.png
@@ -301,26 +295,32 @@ INPUT ./images/однодорожечный диск.png
 INPUT ./images/однодорожечный диск.png
 INPUT ./images/однодорожечный диск.png
 INPUT problems.tex
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0600.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt8.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx7.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx5.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmmib5.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
 INPUT /home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
-INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/latt1440.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx5.tfm
+INPUT /home/ilia/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/latt1000.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx6.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt8.tfm
 INPUT ./images/оценка на ширину дороки.pdf
 INPUT ./images/оценка на ширину дороки.pdf
@@ -349,12 +349,8 @@ INPUT ./images/пример_восстановления_дисторсии.png
 INPUT ./images/пример_восстановления_дисторсии.png
 INPUT ./images/пример_восстановления_дисторсии.png
 INPUT ./images/пример_восстановления_дисторсии.png
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx8.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx6.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt12.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt8.tfm
-INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt8.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmbx9.tfm
+INPUT /home/ilia/.miktex/texmfs/install/fonts/tfm/public/cm/cmtt9.tfm
 INPUT ./images/Цифровая_модель.pdf
 INPUT ./images/Цифровая_модель.pdf
 INPUT ./images/Цифровая_модель.pdf
@@ -477,53 +473,73 @@ INPUT ./images/final_reverse10_5000_avg.pdf
 INPUT NIR.aux
 INPUT ./NIR.out
 INPUT ./NIR.out
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1000.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1000.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0600.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0600.pk
 INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0700.pk
 INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0700.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1440.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1440.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0800.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0800.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0900.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0900.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1000.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1000.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk
 INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk
 INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk
-INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
+INPUT /home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb
 INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb
-INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb
+INPUT /home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb

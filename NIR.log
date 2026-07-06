@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.7.6)  6 JUL 2026 19:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.7.6)  6 JUL 2026 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,18 +7,10 @@ entering extended mode
 (/home/ilia/storage/Projects/Latex/texencoder/NIR.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
-(/home/ilia/.miktex/texmfs/install/tex/latex/extsizes/extarticle.cls
-Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(/home/ilia/.miktex/texmfs/install/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
-) (/home/ilia/.miktex/texmfs/install/tex/latex/base/exscale.sty
-Package: exscale 2025/12/24 v2.1j Standard LaTeX package exscale
-LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
-\big@size=\dimen150
+(/home/ilia/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/home/ilia/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count276
 \c@section=\count277
@@ -30,7 +22,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \c@table=\count283
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen151
+\bibindent=\dimen150
 ) (/home/ilia/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
  (/home/ilia/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
@@ -44,68 +36,22 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@cnth=\count284
 \Gm@cntv=\count285
 \c@Gm@tempcnt=\count286
-\Gm@bindingoffset=\dimen152
-\Gm@wd@mp=\dimen153
-\Gm@odd@mp=\dimen154
-\Gm@even@mp=\dimen155
-\Gm@layoutwidth=\dimen156
-\Gm@layoutheight=\dimen157
-\Gm@layouthoffset=\dimen158
-\Gm@layoutvoffset=\dimen159
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
 \Gm@dimlist=\toks18
  (/home/ilia/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg)) (/home/ilia/.miktex/texmfs/install/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
-) (/home/ilia/.miktex/texmfs/install/tex/generic/babel/babel.sty
-Package: babel 2026/06/14 v26.9 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
-\babel@savecnt=\count287
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2084.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2086.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2088.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2089.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2090.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2092.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2117.
-\U@D=\dimen160
-\l@unhyphenated=\language1
- (/home/ilia/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
-\bbl@readstream=\read2
-\bbl@dirlevel=\count288
-Package babel Info: Configuration files are deprecated, as
-(babel)             they can break document portability.
-(babel)             Reported on input line 4252.
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(/home/ilia/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (/home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex) (/home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex)
-Package babel Info: Importing font and identification data for 'english'
-(babel)             from babel-en.ini. Reported on input line 4380.
- (/home/ilia/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-)
-Package babel Info: Importing font and identification data for 'russian'
-(babel)             from babel-ru.ini. Reported on input line 4380.
- (/home/ilia/.miktex/texmfs/install/tex/latex/babel-russian/russianb.ldf
-File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
-Language: russian 2020/09/09 1.3k Russian support for the Babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Russian' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=0 instead on input line 32.
-
-
-Package babel Warning: No Cyrillic font encoding has been loaded so far.
-(babel)                A font encoding should be declared before babel.
-(babel)                Default `T2A' encoding will be loaded  on input line 78.
-
-(/home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2aenc.def
+) (/home/ilia/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+ (/home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2aenc.def
 File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
@@ -310,8 +256,54 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
 ))
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 116.
+ (/home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)) (/home/ilia/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2026/06/14 v26.9 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count287
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2084.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2086.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2088.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2089.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2090.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2092.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2117.
+\U@D=\dimen159
+\l@unhyphenated=\language1
+ (/home/ilia/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count288
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4252.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/ilia/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (/home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/ru/babel-russian.tex) (/home/ilia/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex)
+Package babel Info: Importing font and identification data for 'russian'
+(babel)             from babel-ru.ini. Reported on input line 4380.
+ (/home/ilia/.miktex/texmfs/install/tex/latex/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language 'Russian' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 32.
+
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
+)
+Package babel Info: Importing font and identification data for 'english'
+(babel)             from babel-en.ini. Reported on input line 4380.
+ (/home/ilia/.miktex/texmfs/install/tex/latex/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
 )) (/home/ilia/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2026/05/19 v2.18d AMS math features
 \@mathmargin=\skip51
@@ -322,10 +314,10 @@ Package: amstext 2024/11/17 v2.01 AMS text
  (/home/ilia/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
-\ex@=\dimen161
+\ex@=\dimen160
 )) (/home/ilia/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen162
+\pmbraise@=\dimen161
 ) (/home/ilia/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
@@ -346,7 +338,7 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen163
+\big@size=\dimen162
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
 \macc@depth=\count294
@@ -364,12 +356,12 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \column@=\count299
 \maxfields@=\count300
 \andhelp@=\toks23
-\eqnshift@=\dimen164
-\alignsep@=\dimen165
-\tagshift@=\dimen166
-\tagwidth@=\dimen167
-\totwidth@=\dimen168
-\lineht@=\dimen169
+\eqnshift@=\dimen163
+\alignsep@=\dimen164
+\tagshift@=\dimen165
+\tagwidth@=\dimen166
+\totwidth@=\dimen167
+\lineht@=\dimen168
 \@envbody=\toks24
 \multlinegap=\skip52
 \multlinetaggap=\skip53
@@ -395,17 +387,10 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 106.
  (/home/ilia/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-)) (/home/ilia/.miktex/texmfs/install/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count301
-\float@exts=\toks26
-\float@box=\box55
-\@float@everytoks=\toks27
-\@floatcapt=\box56
-) (/home/ilia/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+)) (/home/ilia/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen170
-\Gin@req@width=\dimen171
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
 ) (/home/ilia/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (/home/ilia/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
@@ -432,25 +417,31 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (/home/ilia/.miktex/texmfs/install/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen172
-\captionmargin=\dimen173
-\caption@leftmargin=\dimen174
-\caption@rightmargin=\dimen175
-\caption@width=\dimen176
-\caption@indent=\dimen177
-\caption@parindent=\dimen178
-\caption@hangindent=\dimen179
+\caption@tempdima=\dimen171
+\captionmargin=\dimen172
+\caption@leftmargin=\dimen173
+\caption@rightmargin=\dimen174
+\caption@width=\dimen175
+\caption@indent=\dimen176
+\caption@parindent=\dimen177
+\caption@hangindent=\dimen178
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count302
-\c@continuedfloat=\count303
-Package caption Info: float package is loaded.
+\c@caption@flags=\count301
+\c@continuedfloat=\count302
 ) (/home/ilia/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count304
+\c@subfigure=\count303
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count305
+\c@subtable=\count304
+) (/home/ilia/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count305
+\float@exts=\toks26
+\float@box=\box55
+\@float@everytoks=\toks27
+\@floatcapt=\box56
 ) (/home/ilia/.miktex/texmfs/install/tex/latex/tools/indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 ) (/home/ilia/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
@@ -489,7 +480,7 @@ Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 ) (/home/ilia/.miktex/texmfs/install/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen180
+\@linkdim=\dimen179
 \Hy@linkcounter=\count308
 \Hy@pagecounter=\count309
  (/home/ilia/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
@@ -519,15 +510,15 @@ Package hyperref Info: Bookmarks ON on input line 4466.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4805.
-\XeTeXLinkMargin=\dimen181
+\XeTeXLinkMargin=\dimen180
  (/home/ilia/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/home/ilia/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count312
-\Field@Width=\dimen182
-\Fld@charsize=\dimen183
+\Field@Width=\dimen181
+\Fld@charsize=\dimen182
 Package hyperref Info: Hyper figures OFF on input line 6091.
 Package hyperref Info: Link nesting OFF on input line 6096.
 Package hyperref Info: Hyper index ON on input line 6099.
@@ -558,29 +549,29 @@ Package: overpic 2026/01/06 2.2 picture overlays (RN)
 Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
 \@@multicnt=\count318
 \d@lta=\count319
-\@delta=\dimen184
-\@@delta=\dimen185
+\@delta=\dimen183
+\@@delta=\dimen184
 \@gridcnt=\count320
 \@joinkind=\count321
-\@dotgap=\dimen186
-\@ddotgap=\dimen187
+\@dotgap=\dimen185
+\@ddotgap=\dimen186
 \@x@diff=\count322
 \@y@diff=\count323
-\x@diff=\dimen188
-\y@diff=\dimen189
+\x@diff=\dimen187
+\y@diff=\dimen188
 \@dotbox=\box57
 \num@segments=\count324
 \num@segmentsi=\count325
 \@datafile=\read3
 )
 \OVP@box=\box58
-\OVP@totalheight=\dimen190
+\OVP@totalheight=\dimen189
 ) (/home/ilia/.miktex/texmfs/install/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip55
 \multirow@cntb=\count326
 \multirow@dima=\skip56
-\bigstrutjot=\dimen191
+\bigstrutjot=\dimen190
 ) (/home/ilia/.miktex/texmfs/install/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2026-05-15 v3.5.5 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count327
@@ -599,26 +590,26 @@ Package: siunitx 2026-05-15 v3.5.5 A comprehensive (SI) units package
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
 )
 \l__siunitx_table_tmp_box=\box59
-\l__siunitx_table_tmp_dim=\dimen192
-\l__siunitx_table_column_width_dim=\dimen193
+\l__siunitx_table_tmp_dim=\dimen191
+\l__siunitx_table_column_width_dim=\dimen192
 \l__siunitx_table_integer_box=\box60
 \l__siunitx_table_decimal_box=\box61
 \l__siunitx_table_uncert_box=\box62
 \l__siunitx_table_before_box=\box63
 \l__siunitx_table_after_box=\box64
-\l__siunitx_table_before_dim=\dimen194
-\l__siunitx_table_carry_dim=\dimen195
+\l__siunitx_table_before_dim=\dimen193
+\l__siunitx_table_carry_dim=\dimen194
 \l__siunitx_unit_tmp_int=\count339
 \l__siunitx_unit_position_int=\count340
 \l__siunitx_unit_total_int=\count341
-\l__siunitx_sexagesimal_tmp_dim=\dimen196
+\l__siunitx_sexagesimal_tmp_dim=\dimen195
 \l__siunitx_sexagesimal_marker_box=\box65
 \l__siunitx_sexagesimal_unit_box=\box66
  (/home/ilia/.miktex/texmfs/install/tex/latex/tools/array.sty
 Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
-\col@sep=\dimen197
+\col@sep=\dimen196
 \ar@mcellbox=\box67
-\extrarowheight=\dimen198
+\extrarowheight=\dimen197
 \NC@list=\toks28
 \extratabsurround=\skip57
 \backup@length=\skip58
@@ -626,14 +617,12 @@ Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
 )) (/home/ilia/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count342
-) (NIR.aux
-LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 8.
- (/home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmr.fd
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Package babel Info: 'russian' activates 'russian' shorthands.
-(babel)             Reported on input line 8.
 
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+(NIR.aux
 
 LaTeX Warning: Label `fig:zebra' multiply defined.
 
@@ -689,15 +678,15 @@ LaTeX Font Info:    ... okay on input line 47.
 * \textheight=717.00946pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-68.59087pt
-* \headheight=14.0pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=14.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=15.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -711,13 +700,13 @@ LaTeX Info: Redefining \th on input line 47.
 (/home/ilia/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count343
-\scratchdimen=\dimen199
+\scratchdimen=\dimen198
 \scratchbox=\box69
 \nofMPsegments=\count344
 \nofMParguments=\count345
 \everyMPshowfont=\toks29
 \MPscratchCnt=\count346
-\MPscratchDim=\dimen256
+\MPscratchDim=\dimen199
 \MPnumerator=\count347
 \makeMPintoPDFobject=\count348
 \everyMPtoPDFconversion=\toks30
@@ -728,6 +717,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 47.
@@ -735,12 +725,12 @@ Package hyperref Info: Link coloring OFF on input line 47.
 \@outlinefile=\write3
 \openout3 = `NIR.out'.
 
-Package translations Info: no dictionary file `translations-basic-dictionary-russian.trsl' found. on input line 47.
  (/home/ilia/.miktex/texmfs/install/tex/latex/translations/dicts/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 47.
-Package babel Info: Main language set to 'russian'.
+Package translations Info: no dictionary file `translations-basic-dictionary-russian.trsl' found. on input line 47.
+Package babel Info: Main language set to 'english'.
  (titlepageFKI.tex
 <./images/logo/msu.png, id=119, 187.902pt x 101.178pt>
 File: ./images/logo/msu.png Graphic file (type png)
@@ -758,12 +748,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (/home/ilia/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (1.03714pt too wide) in paragraph at lines 49--49
- [][] [][]\T2A/cmr/m/n/14.4 Ограничения на кодовую последовательность псевдослучайного 
- []
-
-)
+))
 \tf@toc=\write4
 \openout4 = `NIR.toc'.
 
@@ -773,2393 +758,1105 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.53 \newpage
               [1] (introduction.tex
-Overfull \hbox (28.24886pt too wide) in paragraph at lines 1--2
-[]\T2A/cmr/m/n/14.4 Проведение современных астрономических наблюдений предполагает высокую
+Overfull \hbox (6.64636pt too wide) in paragraph at lines 1--2
+\T2A/cmr/m/n/10 преобразующие пространственную ориентацию в цифровой сигнал. Среди них наибольшее распространение
  []
 
 
-Overfull \hbox (22.6886pt too wide) in paragraph at lines 1--2
-\T2A/cmr/m/n/14.4 точность наведения и сопровождения телескопов, ошибки в определении углового
+Overfull \hbox (38.17003pt too wide) in paragraph at lines 1--2
+\T2A/cmr/m/n/10 получили \T2A/cmr/m/it/10 абсолютные энкодеры\T2A/cmr/m/n/10 , обеспечивающие однозначное определение углового положения без необходимости
  []
 
 
-Overfull \hbox (19.65807pt too wide) in paragraph at lines 1--2
-\T2A/cmr/m/n/14.4 объекта и снижению качества получаемых данных. Для обеспечения стабильного
+Overfull \hbox (9.84003pt too wide) in paragraph at lines 1--2
+\T2A/cmr/m/n/10 повторной калибровки при прерывании работы. Важное преимущество абсолютного энкодера это отсутствие
  []
 
 
-Overfull \hbox (20.2304pt too wide) in paragraph at lines 1--2
-\T2A/cmr/m/n/14.4 и высокоточного позиционирования применяются специальные датчики углового
+Overfull \hbox (47.36789pt too wide) in paragraph at lines 1--2
+\T2A/cmr/m/n/10 необходимости инициализации путем поворота до срабатывания нулевой точки отсчета, что требует дополнительного
  []
 
 
-Overfull \hbox (9.19276pt too wide) in paragraph at lines 1--2
-\T2A/cmr/m/n/14.4 положения, преобразующие пространственную ориентацию в цифровой сигнал.
+Overfull \hbox (25.62686pt too wide) in paragraph at lines 3--4
+[]\T2A/cmr/m/n/10 Актуальность разработки и совершенствования таких устройств обусловлена постоянным ростом требований
  []
 
 
-Overfull \hbox (78.5862pt too wide) in paragraph at lines 1--2
-\T2A/cmr/m/n/14.4 Среди них наибольшее распространение получили \T2A/cmr/m/it/14.4 абсолютные энкодеры\T2A/cmr/m/n/14.4 , обеспечивающие
+Overfull \hbox (29.67776pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/10 применения в робототехнике, станках и системах автоматизации, где требования к точности и термостабильности
  []
 
 
-Overfull \hbox (29.37846pt too wide) in paragraph at lines 1--2
-\T2A/cmr/m/n/14.4 калибровки при прерывании работы. Важное преимущество абсолютного энкодера
+Overfull \hbox (18.81006pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/10 менее жесткие, чем в астрономии. Использование таких систем в телескопах зачастую требует дополнительной
  []
 
 
-Overfull \hbox (7.653pt too wide) in paragraph at lines 1--2
-\T2A/cmr/m/n/14.4 это отсутствие необходимости инициализации путем поворота до срабатывания
+Overfull \hbox (3.90628pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/10 построения и создание прототипа абсолютного датчика угла, оптимизированного для условий эксплуатации
  []
 
 
-Overfull \hbox (16.23634pt too wide) in paragraph at lines 3--4
-[]\T2A/cmr/m/n/14.4 Актуальность разработки и совершенствования таких устройств обусловлена
+Overfull \hbox (36.73773pt too wide) in paragraph at lines 12--13
+[]\T2A/cmr/m/n/10 определить ключевые метрологические и эксплуатационные требования к датчику угла для астрономических
  []
 
-
-Overfull \hbox (59.82162pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 постоянным ростом требований к точности, стабильности и надежности навигационных
- []
-
-
-Overfull \hbox (20.04071pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 ^^V вибрациям, температурным колебаниям и загрязнению. При этом конструкция
- []
-
-
-Overfull \hbox (42.34544pt too wide) in paragraph at lines 5--6
-[]\T2A/cmr/m/n/14.4 Большинство промышленных решений в области абсолютного позиционирования
- []
-
-
-Overfull \hbox (28.01755pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 разработаны для применения в робототехнике, станках и системах автоматизации,
- []
-
-
-Overfull \hbox (25.15213pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 где требования к точности и термостабильности менее жесткие, чем в астрономии.
- []
-
-
-Overfull \hbox (30.31126pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 адаптации, а стоимость специализированных энкодеров известных производителей
- []
-
-
-Overfull \hbox (26.9397pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 (Heidenhain, Renishaw, Celera Motion и др.) остается высокой. Поэтому актуальной
- []
-
-
-Overfull \hbox (24.39526pt too wide) in paragraph at lines 7--8
-\T2A/cmr/m/n/14.4 абсолютного датчика угла для астрономического телескопа на основе оптического
- []
-
-
-Overfull \hbox (16.25075pt too wide) in paragraph at lines 14--15
-[]\T2A/cmr/m/n/14.4 провести экспериментальные исследования полученного образца и оценить
- []
-
-[2])
-Overfull \hbox (9.1965pt too wide) in paragraph at lines 17--56
-[]\T2A/cmr/m/n/14.4 Таким образом, структура курсовой работы включает теоретическую часть,
- []
-
-
-Overfull \hbox (7.85187pt too wide) in paragraph at lines 17--56
-\T2A/cmr/m/n/14.4 содержащую обзор и анализ существующих технологий, и практическую часть,
- []
-
-
-Overfull \hbox (14.50645pt too wide) in paragraph at lines 17--56
-\T2A/cmr/m/n/14.4 реализация оптического абсолютного датчика угла с использованием доступных
+)
+Overfull \hbox (22.04074pt too wide) in paragraph at lines 17--56
+\T2A/cmr/m/n/10 анализ существующих технологий, и практическую часть, посвященную разработке и исследованию прототипа.
  []
 
 (literary_review.tex
-Overfull \hbox (5.39511pt too wide) in paragraph at lines 3--4
-[]\T2A/cmr/m/n/14.4 Существует два основных типа энкодеров: инкрементальные и абсолютные.
+Overfull \hbox (1.37354pt too wide) in paragraph at lines 3--4
+[]\T2A/cmr/m/n/10 Существует два основных типа энкодеров: инкрементальные и абсолютные. Инкрементальные датчики
  []
 
 
-Overfull \hbox (2.14442pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 Инкрементальные датчики в ответ на движение формируют серию импульсов,
+Overfull \hbox (9.70117pt too wide) in paragraph at lines 3--4
+\T2A/cmr/m/n/10 или подаваться на вход счетчика для отслеживания положения. По другому принципу работают абсолютные
  []
 
 
-Overfull \hbox (1.0159pt too wide) in paragraph at lines 5--6
-[]\T2A/cmr/m/n/14.4 Основным преимуществом абсолютных датчиков является то, что в случае
+Overfull \hbox (2.93796pt too wide) in paragraph at lines 5--6
+[]\T2A/cmr/m/n/10 Основным преимуществом абсолютных датчиков является то, что в случае прерывания или отключения
  []
 
 
-Overfull \hbox (15.27025pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 использоваться для непрерывной работы, информация о положении не теряется.
+Overfull \hbox (12.51529pt too wide) in paragraph at lines 7--8
+\T2A/cmr/m/n/10 перемещения там, где допустим цикл калибровки при включении и не требуется знать абсолютное положение.
+ []
+
+[2]
+Overfull \hbox (30.89969pt too wide) in paragraph at lines 11--12
+\T2A/cmr/m/n/10 поскольку все больше устройств и компонентов подключается к полевым шинам при модернизации оборудования;
  []
 
 
-Overfull \hbox (24.96613pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 свойством, и, поэтому, его необходимо приводить в исходное положение, выполняя
+Overfull \hbox (6.59183pt too wide) in paragraph at lines 13--14
+[]\T2A/cmr/m/n/10 Основным функциональным элементом абсолютного энкодера является \T2A/cmr/m/it/10 измерительная шкала \T2A/cmr/m/n/10 (кодовый
  []
 
 
-Overfull \hbox (7.77963pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 <<слепой>> поворот до опорного положения --- нулевой точки (англ. \T2A/cmr/m/it/14.4 zero position\T2A/cmr/m/n/14.4 ).
+Overfull \hbox (31.5273pt too wide) in paragraph at lines 13--14
+\T2A/cmr/m/n/10 диск или кольцо, например), содержащая последовательность меток, и \T2A/cmr/m/it/10 считывающее устройство \T2A/cmr/m/n/10 (считывающая
  []
 
 
-Overfull \hbox (7.07053pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 инициализации путем поворота до нулевой точки, в общем случае, небезопасна,
+Overfull \hbox (12.56158pt too wide) in paragraph at lines 13--14
+\T2A/cmr/m/n/10 головка), преобразующее данные со шкалы в цифровой код. По способу формирования сигнала и физическом
  []
 
 
-Overfull \hbox (6.51643pt too wide) in paragraph at lines 7--8
-\T2A/cmr/m/n/14.4 измеренного абсолютного положения без установки дополнительных датчиков. 
+Overfull \hbox (4.29507pt too wide) in paragraph at lines 13--14
+\T2A/cmr/m/n/10 несколько основных групп: механические, резистивные, магнитные, оптические, индуктивные и емкостные.
  []
 
 
-Overfull \hbox (1.3727pt too wide) in paragraph at lines 9--10
-\T2A/cmr/m/n/14.4 цене по сравнению с инкрементальными энкодерами сократилась, что привело
+Overfull \hbox (12.71582pt too wide) in paragraph at lines 21--22
+[]\T2A/cmr/m/n/10 Измерение углового положения в конструкциях емкостных энкодеров осуществляется за счет изменения
  []
 
 
-Overfull \hbox (38.50505pt too wide) in paragraph at lines 11--12
-[]\T2A/cmr/m/n/14.4 Другие причины носят более отраслевой характер и связаны с технологическими
+Overfull \hbox (6.4107pt too wide) in paragraph at lines 36--37
+[]\T2A/cmr/m/n/10 В астрономических установках схемы емкостных энкодеров используются редко, в основном в качестве
  []
 
 
-Overfull \hbox (3.48958pt too wide) in paragraph at lines 11--12
-\T2A/cmr/m/n/14.4 информации, поскольку предприятия все чаще подключаются к программным
+Overfull \hbox (25.5727pt too wide) in paragraph at lines 42--43
+[]\T2A/cmr/m/n/10 Современные реализации, например Zettlex IncOder (Celera Motion), а также энкодеры LENZ выполняются
  []
 
 
-Overfull \hbox (63.4269pt too wide) in paragraph at lines 11--12
-\T2A/cmr/m/n/14.4 системам, таким как ERP (планирование ресурсов предприятия) и SPC (статистический
- []
-
-
-Overfull \hbox (38.70845pt too wide) in paragraph at lines 11--12
-\T2A/cmr/m/n/14.4 от оборудования для повышения эффективности профилактического обслуживания
+Overfull \hbox (5.94507pt too wide) in paragraph at lines 46--47
+[]\T2A/cmr/m/n/10 Не требуется специальная защита от пыли (немагнитной), влаги, смазки, не подвержены влиянию
  []
 
 [3]
-Overfull \hbox (23.33182pt too wide) in paragraph at lines 13--14
-\T2A/cmr/m/n/14.4 последовательность меток, и \T2A/cmr/m/it/14.4 считывающее устройство \T2A/cmr/m/n/14.4 (считывающая головка),
+Overfull \hbox (35.15479pt too wide) in paragraph at lines 58--59
+\T2A/cmr/m/n/10 конструкция включает источник света (светодиод или лазер), кодовый диск с прозрачными и непрозрачными
  []
 
 
-Overfull \hbox (0.61038pt too wide) in paragraph at lines 13--14
-\T2A/cmr/m/n/14.4 меры и конструкции, энкодеры подразделяются на несколько основных групп:
+Overfull \hbox (1.73703pt too wide) in paragraph at lines 58--59
+\T2A/cmr/m/n/10 абсолютного кода, что требует высокой точности изготовления и юстировки. Современные тенденции
  []
 
 
-Overfull \hbox (11.27278pt too wide) in paragraph at lines 13--14
-\T2A/cmr/m/n/14.4 механические, резистивные, магнитные, оптические, индуктивные и емкостные.
+Overfull \hbox (14.88196pt too wide) in paragraph at lines 58--59
+\T2A/cmr/m/n/10 развития связаны с переходом на однодорожечные системы, в которых используется последовательность
  []
 
 
-Overfull \hbox (61.16245pt too wide) in paragraph at lines 13--14
-\T2A/cmr/m/n/14.4 Энкодеры также подразделяются на однооборотные и многооборотные, с ограниченным
+Overfull \hbox (5.02325pt too wide) in paragraph at lines 60--61
+\T2A/cmr/m/n/10 кольцевых измерительных элементов с большим внутренним диаметром, что облегчает их интеграцию
  []
 
 
-Overfull \hbox (40.79875pt too wide) in paragraph at lines 13--14
-\T2A/cmr/m/n/14.4 и неограниченным диапазоном. Каждый тип имеет свои преимущества, ограничения
+Overfull \hbox (4.8844pt too wide) in paragraph at lines 78--79
+[]\T2A/cmr/m/n/10 Магнитные энкодеры работают на основе регистрации магнитного поля, создаваемого намагниченным
  []
 
 
-Overfull \hbox (53.95525pt too wide) in paragraph at lines 21--22
-\T2A/cmr/m/n/14.4 осуществляется за счет изменения электрической емкости между неподвижными
- []
-
-
-Overfull \hbox (2.36642pt too wide) in paragraph at lines 21--22
-\T2A/cmr/m/n/14.4 электродами (статором) и подвижными электродами (ротором). Угловое
- []
-
-
-Overfull \hbox (35.46208pt too wide) in paragraph at lines 25--26
-[]\T2A/cmr/m/n/14.4 Относительная простота изготовления и низкая стоимость производства. 
- []
-
-
-Overfull \hbox (17.20781pt too wide) in paragraph at lines 33--34
-[]\T2A/cmr/m/n/14.4 Подверженность влиянию пыли и грязи, подвержен влиянию внешних
- []
-
-
-Overfull \hbox (9.59167pt too wide) in paragraph at lines 36--37
-[]\T2A/cmr/m/n/14.4 В астрономических установках схемы емкостных энкодеров используются
+Overfull \hbox (14.56723pt too wide) in paragraph at lines 101--102
+\T2A/cmr/m/n/10 надежно фиксирует число оборотов даже при внезапном отключении питания. Технология используется
  []
 
 [4]
-Overfull \hbox (24.45898pt too wide) in paragraph at lines 40--41
-\T2A/cmr/m/n/14.4 или взаимной индуктивности между несколькими катушками при вращении
+Overfull \hbox (6.13162pt too wide) in paragraph at lines 104--105
+[]\T2A/cmr/m/n/10 Сравнительный анализ показывает, что оптические энкодеры обеспечивают наилучшие метрологические
  []
 
 
-Overfull \hbox (19.0932pt too wide) in paragraph at lines 53--54
-\T2A/cmr/m/n/14.4 токов: сильная зависимость от температуры, чувствительность сильно
+Overfull \hbox (19.6802pt too wide) in paragraph at lines 104--105
+\T2A/cmr/m/n/10 характеристики: высокое разрешение, низкий уровень шумов и минимальную ошибку, так что они оптимальны
  []
 
 
-Overfull \hbox (50.1303pt too wide) in paragraph at lines 53--54
-\T2A/cmr/m/n/14.4 зависит от расстояния между частями энкодера, разрешающая способность
+Overfull \hbox (7.7572pt too wide) in paragraph at lines 104--105
+\T2A/cmr/m/n/10 для главных осей телескопов. Индуктивные энкодеры представляют собой надежное и менее требовательное
  []
 
 
-Overfull \hbox (23.88033pt too wide) in paragraph at lines 58--59
-[]\T2A/cmr/m/n/14.4 Оптический принцип является наиболее распространенным в прецизионных
+Overfull \hbox (0.34235pt too wide) in paragraph at lines 104--105
+\T2A/cmr/m/n/10 решение, обеспечивающее достаточную точность для крупных механических систем. Магнитные энкодеры
  []
 
 
-Overfull \hbox (28.63704pt too wide) in paragraph at lines 58--59
-\T2A/cmr/m/n/14.4 через шкалу с нанесенным кодом. Наиболее типичная конструкция включает
+Overfull \hbox (32.47339pt too wide) in paragraph at lines 106--107
+\T2A/cmr/m/n/10 используется оптический принцип измерения. Комбинация источника излучения и линейного пзс-фотоприемника
  []
 
 
-Overfull \hbox (16.6587pt too wide) in paragraph at lines 58--59
-\T2A/cmr/m/n/14.4 непрозрачными участками и фотоприемник. В многодорожечных системах
+Overfull \hbox (8.17377pt too wide) in paragraph at lines 106--107
+\T2A/cmr/m/n/10 обработки изображения и последующей коррекции ошибок. Такая конструкция может стать технологически
  []
 
 
-Overfull \hbox (18.15115pt too wide) in paragraph at lines 58--59
-\T2A/cmr/m/n/14.4 каждая дорожка кодирует один бит абсолютного кода, что требует высокой
+Overfull \hbox (25.74506pt too wide) in paragraph at lines 114--115
+[]\T2A/cmr/bx/n/10 Параллельные \T2A/cmr/m/n/10 --- каждый бит выходного кода передается по отдельной паре проводников. Обеспечивают
  []
 
 
-Overfull \hbox (13.3937pt too wide) in paragraph at lines 58--59
-\T2A/cmr/m/n/14.4 связаны с переходом на однодорожечные системы, в которых используется
+Overfull \hbox (6.89317pt too wide) in paragraph at lines 116--117
+[]\T2A/cmr/bx/n/10 Последовательные \T2A/cmr/m/n/10 --- биты передаются поочередно по одной или двум парам проводников; являются
  []
 
 
-Overfull \hbox (18.41632pt too wide) in paragraph at lines 60--61
-[]\T2A/cmr/m/n/14.4 Компании Renishaw и Heidenhain являются лидерами в области оптических
+Overfull \hbox (21.66856pt too wide) in paragraph at lines 118--119
+[]\T2A/cmr/bx/n/10 Полевые шины и промышленный Ethernet \T2A/cmr/m/n/10 (CANopen, PROFIBUS, EtherCAT и др.) ^^V применяются
  []
 
 
-Overfull \hbox (53.66219pt too wide) in paragraph at lines 60--61
-\T2A/cmr/m/n/14.4 абсолютных энкодеров. Система Renishaw RESOLUTE использует однотрековую
+Overfull \hbox (1.40945pt too wide) in paragraph at lines 123--124
+[]\T2A/cmr/m/n/10 В системах точного позиционирования, типичными интерфейсами для абсолютных энкодеров являются
  []
 
 
-Overfull \hbox (16.625pt too wide) in paragraph at lines 60--61
-\T2A/cmr/m/n/14.4 1 угловой секунды при высокой устойчивости к загрязнениям и вибрациям.
+Overfull \hbox (8.50389pt too wide) in paragraph at lines 136--137
+\T2A/cmr/m/n/10 тактовых импульсов; энкодер по первому тактовому фронту фиксирует текущее положение в выходном
  []
 
 
-Overfull \hbox (27.67216pt too wide) in paragraph at lines 60--61
-\T2A/cmr/m/n/14.4 Аналогичные решения Heidenhain (серии RCN, ECA, ECN) характеризуются
+Overfull \hbox (7.99365pt too wide) in paragraph at lines 138--139
+[]\T2A/cmr/m/n/10 Простота и открытость SSI обусловили его широкое применение в системах точного позиционирования.
+ []
+
+
+Overfull \hbox (9.24445pt too wide) in paragraph at lines 138--139
+\T2A/cmr/m/n/10 Недостаток --- отсутствие возможности записи конфигурационных параметров и диагностики энкодера. 
  []
 
 [5]
-Overfull \hbox (18.7253pt too wide) in paragraph at lines 72--73
-[]\T2A/cmr/m/n/14.4 Высокая сложность изготовления и стоимость высокоточных решений 
+Overfull \hbox (8.9721pt too wide) in paragraph at lines 145--146
+[]\T2A/cmr/m/n/10 Двунаправленная связь: контроллер может и читать положение, и записывать конфигурационные
  []
 
 
-Overfull \hbox (29.40616pt too wide) in paragraph at lines 78--79
-\T2A/cmr/m/n/14.4 создаваемого намагниченным диском или кольцом. Чувствительный элемент
+Overfull \hbox (28.26064pt too wide) in paragraph at lines 150--151
+[]\T2A/cmr/bx/n/10 EnDat \T2A/cmr/m/n/10 --- проприетарный последовательный протокол компании Heidenhain, применяемый в высокоточных
  []
 
 
-Overfull \hbox (22.15297pt too wide) in paragraph at lines 78--79
-\T2A/cmr/m/n/14.4 (датчик Холла, магниторезистор или TMR-сенсор) определяет направление
+Overfull \hbox (19.42715pt too wide) in paragraph at lines 150--151
+\T2A/cmr/m/n/10 энкодерах этого производителя. По функциональности близок к BiSS-C: поддерживает двунаправленную
  []
 
 
-Overfull \hbox (27.479pt too wide) in paragraph at lines 90--91
-[]\T2A/cmr/m/n/14.4 Возможен температурный дрейф, свойства магнита и сенсора меняются
+Overfull \hbox (5.03687pt too wide) in paragraph at lines 205--206
+[]\T2A/cmr/m/n/10 Для абсолютных энкодеров шаг квантования определяется разрядностью выходного кода: $\OML/cmm/m/it/10 N$\T2A/cmr/m/n/10 -разрядный
  []
 
 
-Overfull \hbox (14.71797pt too wide) in paragraph at lines 99--100
-[]\T2A/cmr/m/n/14.4 Для систем, где требуется отслеживание положения на угловом диапазоне,
+Overfull \hbox (11.27956pt too wide) in paragraph at lines 205--206
+\T2A/cmr/m/n/10 энкодер дискретизирует полный оборот $\OT1/cmr/m/n/10 360[]$ \T2A/cmr/m/n/10 на $\OT1/cmr/m/n/10 2[]$ \T2A/cmr/m/n/10 уникальных кодовых состояний. Например, 13[]разрядный
  []
 
 
-Overfull \hbox (41.77982pt too wide) in paragraph at lines 99--100
-\T2A/cmr/m/n/14.4 Традиционные решения используют механические передачи и дополнительные
+Overfull \hbox (24.73819pt too wide) in paragraph at lines 209--210
+[]\T2A/cmr/m/n/10 Следует подчеркнуть, что разрешение характеризует лишь дискретность представления углового положения
+ []
+
+
+Overfull \hbox (13.29288pt too wide) in paragraph at lines 217--218
+\T2A/cmr/m/n/10 высокая повторяемость нередко является более критичным параметром, чем абсолютная точность, поскольку
+ []
+
+
+Overfull \hbox (7.09995pt too wide) in paragraph at lines 217--218
+\T2A/cmr/m/n/10 систематическую составляющую ошибки можно компенсировать калибровкой, тогда как случайный разброс
  []
 
 [6]
-Overfull \hbox (69.54959pt too wide) in paragraph at lines 101--102
-\T2A/cmr/m/n/14.4 питать счетчик оборотов без внешнего источника. Такая система энергонезависима,
+Overfull \hbox (22.4332pt too wide) in paragraph at lines 221--222
+[]\T2A/cmr/m/n/10 Кодовый растр оптического энкодера представляет собой систему из одной или нескольких концентрических
  []
 
 
-Overfull \hbox (29.21146pt too wide) in paragraph at lines 101--102
-\T2A/cmr/m/n/14.4 внезапном отключении питания. Технология используется в многооборотных
+Overfull \hbox (3.67487pt too wide) in paragraph at lines 221--222
+\T2A/cmr/m/n/10 дорожек с чередованием прозрачных и непрозрачных участков, считываемых головками энкодера. Каждая
  []
 
 
-Overfull \hbox (6.91666pt too wide) in paragraph at lines 104--105
-[]\T2A/cmr/m/n/14.4 Сравнительный анализ показывает, что оптические энкодеры обеспечивают
+Overfull \hbox (9.23831pt too wide) in paragraph at lines 221--222
+\T2A/cmr/m/n/10 дорожка формирует один бит в многодорожечных абсолютных энкодерах или один/несколько квадратурных
  []
 
 
-Overfull \hbox (5.77428pt too wide) in paragraph at lines 104--105
-\T2A/cmr/m/n/14.4 крупных механических систем. Магнитные энкодеры пригодны для вторичных
+Overfull \hbox (9.83893pt too wide) in paragraph at lines 221--222
+\T2A/cmr/m/n/10 сигналов в инкрементных энкодерах. В общем случае различают два принципиальных подхода к построению
  []
 
-
-Overfull \hbox (10.14514pt too wide) in paragraph at lines 106--107
-[]\T2A/cmr/m/n/14.4 При разработке прототипа абсолютного датчика угла для астрономического
- []
-
-
-Overfull \hbox (31.26198pt too wide) in paragraph at lines 106--107
-\T2A/cmr/m/n/14.4 телескопа в этой работе используется оптический принцип измерения. Комбинация
- []
-
-
-Overfull \hbox (11.28052pt too wide) in paragraph at lines 106--107
-\T2A/cmr/m/n/14.4 схему абсолютного определения углового положения с возможностью цифровой
- []
-
-
-Overfull \hbox (8.43816pt too wide) in paragraph at lines 106--107
-\T2A/cmr/m/n/14.4 обработки изображения и последующей коррекции ошибок. Такая конструкция
- []
-
-
-Overfull \hbox (53.17778pt too wide) in paragraph at lines 106--107
-\T2A/cmr/m/n/14.4 может стать технологически доступной альтернативой промышленным высокоточным
- []
-
-
-Overfull \hbox (4.18674pt too wide) in paragraph at lines 114--115
-[]\T2A/cmr/bx/n/14.4 Параллельные \T2A/cmr/m/n/14.4 --- каждый бит выходного кода передается по отдельной
- []
-
-
-Overfull \hbox (0.465pt too wide) in paragraph at lines 114--115
-\T2A/cmr/m/n/14.4 паре проводников. Обеспечивают максимальное быстродействие, однако
- []
-
-
-Overfull \hbox (14.54268pt too wide) in paragraph at lines 114--115
-\T2A/cmr/m/n/14.4 требуют большого числа соединительных линий (по одной паре на каждый
- []
-
-
-Overfull \hbox (77.55968pt too wide) in paragraph at lines 114--115
-\T2A/cmr/m/n/14.4 бит разрядности), что делает их практически неприменимыми для высокоразрядных
- []
-
-[7]
-Overfull \hbox (0.21349pt too wide) in paragraph at lines 116--117
-[]\T2A/cmr/bx/n/14.4 Последовательные \T2A/cmr/m/n/14.4 --- биты передаются поочередно по одной или двум
- []
-
-
-Overfull \hbox (3.98883pt too wide) in paragraph at lines 118--119
-[]\T2A/cmr/bx/n/14.4 Полевые шины и промышленный Ethernet \T2A/cmr/m/n/14.4 (CANopen, PROFIBUS,
- []
-
-
-Overfull \hbox (7.1139pt too wide) in paragraph at lines 118--119
-\T2A/cmr/m/n/14.4 EtherCAT и др.) ^^V применяются при необходимости интеграции энкодера
- []
-
-
-Overfull \hbox (65.91211pt too wide) in paragraph at lines 126--127
-[]\T2A/cmr/m/n/14.4 Квадратурный интерфейс \T2A/cmr/bx/n/14.4 ABZ \T2A/cmr/m/n/14.4 является стандартным выходом инкрементальных
- []
-
-
-Overfull \hbox (3.67822pt too wide) in paragraph at lines 128--129
-\T2A/cmr/m/n/14.4 друга на четверть по фазе (квадратура). По взаимному опережению
- []
-
-
-Overfull \hbox (13.52367pt too wide) in paragraph at lines 129--130
-[]\T2A/cmr/bx/n/14.4 Z \T2A/cmr/m/n/14.4 (Index) --- одиночный импульс за оборот, используемый как опорная
- []
-
-
-Overfull \hbox (5.40788pt too wide) in paragraph at lines 132--133
-[]\T2A/cmr/m/n/14.4 Данный интерфейс применяется в прототипе, разрабатываемом в рамках
- []
-
-
-Overfull \hbox (29.63853pt too wide) in paragraph at lines 134--135
-[]\T2A/cmr/bx/n/14.4 SSI \T2A/cmr/m/n/14.4 (Synchronous Serial Interface; синхронный последовательный интерфейс),
- []
-
-
-Overfull \hbox (16.42743pt too wide) in paragraph at lines 138--139
-[]\T2A/cmr/m/n/14.4 Простота и открытость SSI обусловили его широкое применение в системах
- []
-
-
-Overfull \hbox (12.82689pt too wide) in paragraph at lines 138--139
-\T2A/cmr/m/n/14.4 точного позиционирования. Недостаток --- отсутствие возможности записи
- []
-
-
-Overfull \hbox (28.62117pt too wide) in paragraph at lines 140--141
-\T2A/cmr/m/n/14.4 последовательный протокол), разработанный как развитие SSI с поддержкой
- []
-
-[8]
-Overfull \hbox (27.57248pt too wide) in paragraph at lines 150--151
-[]\T2A/cmr/bx/n/14.4 EnDat \T2A/cmr/m/n/14.4 --- проприетарный последовательный протокол компании Heidenhain,
- []
-
-
-Overfull \hbox (83.85318pt too wide) in paragraph at lines 150--151
-\T2A/cmr/m/n/14.4 применяемый в высокоточных энкодерах этого производителя. По функциональности
- []
-
-
-Overfull \hbox (24.43146pt too wide) in paragraph at lines 150--151
-\T2A/cmr/m/n/14.4 близок к BiSS-C: поддерживает двунаправленную связь, запись параметров,
- []
-
-
-Overfull \hbox (16.62364pt too wide) in paragraph at lines 152--153
-\T2A/cmr/m/n/14.4 прежде всего использованием энкодеров Heidenhain, упомянутых в разделе
- []
-
-
-Overfull \hbox (9.5871pt too wide) in paragraph at lines 203--204
-[]\T2A/cmr/m/n/14.4 Для инкрементального энкодера разрешение выражается числом импульсов
- []
-
-
-Overfull \hbox (11.96085pt too wide) in paragraph at lines 203--204
-\T2A/cmr/m/n/14.4 на оборот (PPR, pulses per revolution) либо, при квадратурном подсчете четырех
- []
-
-
-Overfull \hbox (49.65353pt too wide) in paragraph at lines 205--206
-\T2A/cmr/m/n/14.4 на $\OT1/cmr/m/n/14.4 2[]$ \T2A/cmr/m/n/14.4 уникальных кодовых состояний. Например, 13[]разрядный энкодер обеспечивает
- []
-
-[9]
-Overfull \hbox (6.1437pt too wide) in paragraph at lines 207--208
-\T2A/cmr/m/n/14.4 аналоговых выходных сигналов (например, интерполяции синусно-косинусных
- []
-
-
-Overfull \hbox (31.06506pt too wide) in paragraph at lines 207--208
-\T2A/cmr/m/n/14.4 энкодера вместе с его электронным трактом обработки сигнала может существенно
- []
-
-
-Overfull \hbox (27.82684pt too wide) in paragraph at lines 209--210
-\T2A/cmr/m/n/14.4 измерения, то есть степень соответствия измеренного положения действительному
- []
-
-
-Overfull \hbox (10.41174pt too wide) in paragraph at lines 211--212
-[]\T2A/cmr/bx/n/14.4 Точность \T2A/cmr/m/n/14.4 --- это максимальное отклонение измеренного энкодером углового
- []
-
-
-Overfull \hbox (10.53754pt too wide) in paragraph at lines 213--214
-[]\T2A/cmr/m/n/14.4 Увеличение разрешения не компенсирует систематическую ошибку: энкодер
- []
-
-
-Overfull \hbox (15.27023pt too wide) in paragraph at lines 213--214
-\T2A/cmr/m/n/14.4 с высоким разрешением, но некачественной шкалой будет повторяемо указывать
- []
-
-
-Overfull \hbox (5.95718pt too wide) in paragraph at lines 215--216
-\T2A/cmr/m/n/14.4 Различают однонаправленную повторяемость (подход к заданному положению
- []
-
-
-Overfull \hbox (20.99495pt too wide) in paragraph at lines 217--218
-[]\T2A/cmr/m/n/14.4 В задачах астрономических наблюдений, где телескоп многократно наводится
- []
-
-
-Overfull \hbox (12.23643pt too wide) in paragraph at lines 217--218
-\T2A/cmr/m/n/14.4 критичным параметром, чем абсолютная точность, поскольку систематическую
- []
-
-
-Overfull \hbox (26.71123pt too wide) in paragraph at lines 217--218
-\T2A/cmr/m/n/14.4 составляющую ошибки можно компенсировать калибровкой, тогда как случайный
- []
-
-
-Overfull \hbox (0.61674pt too wide) in paragraph at lines 221--222
-[]\T2A/cmr/m/n/14.4 Кодовый растр оптического энкодера представляет собой систему из одной
- []
-
-
-Overfull \hbox (57.7307pt too wide) in paragraph at lines 221--222
-\T2A/cmr/m/n/14.4 или нескольких концентрических дорожек с чередованием прозрачных и непрозрачных
- []
-
-
-Overfull \hbox (9.19057pt too wide) in paragraph at lines 221--222
-\T2A/cmr/m/n/14.4 квадратурных сигналов в инкрементных энкодерах. В общем случае различают
- []
-
-
-Overfull \hbox (31.08351pt too wide) in paragraph at lines 221--222
-\T2A/cmr/m/n/14.4 два принципиальных подхода к построению оптического растра: многодорожечные
- []
-
-<images/РјРЅРѕРіРѕРґРѕСЂРѕР¶РµС‡РЅС‹Рµ РґРёСЃРєРё.png, id=216, 2439.1125pt x 850.17625pt>
+<images/РјРЅРѕРіРѕРґРѕСЂРѕР¶РµС‡РЅС‹Рµ РґРёСЃРєРё.png, id=207, 2439.1125pt x 850.17625pt>
 File: images/РјРЅРѕРіРѕРґРѕСЂРѕР¶РµС‡РЅС‹Рµ РґРёСЃРєРё.png Graphic file (type png)
 <use images/РјРЅРѕРіРѕРґРѕСЂРѕР¶РµС‡РЅС‹Рµ РґРёСЃРєРё.png>
 Package pdftex.def Info: images/РјРЅРѕРіРѕРґРѕСЂРѕР¶РµС‡РЅС‹Рµ РґРёСЃРєРё.png  used on input line 225.
 (pdftex.def)             Requested size: 483.69687pt x 168.59227pt.
-[10]
-Overfull \hbox (5.74197pt too wide) in paragraph at lines 231--232
-\T2A/cmr/m/n/14.4 концентрических дорожек, каждая из которых задает один бит кодового слова.
+
+Overfull \hbox (15.48935pt too wide) in paragraph at lines 235--236
+[]\T2A/cmr/m/n/10 В многодорожечных многооборотных энкодерах кодовый растр дополняется дополнительными дорожками
  []
 
-
-Overfull \hbox (21.6182pt too wide) in paragraph at lines 231--232
-\T2A/cmr/m/n/14.4 Для углового положения, разделенного на $\OT1/cmr/m/n/14.4 2[]$ \T2A/cmr/m/n/14.4 дискретов, формируется $\OML/cmm/m/it/14.4 n$ \T2A/cmr/m/n/14.4 дорожек,
- []
-
-
-Overfull \hbox (13.38469pt too wide) in paragraph at lines 233--234
-[]\T2A/cmr/m/n/14.4 Наиболее распространенной формой кодирования в таких системах является
- []
-
-
-Overfull \hbox (17.95055pt too wide) in paragraph at lines 233--234
-\T2A/cmr/m/n/14.4 ошибок считывания при частичном перекрытии фронтов (несовпадении момента
- []
-
-
-Overfull \hbox (10.92099pt too wide) in paragraph at lines 235--236
-[]\T2A/cmr/m/n/14.4 В многодорожечных многооборотных энкодерах кодовый растр дополняется
- []
-
-<images/РґРІРѕРёС‡РЅС‹Р№ Рё РіСЂРµР№.png, id=225, 476.78125pt x 317.185pt>
+<images/РґРІРѕРёС‡РЅС‹Р№ Рё РіСЂРµР№.png, id=209, 476.78125pt x 317.185pt>
 File: images/РґРІРѕРёС‡РЅС‹Р№ Рё РіСЂРµР№.png Graphic file (type png)
 <use images/РґРІРѕРёС‡РЅС‹Р№ Рё РіСЂРµР№.png>
 Package pdftex.def Info: images/РґРІРѕРёС‡РЅС‹Р№ Рё РіСЂРµР№.png  used on input line 239.
 (pdftex.def)             Requested size: 338.58632pt x 225.26099pt.
-[11 <./images/РјРЅРѕРіРѕРґРѕСЂРѕР¶РµС‡РЅС‹Рµ РґРёСЃРєРё.png (PNG copy)>]
-Overfull \hbox (19.49664pt too wide) in paragraph at lines 245--246
-[]\T2A/cmr/m/n/14.4 Для повышения компактности применяются однодорожечные кодовые диски,
+[7 <./images/РјРЅРѕРіРѕРґРѕСЂРѕР¶РµС‡РЅС‹Рµ РґРёСЃРєРё.png (PNG copy)>]
+Overfull \hbox (13.12991pt too wide) in paragraph at lines 252--253
+[]\T2A/cmr/m/n/10 Для инкрементных энкодеров основной задачей является формирование равномерной последовательности
  []
 
 
-Overfull \hbox (19.65192pt too wide) in paragraph at lines 245--246
-\T2A/cmr/m/n/14.4 в которых информация о положении кодируется в виде длинной единой бинарной
+Overfull \hbox (11.3952pt too wide) in paragraph at lines 252--253
+\T2A/cmr/m/n/10 импульсов, соответствующей приращению угла, без прямого кодирования абсолютного положения. Наиболее
  []
 
 
-Overfull \hbox (19.84846pt too wide) in paragraph at lines 245--246
-\T2A/cmr/m/n/14.4 последовательности. В этом случае вдоль окружности формируется циклическая
+Overfull \hbox (10.21396pt too wide) in paragraph at lines 256--257
+[]\T2A/cmr/m/n/10 Разрешение инкрементного энкодера определяется числом периодов сигнала на оборот (числом штрихов),
  []
 
 
-Overfull \hbox (62.48949pt too wide) in paragraph at lines 245--246
-\T2A/cmr/m/n/14.4 последовательность, обладающая свойством уникальности всех подслов фиксированной
+Overfull \hbox (16.84756pt too wide) in paragraph at lines 256--257
+\T2A/cmr/m/n/10 структуры, в которых на дополнительный канал выносятся, например, сдвинутые по фазе последовательности
  []
 
-
-Overfull \hbox (6.72235pt too wide) in paragraph at lines 247--248
-\T2A/cmr/m/n/14.4 псевдослучайные бинарные коды, для которых каждая возможная комбинация
- []
-
-
-Overfull \hbox (1.18356pt too wide) in paragraph at lines 247--248
-\T2A/cmr/m/n/14.4 битный фрагмент; по этому фрагменту однозначно восстанавливается угловое
- []
-
-
-Overfull \hbox (28.04367pt too wide) in paragraph at lines 249--250
-\T2A/cmr/m/n/14.4 однодорожечные кодовые диски часто дополняются синхронизационной дорожкой
- []
-
-
-Overfull \hbox (13.33594pt too wide) in paragraph at lines 251--251
-[]\T2A/cmr/bx/n/14.4 Инкрементные энкодеры и квадратурные последовательности. 
- []
-
-
-Overfull \hbox (44.97742pt too wide) in paragraph at lines 252--253
-\T2A/cmr/m/n/14.4 угла, без прямого кодирования абсолютного положения. Наиболее распространенный
- []
-
-
-Overfull \hbox (9.36957pt too wide) in paragraph at lines 254--255
-\T2A/cmr/m/n/14.4 последовательности, по которым измерительная электроника определяет число
- []
-
-[12 <./images/РґРІРѕРёС‡РЅС‹Р№ Рё РіСЂРµР№.png (PNG copy)>]
-Overfull \hbox (12.4332pt too wide) in paragraph at lines 256--257
-[]\T2A/cmr/m/n/14.4 Разрешение инкрементного энкодера определяется числом периодов сигнала
- []
-
-
-Overfull \hbox (47.63516pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/n/14.4 (режим $\OMS/cmsy/m/n/14.4 ^^B\OT1/cmr/m/n/14.4 4$\T2A/cmr/m/n/14.4 -квадратурного счета). Возможны также многодорожечные инкрементные
- []
-
-
-Overfull \hbox (23.46083pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/n/14.4 структуры, в которых на дополнительный канал выносятся, например, сдвинутые
- []
-
-
-Overfull \hbox (17.35803pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/n/14.4 по фазе последовательности или сигналы с другим шагом (верньерное измерение
- []
-
-
-Overfull \hbox (70.48108pt too wide) in paragraph at lines 256--257
-\T2A/cmr/m/n/14.4 [[]31[]], комбинирование нескольких каналов, аналогично принципу работы штангенциркуля
- []
-
-<images/ABZ РёРЅРєСЂРµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РґРёСЃРє .png, id=245, 671.50874pt x 324.21124pt>
+<images/ABZ РёРЅРєСЂРµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РґРёСЃРє .png, id=221, 671.50874pt x 324.21124pt>
 File: images/ABZ РёРЅРєСЂРµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РґРёСЃРє .png Graphic file (type png)
 <use images/ABZ РёРЅРєСЂРµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РґРёСЃРє .png>
 Package pdftex.def Info: images/ABZ РёРЅРєСЂРµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РґРёСЃРє .png  used on input line 260.
 (pdftex.def)             Requested size: 435.32422pt x 210.18074pt.
-<images/РІРµСЂРЅСЊРµСЂРЅС‹Рµ РґРѕСЂРѕР¶РєРё.png, id=246, 980.66376pt x 522.95375pt>
+[8 <./images/РґРІРѕРёС‡РЅС‹Р№ Рё РіСЂРµР№.png (PNG copy)>]
+<images/РІРµСЂРЅСЊРµСЂРЅС‹Рµ РґРѕСЂРѕР¶РєРё.png, id=233, 980.66376pt x 522.95375pt>
 File: images/РІРµСЂРЅСЊРµСЂРЅС‹Рµ РґРѕСЂРѕР¶РєРё.png Graphic file (type png)
 <use images/РІРµСЂРЅСЊРµСЂРЅС‹Рµ РґРѕСЂРѕР¶РєРё.png>
 Package pdftex.def Info: images/РІРµСЂРЅСЊРµСЂРЅС‹Рµ РґРѕСЂРѕР¶РєРё.png  used on input line 267.
 (pdftex.def)             Requested size: 411.14528pt x 219.24808pt.
-[13 <./images/ABZ РёРЅРєСЂРµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РґРёСЃРє .png (PNG copy)>]
-Overfull \hbox (12.74269pt too wide) in paragraph at lines 272--272
-[]\T2A/cmr/bx/n/14.4 Специализированные и комбинированные кодовые структуры. 
+
+Overfull \hbox (3.90994pt too wide) in paragraph at lines 274--275
+[]\T2A/cmr/m/n/10 Существуют схемы кодирования абсолютного угла, основанные на оригинальных принципах построения
  []
 
 
-Overfull \hbox (41.00049pt too wide) in paragraph at lines 274--275
-[]\T2A/cmr/m/n/14.4 Существуют схемы кодирования абсолютного угла, основанные на оригинальных
+Overfull \hbox (0.58304pt too wide) in paragraph at lines 274--275
+\T2A/cmr/m/n/10 по одной кольцевой дорожке (см. рис. []5a[]) за счет использования нескольких пространственно разнесенных
  []
 
-
-Overfull \hbox (0.24243pt too wide) in paragraph at lines 274--275
-\T2A/cmr/m/n/14.4 принципах построения кодового шаблона. В частности, однодорожечные коды
- []
-
-
-Overfull \hbox (0.2126pt too wide) in paragraph at lines 274--275
-\T2A/cmr/m/n/14.4 Грея [[]28[]] [[]30[]] реализуют абсолютное кодирование по одной кольцевой дорожке
- []
-
-
-Overfull \hbox (28.41245pt too wide) in paragraph at lines 274--275
-\T2A/cmr/m/n/14.4 под строго рассчитанными углами, обеспечивающими однозначное восстановление
- []
-
-<images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РєРѕРґ.png, id=258, 1027.84pt x 1027.84pt>
+<images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РєРѕРґ.png, id=239, 1027.84pt x 1027.84pt>
 File: images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РєРѕРґ.png Graphic file (type png)
 <use images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РєРѕРґ.png>
 Package pdftex.def Info: images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РєРѕРґ.png  used on input line 280.
 (pdftex.def)             Requested size: 157.2pt x 157.19627pt.
-<images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РіРѕР»РѕРІРєРё.png, id=259, 1027.84pt x 1027.84pt>
+<images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РіРѕР»РѕРІРєРё.png, id=240, 1027.84pt x 1027.84pt>
 File: images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РіРѕР»РѕРІРєРё.png Graphic file (type png)
 <use images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РіРѕР»РѕРІРєРё.png>
 Package pdftex.def Info: images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РіРѕР»РѕРІРєРё.png  used on input line 286.
 (pdftex.def)             Requested size: 157.2pt x 157.19627pt.
-<images/РјРѕСЃС‚РєРѕРј РєРѕРЅС„РёРі.png, id=264, 688.5725pt x 364.36125pt>
+[9 <./images/ABZ РёРЅРєСЂРµРјРµРЅС‚Р°Р»СЊРЅС‹Р№ РґРёСЃРє .png (PNG copy)> <./images/РІРµСЂРЅСЊРµСЂРЅС‹Рµ РґРѕСЂРѕР¶РєРё.png>]
+Overfull \hbox (5.85391pt too wide) in paragraph at lines 293--294
+[]\T2A/cmr/m/n/10 Другой пример представляет собой кодовая структура вида ѕрепер^^Uкодї [[]29[]], в которой шкала разделена
+ []
+
+<images/РјРѕСЃС‚РєРѕРј РєРѕРЅС„РёРі.png, id=254, 688.5725pt x 364.36125pt>
 File: images/РјРѕСЃС‚РєРѕРј РєРѕРЅС„РёРі.png Graphic file (type png)
 <use images/РјРѕСЃС‚РєРѕРј РєРѕРЅС„РёРі.png>
 Package pdftex.def Info: images/РјРѕСЃС‚РєРѕРј РєРѕРЅС„РёРі.png  used on input line 297.
 (pdftex.def)             Requested size: 362.77264pt x 191.95967pt.
-[14 <./images/РІРµСЂРЅСЊРµСЂРЅС‹Рµ РґРѕСЂРѕР¶РєРё.png> <./images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РєРѕРґ.png> <./images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РіРѕР»РѕРІРєРё.png>]
-Overfull \hbox (24.8286pt too wide) in paragraph at lines 302--303
-[]\T2A/cmr/m/n/14.4 Наконец, существуют комбинированные многодорожечные диски, сочетающие
- []
-
-<images/РѕРґРЅРѕРґРѕСЂРѕР¶РµС‡РЅС‹Р№ РґРёСЃРє.png, id=281, 2881.76625pt x 1426.32875pt>
+<images/РѕРґРЅРѕРґРѕСЂРѕР¶РµС‡РЅС‹Р№ РґРёСЃРє.png, id=258, 2881.76625pt x 1426.32875pt>
 File: images/РѕРґРЅРѕРґРѕСЂРѕР¶РµС‡РЅС‹Р№ РґРёСЃРє.png Graphic file (type png)
 <use images/РѕРґРЅРѕРґРѕСЂРѕР¶РµС‡РЅС‹Р№ РґРёСЃРє.png>
 Package pdftex.def Info: images/РѕРґРЅРѕРґРѕСЂРѕР¶РµС‡РЅС‹Р№ РґРёСЃРє.png  used on input line 306.
 (pdftex.def)             Requested size: 435.32422pt x 215.46356pt.
-
-Overfull \hbox (3.46754pt too wide) in paragraph at lines 311--312
-\T2A/cmr/m/n/14.4 или многодорожечного) и алгоритма кодирования (код Грея, псевдослучайные
- []
-
-
-Overfull \hbox (62.67314pt too wide) in paragraph at lines 311--312
-\T2A/cmr/m/n/14.4 последовательности, квадратурные последовательности и их комбинации) определяется
- []
-
-
-Overfull \hbox (18.31395pt too wide) in paragraph at lines 311--312
-\T2A/cmr/m/n/14.4 требованиями к разрешению, габаритам кодового диска, устойчивости к помехам
+[10 <./images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РєРѕРґ.png> <./images/РѕРґРЅРѕРґРѕСЂ РіСЂРµР№ РіРѕР»РѕРІРєРё.png> <./images/РјРѕСЃС‚РєРѕРј РєРѕРЅС„РёРі.png>]
+Overfull \hbox (10.37692pt too wide) in paragraph at lines 311--312
+\T2A/cmr/m/n/10 алгоритма кодирования (код Грея, псевдослучайные последовательности, квадратурные последовательности
  []
 
 ) (problems.tex
-Overfull \hbox (37.74963pt too wide) in paragraph at lines 3--4
-[]\T2A/cmr/m/n/14.4 Полная погрешность оптического углового энкодера формируется из нескольких
- []
-
-[15 <./images/РјРѕСЃС‚РєРѕРј РєРѕРЅС„РёРі.png> <./images/РѕРґРЅРѕРґРѕСЂРѕР¶РµС‡РЅС‹Р№ РґРёСЃРє.png (PNG copy)>]
-Overfull \hbox (20.39876pt too wide) in paragraph at lines 6--7
-[]\T2A/cmr/bx/n/14.4 Ошибка нанесения шкалы \T2A/cmr/m/n/14.4 --- отклонение реального положения штрихов
+Overfull \hbox (12.43564pt too wide) in paragraph at lines 3--4
+[]\T2A/cmr/m/n/10 Полная погрешность оптического углового энкодера формируется из нескольких основных составляющих: 
  []
 
 
-Overfull \hbox (1.38954pt too wide) in paragraph at lines 6--7
-\T2A/cmr/m/n/14.4 от расчетного, возникающее в процессе изготовления растра, недостатки
+Overfull \hbox (12.1604pt too wide) in paragraph at lines 6--7
+[]\T2A/cmr/bx/n/10 Ошибка нанесения шкалы \T2A/cmr/m/n/10 --- отклонение реального положения штрихов от расчетного, возникающее
+ []
+
+[11 <./images/РѕРґРЅРѕРґРѕСЂРѕР¶РµС‡РЅС‹Р№ РґРёСЃРє.png (PNG copy)>]
+Overfull \hbox (42.42465pt too wide) in paragraph at lines 51--52
+\T2A/cmr/m/n/10 точность при фиксированной амплитуде деформации --- при равных амплитудах первая гармоника (эксцентриситет)
  []
 
 
-Overfull \hbox (9.39252pt too wide) in paragraph at lines 12--13
-[]\T2A/cmr/m/n/14.4 Суммарная ошибка после установки энкодера (ошибка установки) включает
+Overfull \hbox (1.60385pt too wide) in paragraph at lines 70--71
+[]\T2A/cmr/m/n/10 В методах сравнительной калибровки измерения калибруемого энкодера сопоставляются с показаниями
  []
 
 
-Overfull \hbox (9.3765pt too wide) in paragraph at lines 12--13
-\T2A/cmr/m/n/14.4 ошибку системы <<шкала-головка>>, основные слагаемые которой описаны выше,
+Overfull \hbox (7.80035pt too wide) in paragraph at lines 76--77
+\T2A/cmr/m/n/10 смонтированному энкодеру, поскольку не учитывает установочные погрешности конкретного монтажа. 
  []
 
 
-Overfull \hbox (31.08186pt too wide) in paragraph at lines 12--13
-\T2A/cmr/m/n/14.4 а также дополнительные составляющие, внесенные условиями монтажа, например,
+Overfull \hbox (36.73526pt too wide) in paragraph at lines 81--83
+[]\T2A/cmr/m/n/10 Методы самокалибровки не требуют внешнего эталона в процессе работы и могут применяться непосредственно
+ []
+
+[12]
+Overfull \hbox (2.57693pt too wide) in paragraph at lines 95--96
+[]\T2A/cmr/m/n/10 При таком усреднении в выходном сигнале подавляются все гармоники инструментальной погрешности,
  []
 
 
-Overfull \hbox (16.41312pt too wide) in paragraph at lines 12--13
-\T2A/cmr/m/n/14.4 люфты и дребезги креплений, подшипников и т.д. Именно эта величина является
+Overfull \hbox (8.3533pt too wide) in paragraph at lines 97--100
+[]\T2A/cmr/m/n/10 Например, в документации [[]17[]] Heidenhain описывает вычисление усредненной позиции по двум головкам
  []
 
 
-Overfull \hbox (1.96535pt too wide) in paragraph at lines 14--14
-[]\T2A/cmr/bx/n/14.4 Оценка влияния на измерения в приближении малых ошибок 
+Overfull \hbox (12.91103pt too wide) in paragraph at lines 101--102
+ []\T2A/cmr/bx/n/10 Метод усреднения при равном делении (EDA)[] \T2A/cmr/m/n/10 [[]12[]] является базовым и наиболее строго обоснованным
  []
 
 
-Overfull \hbox (31.66965pt too wide) in paragraph at lines 16--17
-[]\T2A/cmr/m/n/14.4 Считая все возможные отклонения конструкции от идеала малыми, представим
+Overfull \hbox (7.82565pt too wide) in paragraph at lines 122--123
+[]\T2A/cmr/m/n/10 Моделирование, проведенное в работе [[]13[]], показывает, что ансамбли считывающих головок с регулярной
  []
 
 
-Overfull \hbox (27.09862pt too wide) in paragraph at lines 22--23
-[]\T2A/cmr/m/n/14.4 Угловая ошибка измерения напрямую связана с ошибками формы и установки.
+Overfull \hbox (7.01663pt too wide) in paragraph at lines 122--123
+\T2A/cmr/m/n/10 локализацией обеспечивают существенно более точное восстановление калибровочных кривых по сравнению
+ []
+
+
+Overfull \hbox (27.57083pt too wide) in paragraph at lines 126--127
+[]\T2A/cmr/m/n/10 Вместо большого числа равномерно распределенных головок используется ограниченное число считывающих
+ []
+
+
+Overfull \hbox (4.13211pt too wide) in paragraph at lines 141--142
+[]\T2A/cmr/m/n/10 Моделирование в работе [[]13[]], показывает, что при всех достоинствах по подавлению характеристических
+ []
+
+[13]
+Overfull \hbox (14.86752pt too wide) in paragraph at lines 146--147
+[]\T2A/cmr/m/n/10 Пусть $\OML/cmm/m/it/10 r$\T2A/cmr/m/n/10 -й набор содержит $\OML/cmm/m/it/10 N[]$ \T2A/cmr/m/n/10 головок, равномерно размещенных по окружности; его частный усредненный
+ []
+
+
+Overfull \hbox (2.85098pt too wide) in paragraph at lines 160--164
+\T2A/cmr/m/n/10 небольшим суммарным числом головок покрыть больший диапазон низких гармоник спектра погрешности. 
+ []
+
+
+Overfull \hbox (1.99635pt too wide) in paragraph at lines 165--166
+[]\T2A/cmr/m/n/10 В то же время моделирование, проведенное в работе [[]13[]] для формата $\OT1/cmr/m/n/10 2$\T2A/cmr/m/n/10 ^^U$\OT1/cmr/m/n/10 3$\T2A/cmr/m/n/10 ^^U$\OT1/cmr/m/n/10 5$\T2A/cmr/m/n/10 , показывает, что амплитуды
+ []
+
+
+Overfull \hbox (25.69513pt too wide) in paragraph at lines 167--170
+\T2A/cmr/m/n/10 эффект EDA без установки большого числа \T2A/cmr/m/it/10 физических \T2A/cmr/m/n/10 считывающих головок. Вместо реального равномерного
+ []
+
+
+Overfull \hbox (6.26682pt too wide) in paragraph at lines 173--175
+\T2A/cmr/m/n/10 рассматривать как компромисс, обеспечивающий экономию по числу головок ценой усложнения алгоритмов
+ []
+
+
+Overfull \hbox (4.93747pt too wide) in paragraph at lines 182--183
+[]\T2A/cmr/m/n/10 Запретной зоной телескопа называется область угловых положений на небесной сфере (область значений
+ []
+
+
+Overfull \hbox (45.36769pt too wide) in paragraph at lines 184--185
+[]\T2A/cmr/m/n/10 Совокупность запретных зон определяет \T2A/cmr/m/it/10 рабочее поле \T2A/cmr/m/n/10 инструмента и является характеристикой наблюдательного
+ []
+
+
+Overfull \hbox (3.53601pt too wide) in paragraph at lines 188--189
+\T2A/cmr/m/n/10 телескоп достаточно быстро (или достаточно точно), чтобы продолжать отслеживать объект. Это приводит
+ []
+
+
+Overfull \hbox (3.05643pt too wide) in paragraph at lines 188--189
+\T2A/cmr/m/n/10 того, ограничение снизу (минимальная высота, как правило $\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0[]$\T2A/cmr/m/n/10 -$\OT1/cmr/m/n/10 20\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0[]$\T2A/cmr/m/n/10 ) задается требованием к оптической
+ []
+
+[14]
+Overfull \hbox (10.6338pt too wide) in paragraph at lines 192--193
+ []\T2A/cmr/bx/n/10 Зависимые ограничения двухосных монтировок.[] \T2A/cmr/m/n/10 Класс, характерный для немецких экваториальных
+ []
+
+
+Overfull \hbox (21.68898pt too wide) in paragraph at lines 196--197
+\T2A/cmr/m/n/10 завершить слежение без смены стороны; для робота-телескопа или автоматического планировщика наблюдений
+ []
+
+
+Overfull \hbox (11.65793pt too wide) in paragraph at lines 217--218
+\T2A/cmr/m/n/10 GmbH) с прямыми приводами [[]23[]]. Для данного инструмента запретные зоны имеют структуру, характерную
+ []
+
+
+Overfull \hbox (15.21521pt too wide) in paragraph at lines 221--222
+[]\T2A/cmr/m/n/10 Программные ограничения по часовому углу с учетом механических упоров и требований к безопасности
+ []
+
+
+Overfull \hbox (0.49045pt too wide) in paragraph at lines 224--225
+\T2A/cmr/m/n/10 запретных зон особенно важен: планировщик наблюдений обязан заблаговременно прогнозировать момент
+ []
+
+
+Overfull \hbox (21.04465pt too wide) in paragraph at lines 229--230
+[]\T2A/cmr/m/n/10 Точность энкодера на оси телескопа непосредственно влияет на ширину программных буферов безопасности
+ []
+
+
+Overfull \hbox (27.44125pt too wide) in paragraph at lines 232--234
+\T2A/cmr/m/n/10 где $\OML/cmm/m/it/10 k$ \T2A/cmr/m/n/10 --- коэффициент безопасности. При наличии незамеченных низкочастотных систематических погрешностей
+ []
+
+[15]
+Overfull \hbox (7.51651pt too wide) in paragraph at lines 241--242
+\T2A/cmr/m/n/10 других систематических погрешностей, которые имеют принципиально различную физическую природу [[]18[]]
+ []
+
+
+Overfull \hbox (7.3338pt too wide) in paragraph at lines 243--244
+ []\T2A/cmr/bx/n/10 Индексные ошибки.[] \T2A/cmr/m/n/10 Нулевые поправки осей, термины IH и ID в TPoint, представляют собой постоянные
+ []
+
+
+Overfull \hbox (0.90701pt too wide) in paragraph at lines 243--244
+\T2A/cmr/m/n/10 смещения нулевых положений энкодеров относительно истинного нуля координатной системы монтировки.
+ []
+
+
+Overfull \hbox (7.98862pt too wide) in paragraph at lines 243--244
+\T2A/cmr/m/n/10 индексные ошибки дают одинаковый вклад во всех угловых положениях и могут быть устранены наведением
+ []
+
+
+Overfull \hbox (15.66974pt too wide) in paragraph at lines 259--260
+\T2A/cmr/m/n/10 монтировки от направления на полюс мира. В модели TPOINT вертикальная составляющая этого отклонения
+ []
+
+
+Overfull \hbox (11.36743pt too wide) in paragraph at lines 275--276
+\T2A/cmr/m/n/10 механической юстировкой монтировки. Хотя модель наведения способна оценить и частично компенсировать
  []
 
 [16]
-Overfull \hbox (22.14456pt too wide) in paragraph at lines 45--46
-[]\T2A/cmr/m/n/14.4 Таким образом, амплитуда углового измерения для $\OML/cmm/m/it/14.4 k$\T2A/cmr/m/n/14.4 -й гармоники составляет: 
- []
-
-
-Overfull \hbox (11.85237pt too wide) in paragraph at lines 51--52
-\T2A/cmr/m/n/14.4 относительное влияние на точность при фиксированной амплитуде деформации
- []
-
-
-Overfull \hbox (27.83243pt too wide) in paragraph at lines 51--52
-\T2A/cmr/m/n/14.4 --- при равных амплитудах первая гармоника (эксцентриситет) вносит наибольший
- []
-
-
-Overfull \hbox (20.04771pt too wide) in paragraph at lines 53--54
-[]\T2A/cmr/m/n/14.4 Для численной оценки амплитуды угловой ошибки эксцентриситета в работах
- []
-
-
-Overfull \hbox (95.8083pt too wide) in paragraph at lines 70--71
-\T2A/cmr/m/n/14.4 Роль таких эталонов традиционно выполняют полигональные зеркала с фотоэлектрическими
- []
-
-
-Overfull \hbox (24.94781pt too wide) in paragraph at lines 70--71
-\T2A/cmr/m/n/14.4 автоколлиматорами [[]4[]], [[]5[]], калиброванные поворотные столы [[]6[]], [[]7[]] или лазерные
- []
-
-[17]
-Overfull \hbox (24.43556pt too wide) in paragraph at lines 74--75
-[]\T2A/cmr/m/n/14.4 Число точек калибровки ограничено числом граней полигонального зеркала
- []
-
-
-Overfull \hbox (16.59587pt too wide) in paragraph at lines 81--83
-\T2A/cmr/m/n/14.4 обзор и анализ алгоритмов самокалибровки в оптических энкодерах представлен
- []
-
-
-Overfull \hbox (34.6928pt too wide) in paragraph at lines 84--85
-\T2A/cmr/m/n/14.4 самокалибровки с регулярной локализацией считывающих головок и в современной
- []
-
-
-Overfull \hbox (6.70013pt too wide) in paragraph at lines 84--85
-\T2A/cmr/m/n/14.4 трактовке рассматривается как частный случай метода усреднения при равном
- []
-
-
-Overfull \hbox (10.71721pt too wide) in paragraph at lines 86--87
-\T2A/cmr/m/n/14.4 равномерно по окружности, результирующий сигнал формируется усреднением
- []
-
-
-Overfull \hbox (25.17789pt too wide) in paragraph at lines 97--100
-[]\T2A/cmr/m/n/14.4 Например, в документации [[]17[]] Heidenhain описывает вычисление усредненной
- []
-
-
-Overfull \hbox (9.17209pt too wide) in paragraph at lines 97--100
-\T2A/cmr/m/n/14.4 явно указано, что при этом ѕустраняются все нечетные гармоники погрешности
- []
-
-
-Overfull \hbox (18.85863pt too wide) in paragraph at lines 97--100
-\T2A/cmr/m/n/14.4 нарезки, а также погрешности от эксцентриситета установкиї [][][]. Это объясняется
- []
-
-
-Overfull \hbox (4.43341pt too wide) in paragraph at lines 97--100
-\T2A/cmr/m/n/14.4 минимальной конфигурацией для устранения эксцентриситета установки. При
- []
-
-
-Overfull \hbox (23.82266pt too wide) in paragraph at lines 97--100
-\OML/cmm/m/it/14.4 N \OT1/cmr/m/n/14.4 = 2$ \T2A/cmr/m/n/14.4 из ряда Фурье исчезают все нечетные гармоники, включая доминирующую
- []
-
-[18]
-Overfull \hbox (16.8002pt too wide) in paragraph at lines 101--102
-\T2A/cmr/m/n/14.4 и наиболее строго обоснованным методом самокалибровки для многоголовочных
- []
-
-
-Overfull \hbox (20.80852pt too wide) in paragraph at lines 112--114
-\T2A/cmr/m/n/14.4 считывающих головок. Для получения калибровочной кривой отдельной головки
- []
-
-
-Overfull \hbox (4.39052pt too wide) in paragraph at lines 112--114
-\OML/cmm/m/it/14.4 j$ \T2A/cmr/m/n/14.4 сравнивают ее сигнал с усредненным сигналом ансамбля, т. е. рассматривают
- []
-
-
-Overfull \hbox (13.78201pt too wide) in paragraph at lines 120--121
-\T2A/cmr/m/n/14.4 отсутствуют гармоники, кратные $\OML/cmm/m/it/14.4 N[]$\T2A/cmr/m/n/14.4 , тогда как амплитуды остальных гармоник
- []
-
-
-Overfull \hbox (54.87773pt too wide) in paragraph at lines 122--123
-[]\T2A/cmr/m/n/14.4 Моделирование, проведенное в работе [[]13[]], показывает, что ансамбли считывающих
- []
-
-
-Overfull \hbox (10.51991pt too wide) in paragraph at lines 122--123
-\T2A/cmr/m/n/14.4 восстановление калибровочных кривых по сравнению с методами, основанными
- []
-
-
-Overfull \hbox (0.44128pt too wide) in paragraph at lines 126--127
-[]\T2A/cmr/m/n/14.4 Вместо большого числа равномерно распределенных головок используется
- []
-
-
-Overfull \hbox (45.17552pt too wide) in paragraph at lines 126--127
-\T2A/cmr/m/n/14.4 ограниченное число считывающих головок, расположенных в специально выбранных
- []
-
-
-Overfull \hbox (75.80847pt too wide) in paragraph at lines 126--127
-\T2A/cmr/m/n/14.4 угловых позициях, а итоговая калибровочная кривая формируется по последовательности
- []
-
-[19]
-Overfull \hbox (11.86713pt too wide) in paragraph at lines 139--140
-[]\T2A/cmr/m/n/14.4 На промежуточных стадиях такая обработка приводит к последовательному
- []
-
-
-Overfull \hbox (25.37543pt too wide) in paragraph at lines 139--140
-\T2A/cmr/m/n/14.4 исключению гармоник с номерами $\OT1/cmr/m/n/14.4 4$\T2A/cmr/m/n/14.4 , $\OT1/cmr/m/n/14.4 8$\T2A/cmr/m/n/14.4 , $\OT1/cmr/m/n/14.4 16$\T2A/cmr/m/n/14.4 , $\OT1/cmr/m/n/14.4 32$ \T2A/cmr/m/n/14.4 и т. д., что формально подтверждает
- []
-
-
-Overfull \hbox (17.75705pt too wide) in paragraph at lines 141--142
-\T2A/cmr/m/n/14.4 подавлению характеристических гармоник метод Масуды существенно искажает
- []
-
-
-Overfull \hbox (15.33527pt too wide) in paragraph at lines 143--145
- []\T2A/cmr/bx/n/14.4 Мультикомбинационный метод Ватанабэ[] \T2A/cmr/m/n/14.4 [[]15[]] развивает идеологию EDA,
- []
-
-
-Overfull \hbox (29.55438pt too wide) in paragraph at lines 143--145
-\T2A/cmr/m/n/14.4 но использует несколько независимых наборов считывающих головок с различным
- []
-
-
-Overfull \hbox (37.84862pt too wide) in paragraph at lines 146--147
-[]\T2A/cmr/m/n/14.4 Пусть $\OML/cmm/m/it/14.4 r$\T2A/cmr/m/n/14.4 -й набор содержит $\OML/cmm/m/it/14.4 N[]$ \T2A/cmr/m/n/14.4 головок, равномерно размещенных по окружности;
- []
-
-
-Overfull \hbox (3.46375pt too wide) in paragraph at lines 160--164
-\T2A/cmr/m/n/14.4 где $\OML/cmm/m/it/14.4 R$ \T2A/cmr/m/n/14.4 --- число независимых наборов. При выборе форматов наборов, например
- []
-
-
-Overfull \hbox (3.66948pt too wide) in paragraph at lines 160--164
-\OT1/cmr/m/n/14.4 2$\T2A/cmr/m/n/14.4 ^^U$\OT1/cmr/m/n/14.4 3$\T2A/cmr/m/n/14.4 ^^U$\OT1/cmr/m/n/14.4 5$ \T2A/cmr/m/n/14.4 или $\OT1/cmr/m/n/14.4 6$\T2A/cmr/m/n/14.4 ^^U$\OT1/cmr/m/n/14.4 7$ \T2A/cmr/m/n/14.4 и т. п., достигается подавление гармоник, кратных наименьшему
- []
-
-
-Overfull \hbox (52.42604pt too wide) in paragraph at lines 160--164
-\T2A/cmr/m/n/14.4 общему кратному соответствующих чисел (для формата $\OT1/cmr/m/n/14.4 2$\T2A/cmr/m/n/14.4 ^^U$\OT1/cmr/m/n/14.4 3$\T2A/cmr/m/n/14.4 ^^U$\OT1/cmr/m/n/14.4 5$ \T2A/cmr/m/n/14.4 ожидаемо подавляются
- []
-
-
-Overfull \hbox (12.98946pt too wide) in paragraph at lines 165--166
-\T2A/cmr/m/n/14.4 разной точностью: гармоники, присутствующие во всех наборах, детектируются
- []
-
-
-Overfull \hbox (4.21695pt too wide) in paragraph at lines 167--170
- []\T2A/cmr/bx/n/14.4 VEDA-метод (Virtual Equal Division Averaged)[] \T2A/cmr/m/n/14.4 [[]16[]] представляет собой
- []
-
-
-Overfull \hbox (10.74728pt too wide) in paragraph at lines 167--170
-\T2A/cmr/m/n/14.4 попытку воспроизвести эффект EDA без установки большого числа \T2A/cmr/m/it/14.4 физических
- []
-
-
-Overfull \hbox (13.00336pt too wide) in paragraph at lines 167--170
-\T2A/cmr/m/n/14.4 считывающих головок. Вместо реального равномерного ансамбля используются
- []
-
-[20]
-Overfull \hbox (10.14116pt too wide) in paragraph at lines 173--175
-\T2A/cmr/m/n/14.4 VEDA) демонстрируют худшие метрологические характеристики по сравнению
- []
-
-
-Overfull \hbox (51.25139pt too wide) in paragraph at lines 173--175
-\T2A/cmr/m/n/14.4 экономию по числу головок ценой усложнения алгоритмов и увеличения погрешности. 
- []
-
-
-Overfull \hbox (1.74007pt too wide) in paragraph at lines 182--183
-\T2A/cmr/m/n/14.4 небесной сфере (область значений координат монтировки), в которой телескоп
- []
-
-
-Overfull \hbox (22.23091pt too wide) in paragraph at lines 184--185
-[]\T2A/cmr/m/n/14.4 Совокупность запретных зон определяет \T2A/cmr/m/it/14.4 рабочее поле \T2A/cmr/m/n/14.4 инструмента и является
- []
-
-
-Overfull \hbox (48.57173pt too wide) in paragraph at lines 186--187
- []\T2A/cmr/bx/n/14.4 Механические запретные зоны.[] \T2A/cmr/m/n/14.4 Порождаются конечными угловыми пределами
- []
-
-
-Overfull \hbox (48.21146pt too wide) in paragraph at lines 186--187
-\T2A/cmr/m/n/14.4 осей монтировки: упорами, укладкой кабелей, корпусом купола, а также возможными
- []
-
-
-Overfull \hbox (21.37474pt too wide) in paragraph at lines 188--189
-[]\T2A/cmr/m/n/14.4 Для альт-азимутальной монтировки основная механическая запретная зона ---
- []
-
-
-Overfull \hbox (18.12204pt too wide) in paragraph at lines 188--189
-\T2A/cmr/m/n/14.4 вращать телескоп достаточно быстро (или достаточно точно), чтобы продолжать
- []
-
-
-Overfull \hbox (11.65868pt too wide) in paragraph at lines 188--189
-\T2A/cmr/m/n/14.4 отслеживать объект. Это приводит к появлению <<слепой зоны>>, которая обычно
- []
-
-
-Overfull \hbox (31.84904pt too wide) in paragraph at lines 190--191
- []\T2A/cmr/bx/n/14.4 Астрофизические и атмосферные ограничения.[] \T2A/cmr/m/n/14.4 Включают максимальную
- []
-
-
-Overfull \hbox (18.12938pt too wide) in paragraph at lines 190--191
-\T2A/cmr/m/n/14.4 горизонтные маски рельефа и горизонта. Они не связаны с механикой напрямую,
- []
-
-
-Overfull \hbox (2.4297pt too wide) in paragraph at lines 192--193
- []\T2A/cmr/bx/n/14.4 Зависимые ограничения двухосных монтировок.[] \T2A/cmr/m/n/14.4 Класс, характерный
- []
-
-
-Overfull \hbox (0.13466pt too wide) in paragraph at lines 192--193
-\T2A/cmr/m/n/14.4 GEM достижимость точки с данными координатами зависит от того, на каком
- []
-
-[21]
-Overfull \hbox (10.96962pt too wide) in paragraph at lines 196--197
-\T2A/cmr/m/it/14.4 меридианный переворот \T2A/cmr/m/n/14.4 (\T2A/cmr/m/it/14.4 meridian flip\T2A/cmr/m/n/14.4 ) --- переброс трубы на противоположную
- []
-
-
-Overfull \hbox (20.58809pt too wide) in paragraph at lines 196--197
-\T2A/cmr/m/n/14.4 сторону с поворотом оси склонений на $\OT1/cmr/m/n/14.4 180[]$\T2A/cmr/m/n/14.4 . В окрестности меридиана существует
- []
-
-
-Overfull \hbox (0.61902pt too wide) in paragraph at lines 200--201
-\T2A/cmr/m/n/14.4 МГУ (плато Шатджатмаз, высота 2100 м, $\OT1/cmr/m/n/14.4 43[]44[]$ \T2A/cmr/m/n/14.4 с. ш., $\OT1/cmr/m/n/14.4 42[]40[]$ \T2A/cmr/m/n/14.4 в. д.) располагает
- []
-
-
-Overfull \hbox (23.31227pt too wide) in paragraph at lines 202--203
-[]\T2A/cmr/bx/n/14.4 2.5-метровый телескоп SAI2.5 \T2A/cmr/m/n/14.4 оснащен \T2A/cmr/m/it/14.4 альт-азимутальной \T2A/cmr/m/n/14.4 монтировкой
- []
-
-
-Overfull \hbox (48.58488pt too wide) in paragraph at lines 209--210
-\T2A/cmr/m/n/14.4 допустимая максимальная скорость привода по азимуту, определяется соотношением: 
- []
-
-
-Overfull \hbox (35.35152pt too wide) in paragraph at lines 215--216
-[]\T2A/cmr/m/n/14.4 где $\OML/cmm/m/it/14.4 ! \OT1/cmr/m/n/14.4 = 15\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 04[]\OML/cmm/m/it/14.4 =s$ \T2A/cmr/m/n/14.4 --- угловая скорость суточного вращения, $[]$ --- максимальная
- []
-
-
-Overfull \hbox (3.27351pt too wide) in paragraph at lines 215--216
-\T2A/cmr/m/n/14.4 угловая скорость по азимуту, обеспечиваемая приводом. Слежение через зенит
- []
-
-[22]
-Overfull \hbox (45.84854pt too wide) in paragraph at lines 229--230
-\T2A/cmr/m/n/14.4 погрешность измерения углового положения оси составляет $\OML/cmm/m/it/14.4 ^^[[]$\T2A/cmr/m/n/14.4 . Тогда минимальный
- []
-
-
-Overfull \hbox (9.3642pt too wide) in paragraph at lines 229--230
-\T2A/cmr/m/n/14.4 буфер, гарантирующий, что монтировка не войдет в запретную зону вследствие
- []
-
-
-Overfull \hbox (16.80983pt too wide) in paragraph at lines 232--234
-\T2A/cmr/m/n/14.4 где $\OML/cmm/m/it/14.4 k$ \T2A/cmr/m/n/14.4 --- коэффициент безопасности. При наличии незамеченных низкочастотных
- []
-
-
-Overfull \hbox (0.32993pt too wide) in paragraph at lines 232--234
-\T2A/cmr/m/n/14.4 систематических погрешностей (эксцентриситет установки, биение диска) $\OML/cmm/m/it/14.4 ^^[[]$
- []
-
-
-Overfull \hbox (1.9443pt too wide) in paragraph at lines 232--234
-\T2A/cmr/m/n/14.4 может достигать десятков угловых секунд, что вынуждает увеличивать буфер
- []
-
-
-Overfull \hbox (18.5175pt too wide) in paragraph at lines 232--234
-\T2A/cmr/m/n/14.4 и тем самым сокращать доступную область неба. Таким образом самокалибровка
- []
-
-
-Overfull \hbox (8.52974pt too wide) in paragraph at lines 232--234
-\T2A/cmr/m/n/14.4 снижение $\OML/cmm/m/it/14.4 ^^[[]$ \T2A/cmr/m/n/14.4 позволяет уменьшить буферы безопасности и расширить рабочее
- []
-
-
-Overfull \hbox (59.44572pt too wide) in paragraph at lines 243--244
-\T2A/cmr/m/n/14.4 представляют собой постоянные смещения нулевых положений энкодеров относительно
- []
-
-
-Overfull \hbox (5.7648pt too wide) in paragraph at lines 243--244
-\T2A/cmr/m/n/14.4 истинного нуля координатной системы монтировки. Они возникают, например,
- []
-
-[23]
-Overfull \hbox (91.05994pt too wide) in paragraph at lines 245--246
-\T2A/cmr/m/n/14.4 реальными механическими отклонениями конструкции. В частности, неперпендикулярность
- []
-
-
-Overfull \hbox (3.08348pt too wide) in paragraph at lines 251--252
-\T2A/cmr/m/n/14.4 (терм CH) создает ошибку наведения, которую невозможно устранить простой
- []
-
-
-Overfull \hbox (23.09027pt too wide) in paragraph at lines 257--258
-[]\T2A/cmr/m/n/14.4 Эти ошибки не связаны с энкодером: они возникают в механической структуре
- []
-
-
-Overfull \hbox (26.13106pt too wide) in paragraph at lines 257--258
-\T2A/cmr/m/n/14.4 монтировки и при фиксированном состоянии инструмента остаются стабильными. 
- []
-
-
-Overfull \hbox (6.84424pt too wide) in paragraph at lines 259--260
- []\T2A/cmr/bx/n/14.4 Ошибки ориентации полярной оси.[] \T2A/cmr/m/n/14.4 Термы ME и MA отражают реальное
- []
-
-
-Overfull \hbox (19.09326pt too wide) in paragraph at lines 275--276
-\T2A/cmr/m/n/14.4 случае должны устраняться механической юстировкой монтировки. Хотя модель
- []
-
-
-Overfull \hbox (87.23564pt too wide) in paragraph at lines 275--276
-\T2A/cmr/m/n/14.4 наведения способна оценить и частично компенсировать их программно, предпочтительным
- []
-
-
-Overfull \hbox (24.22643pt too wide) in paragraph at lines 275--276
-\T2A/cmr/m/n/14.4 является уменьшение коэффициентов ME и MA именно механической настройкой
- []
-
-[24]
-Overfull \hbox (10.81032pt too wide) in paragraph at lines 283--284
-[]\T2A/cmr/m/n/14.4 Гнутие является типичным примером погрешности, \T2A/cmr/m/it/14.4 физически независимой
- []
-
-
-Overfull \hbox (3.08623pt too wide) in paragraph at lines 283--284
-\T2A/cmr/m/n/14.4 рамках модели наведения гнутие входит в ту же линейную задачу наименьших
- []
-
-
-Overfull \hbox (2.8914pt too wide) in paragraph at lines 288--289
-[]\T2A/cmr/m/n/14.4 Процедура построения модели, реализованная в пакете TPoint [[]18[]], состоит
- []
-
-
-Overfull \hbox (62.12584pt too wide) in paragraph at lines 290--291
-[]\T2A/cmr/m/n/14.4 Оператор проводит сеанс наблюдений эталонных звезд, равномерно распределенных
- []
-
-
-Overfull \hbox (13.41006pt too wide) in paragraph at lines 290--291
-\T2A/cmr/m/n/14.4 наблюдения регистрируется пара данных: \T2A/cmr/m/it/14.4 истинное положение \T2A/cmr/m/n/14.4 звезды (прямое
- []
-
-
-Overfull \hbox (6.29974pt too wide) in paragraph at lines 290--291
-\T2A/cmr/m/n/14.4 восхождение и склонение из каталога, приведенные к эпохе с учетом прецессии,
- []
-
-
-Overfull \hbox (11.10551pt too wide) in paragraph at lines 290--291
-\T2A/cmr/m/n/14.4 нутации, аберрации и рефракции) и \T2A/cmr/m/it/14.4 механические показания \T2A/cmr/m/n/14.4 угловых датчиков
+Overfull \hbox (8.59033pt too wide) in paragraph at lines 294--296
+\T2A/cmr/m/n/10 для каждой звезды является суммой всех погрешностей наведения в данной точке неба. Модель наведения ---
  []
 
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 299.
 (/home/ilia/.miktex/texmfs/install/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (6.69853pt too wide) in paragraph at lines 298--300
-\T2A/cmr/m/n/14.4 где $\OT1/cmr/bx/n/14.4 T[]\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 t; ^^N\OT1/cmr/m/n/14.4 )$ \T2A/cmr/m/n/14.4 --- базисные функции, соответствующие известным геометрическим
+Overfull \hbox (15.4047pt too wide) in paragraph at lines 298--300
+\T2A/cmr/m/n/10 где $\OT1/cmr/bx/n/10 T[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t; ^^N\OT1/cmr/m/n/10 )$ \T2A/cmr/m/n/10 --- базисные функции, соответствующие известным геометрическим и механическим погрешностям
  []
 
 
-Overfull \hbox (39.225pt too wide) in paragraph at lines 298--300
-\T2A/cmr/m/n/14.4 и механическим погрешностям (IH, ID, NP, CH, ME, MA, TF и др.), а коэффициенты
+Overfull \hbox (3.27011pt too wide) in paragraph at lines 301--302
+[]\T2A/cmr/m/n/10 В этом смысле модель наведения выполняет функцию глобальной калибровки всей системы телескопа ---
  []
 
 
-Overfull \hbox (54.223pt too wide) in paragraph at lines 298--300
-\OML/cmm/m/it/14.4 c[]$ \T2A/cmr/m/n/14.4 определяются методом наименьших квадратов. Стандартом является шестичленная
+Overfull \hbox (2.39375pt too wide) in paragraph at lines 303--304
+[]\T2A/cmr/m/n/10 Важно отметить, что модель наведения не устраняет \T2A/cmr/m/it/10 нестационарные \T2A/cmr/m/n/10 погрешности --- тепловые дрейфы
  []
 
 
-Overfull \hbox (32.21533pt too wide) in paragraph at lines 298--300
-\T2A/cmr/m/n/14.4 прочие эффекты по мере выявления систематических остатков на диагностических
+Overfull \hbox (3.13235pt too wide) in paragraph at lines 309--310
+[]\T2A/cmr/m/n/10 При регистрации изображения фотоприемной матрицей непрерывный оптический сигнал преобразуется
  []
 
 
-Overfull \hbox (21.57896pt too wide) in paragraph at lines 301--302
-[]\T2A/cmr/m/n/14.4 В этом смысле модель наведения выполняет функцию глобальной калибровки
+Overfull \hbox (7.2851pt too wide) in paragraph at lines 309--310
+\T2A/cmr/m/n/10 в дискретную последовательность отсчетов. Каждый пиксель линейки усредняет световой поток, падающий
  []
 
 
-Overfull \hbox (24.41718pt too wide) in paragraph at lines 303--304
-\T2A/cmtt/m/n/14.4 GHYST \T2A/cmr/m/n/14.4 для диагностики гистерезиса и \T2A/cmtt/m/n/14.4 GAM \T2A/cmr/m/n/14.4 для мониторинга изменений ориентации
+Overfull \hbox (15.47754pt too wide) in paragraph at lines 309--310
+\T2A/cmr/m/n/10 на его площадку, и выдает одно числовое значение. Пространственный шаг такой выборки равен физическому
  []
 
 
-Overfull \hbox (0.4214pt too wide) in paragraph at lines 303--304
-\T2A/cmr/m/n/14.4 полярной оси; обнаружение нестационарности требует повторной калибровки. 
- []
-
-[25]
-Overfull \hbox (47.86356pt too wide) in paragraph at lines 309--310
-[]\T2A/cmr/m/n/14.4 При регистрации изображения фотоприемной матрицей непрерывный оптический
+Overfull \hbox (17.23636pt too wide) in paragraph at lines 311--312
+\T2A/cmr/m/n/10 дискретным отсчетам достаточно, чтобы частота дискретизации не менее чем вдвое превышала максимальную
  []
 
 
-Overfull \hbox (0.98468pt too wide) in paragraph at lines 311--312
-\T2A/cmr/m/n/14.4 непрерывного сигнала по его дискретным отсчетам достаточно, чтобы частота
+Overfull \hbox (2.10117pt too wide) in paragraph at lines 311--312
+\T2A/cmr/m/n/10 некоторой пространственной частоты, ^^V то соседние отсчеты связаны между собой аналитическим образом
+ []
+
+[17]
+Overfull \hbox (5.85638pt too wide) in paragraph at lines 361--364
+[]\T2A/cmr/m/n/10 Линейная интерполяция нулей функции в точке, где производная меняет знак между двумя соседними
+ []
+
+[18]
+Overfull \hbox (8.64752pt too wide) in paragraph at lines 407--413
+[]\T2A/cmr/m/n/10 Изображение перед детектированием увеличивается по числу пикселей в $\OML/cmm/m/it/10 M$ \T2A/cmr/m/n/10 раз с помощью интерполяции
  []
 
 
-Overfull \hbox (8.60576pt too wide) in paragraph at lines 311--312
-\T2A/cmr/m/n/14.4 дискретизации не менее чем вдвое превышала максимальную частоту в спектре
+Overfull \hbox (5.20601pt too wide) in paragraph at lines 407--413
+\T2A/cmr/m/n/10 пикселей возрастает как $\OML/cmm/m/it/10 M[]$\T2A/cmr/m/n/10 , что существенно увеличивает вычислительную нагрузку. Поэтому апсемплинг
  []
 
 
-Overfull \hbox (27.05627pt too wide) in paragraph at lines 311--312
-\T2A/cmr/m/n/14.4 сигнал является полосоограниченным ^^V то есть его спектр не содержит компонент
+Overfull \hbox (14.12587pt too wide) in paragraph at lines 414--414
+[]\T2A/cmr/bx/n/12 Ограничения на кодовую последовательность псевдослучайного оптического
  []
 
 
-Overfull \hbox (25.74976pt too wide) in paragraph at lines 311--312
-\T2A/cmr/m/n/14.4 пикселями теоретически полностью определяется всей совокупностью имеющихся
+Overfull \hbox (2.70422pt too wide) in paragraph at lines 419--420
+\T2A/cmr/m/n/10 однако последовательность бит образует подпоследовательность бинарной \T2A/cmr/m/it/10 последовательности де Брейна[][][]
  []
 
 
-Overfull \hbox (51.44962pt too wide) in paragraph at lines 313--314
-\T2A/cmr/m/n/14.4 вычислительно избыточно и нецелесообразно. Вместо этого используется информация
+Overfull \hbox (1.77173pt too wide) in paragraph at lines 423--424
+\T2A/cmr/m/n/10 последовательностей при заданных значениях длины кодового слова $\OML/cmm/m/it/10 n$ \T2A/cmr/m/n/10 и полной длины последовательности
  []
 
 
-Overfull \hbox (24.21156pt too wide) in paragraph at lines 313--314
-\T2A/cmr/m/n/14.4 которая достаточно полно характеризуется небольшим числом соседних отсчетов.
+Overfull \hbox (15.35477pt too wide) in paragraph at lines 423--424
+\OML/cmm/m/it/10 N$\T2A/cmr/m/n/10 . Критерием выбора служила минимизация максимальной длины однородного участка последовательности,
  []
 
-
-Overfull \hbox (0.9941pt too wide) in paragraph at lines 313--314
-\T2A/cmr/m/n/14.4 Их совокупность несет информацию о субпиксельном положении особенности.
+[19]
+Overfull \hbox (30.09799pt too wide) in paragraph at lines 449--450
+[]\T2A/cmr/m/n/10 Полное число бит последовательности, являющейся подпоследовательностью де Брейна, также удовлетворяет
  []
 
-
-Overfull \hbox (23.46324pt too wide) in paragraph at lines 313--314
-\T2A/cmr/m/n/14.4 Различные субпиксельные методы отличаются тем, каким образом они извлекают
- []
-
-
-Overfull \hbox (2.52657pt too wide) in paragraph at lines 315--316
-\T2A/cmr/m/n/14.4 в сигнале. При отношении сигнал/шум, типичном для ПЗС-матриц в условиях
- []
-
-[26]
-Overfull \hbox (25.75787pt too wide) in paragraph at lines 344--345
-[]\T2A/cmr/m/n/14.4 Метод широко используется при детектировании фронтов в задачах обработки
- []
-
-
-Overfull \hbox (25.7929pt too wide) in paragraph at lines 358--360
-\T2A/cmr/m/n/14.4 Оба фильтра выполняют одновременно сглаживание и дифференцирование. 
- []
-
-
-Overfull \hbox (3.30473pt too wide) in paragraph at lines 361--364
-[]\T2A/cmr/m/n/14.4 Линейная интерполяция нулей функции в точке, где производная меняет
- []
-
-[27]
-Overfull \hbox (9.37677pt too wide) in paragraph at lines 374--374
-[]\T2A/cmr/bx/n/14.4 Метод нулевого перехода второй производной (метод Стегера)
- []
-
-
-Overfull \hbox (61.18309pt too wide) in paragraph at lines 383--385
-[]\T2A/cmr/m/n/14.4 Субпиксельная позиция нулевого перехода определяется линейной интерполяцией
- []
-
-
-Overfull \hbox (33.39903pt too wide) in paragraph at lines 395--397
-[]\T2A/cmr/m/n/14.4 Оператор Кэнни определяет позицию фронта как максимум нормы градиента
- []
-
-
-Overfull \hbox (5.02533pt too wide) in paragraph at lines 398--399
-[]\T2A/cmr/m/n/14.4 Коррекция квадратичной интерполяцией нормы градиента в трех точках
- []
-
-
-Overfull \hbox (22.29854pt too wide) in paragraph at lines 407--413
-\OML/cmm/m/it/14.4 M$ \T2A/cmr/m/n/14.4 раз с помощью интерполяции (билинейной, бикубической, sinc-интерполяции).
- []
-
-
-Overfull \hbox (27.6363pt too wide) in paragraph at lines 407--413
-\T2A/cmr/m/n/14.4 сетке, обеспечивая субпиксельную точность относительно исходного изображения.
- []
-
-
-Overfull \hbox (31.14821pt too wide) in paragraph at lines 407--413
-\T2A/cmr/m/n/14.4 Число пикселей возрастает как $\OML/cmm/m/it/14.4 M[]$\T2A/cmr/m/n/14.4 , что существенно увеличивает вычислительную
- []
-
-
-Overfull \hbox (98.0875pt too wide) in paragraph at lines 414--414
-[]\T2A/cmr/bx/n/17.28 Ограничения на кодовую последовательность псевдослучайного
- []
-
-
-Overfull \hbox (74.46762pt too wide) in paragraph at lines 419--420
-\T2A/cmr/m/n/14.4 имеет четкой структуры, однако последовательность бит образует подпоследовательность
- []
-
-[28]
-Overfull \hbox (15.65927pt too wide) in paragraph at lines 421--422
-[]\T2A/cmr/m/n/14.4 Подпоследовательность в том смысле, что такая кодовая последовательность
- []
-
-
-Overfull \hbox (25.00932pt too wide) in paragraph at lines 423--424
-[]\T2A/cmr/m/n/14.4 Для повышения надежности распознавания кодовых слов выполнялся перебор
- []
-
-
-Overfull \hbox (26.3148pt too wide) in paragraph at lines 423--424
-\T2A/cmr/m/n/14.4 вариантов кодовых последовательностей при заданных значениях длины кодового
- []
-
-
-Overfull \hbox (0.81325pt too wide) in paragraph at lines 423--424
-\T2A/cmr/m/n/14.4 минимизация максимальной длины однородного участка последовательности,
- []
-
-
-Overfull \hbox (8.64398pt too wide) in paragraph at lines 425--426
-[]\T2A/cmr/m/n/14.4 Основными конструктивными параметрами кодового диска являются число
- []
-
-[29]
-Overfull \hbox (18.71513pt too wide) in paragraph at lines 445--446
-[]\T2A/cmr/m/n/14.4 Поскольку геометрия фиксирована, пусть поле зрения матрицы определяется
- []
-
-
-Overfull \hbox (22.84814pt too wide) in paragraph at lines 445--446
-\T2A/cmr/m/n/14.4 по длине $\OML/cmm/m/it/14.4 L \OMS/cmsy/m/n/14.4 ^^\ \OT1/cmr/m/n/14.4 2\OML/cmm/m/it/14.4 ^^YR$ \T2A/cmr/m/n/14.4 обозримого участка растра. Таким образом, пропорционально,
- []
-
-
-Overfull \hbox (17.76924pt too wide) in paragraph at lines 449--450
-[]\T2A/cmr/m/n/14.4 Полное число бит последовательности, являющейся подпоследовательностью
- []
-
-<images/РѕС†РµРЅРєР° РЅР° С€РёСЂРёРЅСѓ РґРѕСЂРѕРєРё.pdf, id=484, 202.7575pt x 116.435pt>
+<images/РѕС†РµРЅРєР° РЅР° С€РёСЂРёРЅСѓ РґРѕСЂРѕРєРё.pdf, id=450, 202.7575pt x 116.435pt>
 File: images/РѕС†РµРЅРєР° РЅР° С€РёСЂРёРЅСѓ РґРѕСЂРѕРєРё.pdf Graphic file (type pdf)
 <use images/РѕС†РµРЅРєР° РЅР° С€РёСЂРёРЅСѓ РґРѕСЂРѕРєРё.pdf>
 Package pdftex.def Info: images/РѕС†РµРЅРєР° РЅР° С€РёСЂРёРЅСѓ РґРѕСЂРѕРєРё.pdf  used on input line 469.
 (pdftex.def)             Requested size: 314.40001pt x 180.55232pt.
-[30 <./images/РѕС†РµРЅРєР° РЅР° С€РёСЂРёРЅСѓ РґРѕСЂРѕРєРё.pdf>]
-Overfull \hbox (20.7829pt too wide) in paragraph at lines 491--492
- []\T2A/cmr/bx/n/14.4 Дисторсия и нелинейность увеличения.[] \T2A/cmr/m/n/14.4 Реальная линза имеет переменное
+
+Overfull \hbox (1.3184pt too wide) in paragraph at lines 466--472
+[]\T2A/cmr/m/n/10 Рассмотрим случай, когда линейка ориентирована под малым углом $\OML/cmm/m/it/10 $ \T2A/cmr/m/n/10 к касательной середины дорожки
+ []
+
+[20 <./images/РѕС†РµРЅРєР° РЅР° С€РёСЂРёРЅСѓ РґРѕСЂРѕРєРё.pdf>]
+Overfull \hbox (30.40675pt too wide) in paragraph at lines 494--495
+ []\T2A/cmr/bx/n/10 Аберрации и конечная глубина резкости.[] \T2A/cmr/m/n/10 Дефокусировка и аберрации приводят к уширению изображения
  []
 
 
-Overfull \hbox (16.78716pt too wide) in paragraph at lines 491--492
-\T2A/cmr/m/n/14.4 увеличение по полю зрения. В результате шаг пикселя, приведенный к плоскости
- []
-
-
-Overfull \hbox (3.65482pt too wide) in paragraph at lines 491--492
-\T2A/cmr/m/n/14.4 растра, не одинаковпо всей длине активной зоны. Это вносит систематическую
- []
-
-
-Overfull \hbox (39.8326pt too wide) in paragraph at lines 494--495
-\T2A/cmr/m/n/14.4 размер пятна рассеяния превышает размеры пикселя, пространственное разрешение
- []
-
-
-Overfull \hbox (3.95114pt too wide) in paragraph at lines 497--498
- []\T2A/cmr/bx/n/14.4 Непараллельность оси линзы и плоскости растра.[] \T2A/cmr/m/n/14.4 Наклон оптической
+Overfull \hbox (13.67242pt too wide) in paragraph at lines 494--495
+\T2A/cmr/m/n/10 бита на матрице. Если эффективный размер пятна рассеяния превышает размеры пикселя, пространственное
  []
 
 )
-Overfull \hbox (54.98682pt too wide) in paragraph at lines 500--62
- []\T2A/cmr/bx/n/14.4 Практический вывод.[] \T2A/cmr/m/n/14.4 Все перечисленные выше условия являются \T2A/cmr/m/it/14.4 необходимыми\T2A/cmr/m/n/14.4 ,
+Overfull \hbox (35.2875pt too wide) in paragraph at lines 500--62
+\T2A/cmr/m/n/10 зрения сверх теоретического минимума, окончательное определение характеристик проводится экспериментально. 
  []
 
 (applying.tex
-Overfull \hbox (58.80931pt too wide) in paragraph at lines 1--1
-[]\T2A/cmr/bx/n/17.28 Анализ предметной области и формирование литературной
+Overfull \hbox (18.1287pt too wide) in paragraph at lines 3--4
+[]\T2A/cmr/m/n/10 На начальном этапе работы был проведен систематический поиск и анализ научно-технической литературы
  []
 
 
-Overfull \hbox (0.2346pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 научно-технической литературы по тематике датчиков угловых перемещений,
+Overfull \hbox (2.10117pt too wide) in paragraph at lines 3--4
+\T2A/cmr/m/n/10 по тематике датчиков угловых перемещений, применяемых в высокоточных оптических и астрономических
  []
 
 
-Overfull \hbox (21.38pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 применяемых в высокоточных оптических и астрономических системах. Изучены
+Overfull \hbox (19.5969pt too wide) in paragraph at lines 3--4
+\T2A/cmr/m/n/10 проведенного анализа сформирована теоретическая база работы и составлен литературный обзор, включенный
  []
 
 
-Overfull \hbox (54.11292pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 основные физические методы измерения угла ^^V оптический, магнитный, индуктивный
- []
-
-[31]
-Overfull \hbox (1.3856pt too wide) in paragraph at lines 6--7
-[]\T2A/cmr/m/n/14.4 В рамках научно[]технического сотрудничества был визит в АО ѕМосткомї
+Overfull \hbox (3.35086pt too wide) in paragraph at lines 6--7
+\T2A/cmr/m/n/10 исходный код действующей системы считывания и обработки сигнала энкодера, а также показаны реальная
  []
 
 
-Overfull \hbox (9.18591pt too wide) in paragraph at lines 6--7
-\T2A/cmr/m/n/14.4 получены дополнительные материалы по тематике исследования, предоставлен
+Overfull \hbox (5.07266pt too wide) in paragraph at lines 8--9
+\T2A/cmr/m/n/10 Основное внимание было сосредоточено на алгоритмах самокомпенсации и самокоррекции систематических
  []
 
 
-Overfull \hbox (10.70204pt too wide) in paragraph at lines 6--7
-\T2A/cmr/m/n/14.4 исходный код действующей системы считывания и обработки сигнала энкодера,
+Overfull \hbox (13.44916pt too wide) in paragraph at lines 8--9
+\T2A/cmr/m/n/10 ошибок энкодера с учетом условий работы в составе астрономических телескопов. К ключевым ограничениям
  []
 
 
-Overfull \hbox (32.03265pt too wide) in paragraph at lines 8--9
-[]\T2A/cmr/m/n/14.4 После совместного обсуждения и анализа этих материалов исходная постановка
+Overfull \hbox (7.98862pt too wide) in paragraph at lines 8--9
+\T2A/cmr/m/n/10 относятся высокие требования к точности позиционирования (от единиц до десятых долей угловой секунды),
  []
 
 
-Overfull \hbox (0.23688pt too wide) in paragraph at lines 8--9
-\T2A/cmr/m/n/14.4 задачи была уточнена. Основное внимание было сосредоточено на алгоритмах
+Overfull \hbox (2.85464pt too wide) in paragraph at lines 12--13
+[]\T2A/cmr/m/n/10 При разработке прототипа энкодера для телескопа АЗТ-6 в данной работе действует ряд специфических
  []
 
 
-Overfull \hbox (7.0881pt too wide) in paragraph at lines 8--9
-\T2A/cmr/m/n/14.4 самокомпенсации и самокоррекции систематических ошибок энкодера с учетом
+Overfull \hbox (26.30603pt too wide) in paragraph at lines 16--17
+[]\T2A/cmr/bx/n/10 Компактность конструкции, расположения датчика на осях монтировки АЗТ-6\T2A/cmr/m/n/10 . Максимальные
  []
 
 
-Overfull \hbox (30.88622pt too wide) in paragraph at lines 8--9
-\T2A/cmr/m/n/14.4 условий работы в составе астрономических телескопов. К ключевым ограничениям
+Overfull \hbox (12.89293pt too wide) in paragraph at lines 17--18
+[]\T2A/cmr/bx/n/10 Конструкция считывающей головки энкодера[]\T2A/cmr/m/n/10 . С учетом []п. 1[] было принято решение использовать
  []
 
 
-Overfull \hbox (45.73337pt too wide) in paragraph at lines 8--9
-\T2A/cmr/m/n/14.4 из[]за чего нельзя напрямую применять алгоритмы, рассчитанные на полнооборотные
+Overfull \hbox (9.88318pt too wide) in paragraph at lines 17--18
+\T2A/cmr/m/n/10 линзу для проецирования растра на ПЗС-матрицу, что позволяет эффективно увеличить используемую
+ []
+
+[21]
+Overfull \hbox (12.61711pt too wide) in paragraph at lines 54--55
+[]\T2A/cmr/m/n/10 При заданных $\OML/cmm/m/it/10 k$\T2A/cmr/m/n/10 , $\OML/cmm/m/it/10 L$\T2A/cmr/m/n/10 , $\OML/cmm/m/it/10 w$\T2A/cmr/m/n/10 , $\OML/cmm/m/it/10 R$ \T2A/cmr/m/n/10 в поле зрения матрицы (в пределах зоны умеренной дисторсии и виньетирования)
  []
 
 
-Overfull \hbox (14.94252pt too wide) in paragraph at lines 15--16
-[]\T2A/cmr/bx/n/14.4 Метод изготовления растра[]\T2A/cmr/m/n/14.4 . Характерная точность позиционирования
+Overfull \hbox (16.54208pt too wide) in paragraph at lines 61--62
+\T2A/cmr/m/n/10 требований к допустимым положениям считывающих головок и конструктивных ограничений, обусловленных
  []
 
 
-Overfull \hbox (67.863pt too wide) in paragraph at lines 16--17
-\T2A/cmr/bx/n/14.4 монтировки АЗТ-6\T2A/cmr/m/n/14.4 . Максимальные наружные габариты растра существующими
+Overfull \hbox (9.09021pt too wide) in paragraph at lines 65--66
+\T2A/cmr/m/n/10 компонентов для изготовления прототипа. Принципиальным ограничением являлось то, что измерительный
  []
 
 
-Overfull \hbox (3.89302pt too wide) in paragraph at lines 16--17
-\T2A/cmr/m/n/14.4 посадочными диаметрами и монтажными зазорами телескопа, что также
+Overfull \hbox (6.31311pt too wide) in paragraph at lines 67--68
+\T2A/cmr/m/n/10 результатам испытаний (см. []Приложение 1[]) определен масштаб кодового растра, воспроизводимый методом
+ []
+
+[22]
+Overfull \hbox (17.98984pt too wide) in paragraph at lines 75--76
+[]\T2A/cmr/m/n/10 Для улучшения качества была сделана оценка параметров дисторсии и коррекция структуры считываемого
  []
 
 
-Overfull \hbox (43.30653pt too wide) in paragraph at lines 17--18
-\T2A/cmr/m/n/14.4 длину матрицы ценой внесения оптических искажений. Основным требованием
+Overfull \hbox (10.01956pt too wide) in paragraph at lines 110--111
+[]\T2A/cmr/m/n/10 При численной реализации выражение под корнем ограничивается снизу нулем, что исключает появление
  []
 
 
-Overfull \hbox (17.38452pt too wide) in paragraph at lines 17--18
-\T2A/cmr/m/n/14.4 ПЗС на один бит растра, необходимого для последующего анализа сигнала. 
- []
-
-[32]
-Overfull \hbox (3.68805pt too wide) in paragraph at lines 44--45
-[]\T2A/cmr/m/n/14.4 Положим, что допустимое отклонение матрицы от нормального положения
+Overfull \hbox (16.92163pt too wide) in paragraph at lines 110--111
+\T2A/cmr/m/n/10 комплексных значений из-за накопления ошибок округления. Область определения обратного преобразования
  []
 
 
-Overfull \hbox (11.15837pt too wide) in paragraph at lines 54--55
-[]\T2A/cmr/m/n/14.4 При заданных $\OML/cmm/m/it/14.4 k$\T2A/cmr/m/n/14.4 , $\OML/cmm/m/it/14.4 L$\T2A/cmr/m/n/14.4 , $\OML/cmm/m/it/14.4 w$\T2A/cmr/m/n/14.4 , $\OML/cmm/m/it/14.4 R$ \T2A/cmr/m/n/14.4 в поле зрения матрицы (в пределах зоны умеренной
+Overfull \hbox (22.13782pt too wide) in paragraph at lines 122--123
+[]\T2A/cmr/m/n/10 Пусть $\OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 x[]\OMS/cmsy/m/n/10 g[]$ \T2A/cmr/m/n/10 --- координаты найденных фронтов зебры в пиксельных координатах сенсора, определенные
  []
 
 
-Overfull \hbox (4.84532pt too wide) in paragraph at lines 56--57
-[]\T2A/cmr/m/n/14.4 Поскольку $\OT1/cmr/m/n/14.4 2[] \OML/cmm/m/it/14.4 < \OT1/cmr/m/n/14.4 412 \OML/cmm/m/it/14.4 < \OT1/cmr/m/n/14.4 2[]$\T2A/cmr/m/n/14.4 , в качестве используемого значения было выбрано
+Overfull \hbox (5.04297pt too wide) in paragraph at lines 128--129
+[]\T2A/cmr/m/n/10 Для заданного пробного значения $\OML/cmm/m/it/10 k$ \T2A/cmr/m/n/10 вычисляются соответствующие неискаженные координаты фронтов: 
+ []
+
+[23]
+Overfull \hbox (26.59885pt too wide) in paragraph at lines 148--149
+[]\T2A/cmr/m/n/10 Коэффициент дисторсии определяется минимизацией нормированной дисперсии межфронтовых расстояний: 
  []
 
 
-Overfull \hbox (87.72409pt too wide) in paragraph at lines 57--57
-[]\T2A/cmr/bx/n/17.28 Проектирование прототипа и анализ технических ограничений 
+Overfull \hbox (38.12381pt too wide) in paragraph at lines 155--156
+[]\T2A/cmr/m/n/10 Такой функционал не зависит от абсолютного масштаба полос и характеризует только степень неравномерности
  []
 
 
-Overfull \hbox (78.11528pt too wide) in paragraph at lines 61--62
-[]\T2A/cmr/m/n/14.4 В качестве объекта применения разрабатываемого прототипа выбран астрономический
+Overfull \hbox (0.85841pt too wide) in paragraph at lines 163--164
+ []\T2A/cmr/bx/n/10 Две постановки задачи восстановления.[] \T2A/cmr/m/n/10 Задача восстановления может быть сформулирована двумя
  []
 
 
-Overfull \hbox (33.36874pt too wide) in paragraph at lines 61--62
-\T2A/cmr/m/n/14.4 телескоп АЗТ-6. На данном этапе было выполнено моделирование (см. []Приложение
+Overfull \hbox (16.54822pt too wide) in paragraph at lines 171--173
+\T2A/cmr/m/n/10 вычисляется соответствующая координата в искаженном пространстве, и значение сигнала определяется
  []
 
 
-Overfull \hbox (16.977pt too wide) in paragraph at lines 61--62
-\T2A/cmr/m/n/14.4 2[]) геометрии расположения датчика угла на полярной оси монтировки телескопа
+Overfull \hbox (14.28952pt too wide) in paragraph at lines 180--182
+\T2A/cmr/m/n/10 сетке искаженного сенсора. Для каждого исходного отсчета вычисляется его положение в неискаженном
  []
 
 
-Overfull \hbox (29.73953pt too wide) in paragraph at lines 61--62
-\T2A/cmr/m/n/14.4 с целью определения допустимых габаритов устройства, требований к допустимым
+Overfull \hbox (14.51231pt too wide) in paragraph at lines 200--201
+ []\T2A/cmr/bx/n/10 Алгоритм восстановления, используемый в реализации.[] \T2A/cmr/m/n/10 В реализованном алгоритме восстановление
+ []
+
+[24]
+Overfull \hbox (13.75885pt too wide) in paragraph at lines 230--231
+[]\T2A/cmr/m/n/10 Таким образом, исходный сигнал $\OML/cmm/m/it/10 S$ \T2A/cmr/m/n/10 начинает рассматриваться как функция, заданная на неравномерной
  []
 
 
-Overfull \hbox (36.61375pt too wide) in paragraph at lines 61--62
-\T2A/cmr/m/n/14.4 положениям считывающих головок и конструктивных ограничений, обусловленных
+Overfull \hbox (2.99597pt too wide) in paragraph at lines 232--233
+[]\T2A/cmr/m/n/10 По диапазону найденных координат строится новая равномерная сетка в неискаженном пространстве: 
  []
 
-[33]
-Overfull \hbox (74.50006pt too wide) in paragraph at lines 65--66
-\T2A/cmr/m/n/14.4 проведен анализ возможных компонентов для изготовления прототипа. Принципиальным
- []
-
-
-Overfull \hbox (39.06355pt too wide) in paragraph at lines 65--66
-\T2A/cmr/m/n/14.4 ограничением являлось то, что измерительный растр предполагалось изготавливать
- []
-
-
-Overfull \hbox (3.84937pt too wide) in paragraph at lines 65--66
-\T2A/cmr/m/n/14.4 методом 3D-печати. Это позволяет значительно сократить сроки изготовления
- []
-
-
-Overfull \hbox (32.42812pt too wide) in paragraph at lines 65--66
-\T2A/cmr/m/n/14.4 ограничена возможностями принтера, крупные элементы подвержены деформации
- []
-
-
-Overfull \hbox (8.98695pt too wide) in paragraph at lines 67--68
-\T2A/cmr/m/n/14.4 растров с периодической структурой (чередование прозрачных и непрозрачных
- []
-
-
-Overfull \hbox (8.23033pt too wide) in paragraph at lines 67--68
-[]\T2A/cmr/m/n/14.4 Приложение 1[]) определен масштаб кодового растра, воспроизводимый методом
- []
-
-
-Overfull \hbox (23.25801pt too wide) in paragraph at lines 73--74
-\T2A/cmr/m/n/14.4 изображения зависит от расстояния до оптической оси. В результате равномерная
- []
-
-
-Overfull \hbox (0.6089pt too wide) in paragraph at lines 75--76
-\T2A/cmr/m/n/14.4 коррекция структуры считываемого сигнала до этапа восстановления битовой
- []
-
-
-Overfull \hbox (11.29869pt too wide) in paragraph at lines 86--87
-[]\T2A/cmr/m/n/14.4 Для обеспечения независимости коэффициента $\OML/cmm/m/it/14.4 k$ \T2A/cmr/m/n/14.4 от числа пикселей линейки
- []
-
-[34]
-Overfull \hbox (47.86276pt too wide) in paragraph at lines 88--89
-[]\T2A/cmr/m/n/14.4 При $\OML/cmm/m/it/14.4 N \OMS/cmsy/m/n/14.4 ^^U \OT1/cmr/m/n/14.4 2$ \T2A/cmr/m/n/14.4 крайние пиксели сенсора соответствуют нормированным координатам,
- []
-
-
-Overfull \hbox (37.85678pt too wide) in paragraph at lines 88--89
-\T2A/cmr/m/n/14.4 близким к $\OML/cmm/m/it/14.4 x \OT1/cmr/m/n/14.4 = \OMS/cmsy/m/n/14.4 ^^F\OT1/cmr/m/n/14.4 1$\T2A/cmr/m/n/14.4 . Такая нормировка позволяет использовать единый коэффициент
- []
-
-
-Overfull \hbox (7.68839pt too wide) in paragraph at lines 92--93
-[]\T2A/cmr/m/n/14.4 Для восстановления неискаженных координат по наблюдаемым необходимо
- []
-
-
-Overfull \hbox (1.3802pt too wide) in paragraph at lines 110--111
-\T2A/cmr/m/n/14.4 ошибок округления. Область определения обратного преобразования задается
- []
-
-
-Overfull \hbox (26.31725pt too wide) in paragraph at lines 120--121
-[]\T2A/cmr/m/n/14.4 Идея калибровки основана на том, что после устранения дисторсии расстояния
- []
-
-
-Overfull \hbox (30.30963pt too wide) in paragraph at lines 120--121
-\T2A/cmr/m/n/14.4 качестве калибровочного объекта используется последовательность чередующихся
- []
-
-[35]
-Overfull \hbox (49.38445pt too wide) in paragraph at lines 128--129
-[]\T2A/cmr/m/n/14.4 Для заданного пробного значения $\OML/cmm/m/it/14.4 k$ \T2A/cmr/m/n/14.4 вычисляются соответствующие неискаженные
- []
-
-
-Overfull \hbox (39.29486pt too wide) in paragraph at lines 148--149
-[]\T2A/cmr/m/n/14.4 Коэффициент дисторсии определяется минимизацией нормированной дисперсии
- []
-
-
-Overfull \hbox (26.3254pt too wide) in paragraph at lines 155--156
-[]\T2A/cmr/m/n/14.4 Такой функционал не зависит от абсолютного масштаба полос и характеризует
- []
-
-
-Overfull \hbox (26.89186pt too wide) in paragraph at lines 159--160
-[]\T2A/cmr/m/n/14.4 После определения коэффициента дисторсии $\OML/cmm/m/it/14.4 k[]$ \T2A/cmr/m/n/14.4 восстановление произвольного
- []
-
-
-Overfull \hbox (8.21931pt too wide) in paragraph at lines 159--160
-\T2A/cmr/m/n/14.4 сигнала считанного той же матрицей, выполняется как переход от равномерной
- []
-
-
-Overfull \hbox (8.59886pt too wide) in paragraph at lines 159--160
-\T2A/cmr/m/n/14.4 сетки в искаженном пространстве сенсора к равномерной сетке в неискаженном
- []
-
-
-Overfull \hbox (0.11974pt too wide) in paragraph at lines 163--164
- []\T2A/cmr/bx/n/14.4 Две постановки задачи восстановления.[] \T2A/cmr/m/n/14.4 Задача восстановления может
- []
-
-
-Overfull \hbox (39.07698pt too wide) in paragraph at lines 166--168
-[]\T2A/cmr/bx/n/14.4 Прямая постановка. \T2A/cmr/m/n/14.4 Задается равномерная выходная сетка в неискаженном
- []
-
-[36]
-Overfull \hbox (33.38739pt too wide) in paragraph at lines 180--182
-\T2A/cmr/m/n/14.4 заданные на равномерной сетке искаженного сенсора. Для каждого исходного
- []
-
-
-Overfull \hbox (33.38791pt too wide) in paragraph at lines 186--188
-\T2A/cmr/m/n/14.4 интерполируется на новую равномерную сетку в неискаженном пространстве. 
- []
-
-
-Overfull \hbox (37.69977pt too wide) in paragraph at lines 196--197
-\T2A/cmr/m/n/14.4 используется именно \T2A/cmr/m/it/14.4 обратная постановка\T2A/cmr/m/n/14.4 , поскольку исходный сигнал изначально
- []
-
-
-Overfull \hbox (2.87651pt too wide) in paragraph at lines 196--197
-\T2A/cmr/m/n/14.4 задан на равномерной пиксельной сетке сенсора, и потому естественно сначала
- []
-
-
-Overfull \hbox (34.92545pt too wide) in paragraph at lines 200--201
- []\T2A/cmr/bx/n/14.4 Алгоритм восстановления, используемый в реализации.[] \T2A/cmr/m/n/14.4 В реализованном
- []
-
-
-Overfull \hbox (13.95427pt too wide) in paragraph at lines 203--204
-[]\T2A/cmr/m/n/14.4 Для исходного сигнала задается равномерная сетка отсчетов в пиксельных
- []
-
-
-Overfull \hbox (24.84692pt too wide) in paragraph at lines 209--210
-[]\T2A/cmr/m/n/14.4 Соответствующие нормированные координаты определяются соотношением 
- []
-
-
-Overfull \hbox (7.11456pt too wide) in paragraph at lines 217--218
-[]\T2A/cmr/m/n/14.4 Для каждого исходного отсчета вычисляется координата в неискаженном
- []
-
-[37]
-Overfull \hbox (24.0471pt too wide) in paragraph at lines 230--231
-[]\T2A/cmr/m/n/14.4 Таким образом, исходный сигнал $\OML/cmm/m/it/14.4 S$ \T2A/cmr/m/n/14.4 начинает рассматриваться как функция,
- []
-
-
-Overfull \hbox (13.58966pt too wide) in paragraph at lines 254--255
-[]\T2A/cmr/m/n/14.4 Значения восстановленного сигнала получаются интерполяцией исходного
- []
-
-
-Overfull \hbox (12.41707pt too wide) in paragraph at lines 261--264
-\T2A/cmr/m/n/14.4 соответствующий равномерной пиксельной сетке в неискаженном пространстве. 
- []
-
-
-Overfull \hbox (8.94232pt too wide) in paragraph at lines 269--270
-[]\T2A/cmr/bx/n/14.4 Калибровка\T2A/cmr/m/n/14.4 : на ПЗС-линейку проецируется образ зебры; по считанному
- []
-
-<images/Р—РµР±СЂР°.jpg, id=759, 1409.265pt x 715.67375pt>
+<images/Р—РµР±СЂР°.jpg, id=706, 1409.265pt x 715.67375pt>
 File: images/Р—РµР±СЂР°.jpg Graphic file (type jpg)
 <use images/Р—РµР±СЂР°.jpg>
 Package pdftex.def Info: images/Р—РµР±СЂР°.jpg  used on input line 273.
 (pdftex.def)             Requested size: 241.84843pt x 122.80956pt.
-[38]
-Overfull \hbox (9.38954pt too wide) in paragraph at lines 278--279
-[]\T2A/cmr/m/n/14.4 Следует отметить, что на практике оценка коэффициента $\OML/cmm/m/it/14.4 k[]$ \T2A/cmr/m/n/14.4 выполнялась
- []
-
-
-Overfull \hbox (22.55472pt too wide) in paragraph at lines 278--279
-\T2A/cmr/m/n/14.4 строго одинаковыми, поэтому расстояния между разноименными фронтами
- []
-
-
-Overfull \hbox (14.17656pt too wide) in paragraph at lines 278--279
-\T2A/cmr/m/n/14.4 содержат дополнительную систематическую составляющую, не связанную
- []
-
-<images/РґРёСЃС‚РѕСЂСЃРёСЏ_РєР°Р»РёР±СЂРѕРІРєР°.pdf, id=776, 800.7516pt x 601.28638pt>
+[25 <./images/Р—РµР±СЂР°.jpg>]
+<images/РґРёСЃС‚РѕСЂСЃРёСЏ_РєР°Р»РёР±СЂРѕРІРєР°.pdf, id=729, 800.7516pt x 601.28638pt>
 File: images/РґРёСЃС‚РѕСЂСЃРёСЏ_РєР°Р»РёР±СЂРѕРІРєР°.pdf Graphic file (type pdf)
 <use images/РґРёСЃС‚РѕСЂСЃРёСЏ_РєР°Р»РёР±СЂРѕРІРєР°.pdf>
 Package pdftex.def Info: images/РґРёСЃС‚РѕСЂСЃРёСЏ_РєР°Р»РёР±СЂРѕРІРєР°.pdf  used on input line 282.
 (pdftex.def)             Requested size: 483.69687pt x 363.21512pt.
-[39 <./images/Р—РµР±СЂР°.jpg>]
-Overfull \hbox (17.19666pt too wide) in paragraph at lines 289--290
-\T2A/cmr/m/n/14.4 используется для геометрической коррекции сигнала перед этапом битовой
+
+Overfull \hbox (3.77605pt too wide) in paragraph at lines 289--290
+[]\T2A/cmr/bx/n/10 Рабочий цикл\T2A/cmr/m/n/10 : при считывании произвольного растра значение $\OML/cmm/m/it/10 k[]$ \T2A/cmr/m/n/10 используется для геометрической
  []
 
-<images/РїСЂРёРјРµСЂ_РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёСЏ_РґРёСЃС‚РѕСЂСЃРёРё.png, id=784, 1010.77625pt x 151.56625pt>
+<images/РїСЂРёРјРµСЂ_РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёСЏ_РґРёСЃС‚РѕСЂСЃРёРё.png, id=730, 1010.77625pt x 151.56625pt>
 File: images/РїСЂРёРјРµСЂ_РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёСЏ_РґРёСЃС‚РѕСЂСЃРёРё.png Graphic file (type png)
 <use images/РїСЂРёРјРµСЂ_РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёСЏ_РґРёСЃС‚РѕСЂСЃРёРё.png>
 Package pdftex.def Info: images/РїСЂРёРјРµСЂ_РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёСЏ_РґРёСЃС‚РѕСЂСЃРёРё.png  used on input line 293.
 (pdftex.def)             Requested size: 483.69687pt x 72.53125pt.
 
-Overfull \hbox (51.07376pt too wide) in paragraph at lines 301--302
-\T2A/cmr/m/n/14.4 модели используются два типа входных данных: синтетический сигнал, формируемый
+Overfull \hbox (22.14148pt too wide) in paragraph at lines 301--302
+\T2A/cmr/m/n/10 матрицы. В рамках этой модели используются два типа входных данных: синтетический сигнал, формируемый
  []
 
 
-Overfull \hbox (21.92635pt too wide) in paragraph at lines 301--302
-\T2A/cmr/m/n/14.4 численно по заданной битовой последовательности, и экспериментальный сигнал,
+Overfull \hbox (5.517pt too wide) in paragraph at lines 301--302
+\T2A/cmr/m/n/10 численно по заданной битовой последовательности, и экспериментальный сигнал, непрерывно считываемый
+ []
+
+[26 <./images/РґРёСЃС‚РѕСЂСЃРёСЏ_РєР°Р»РёР±СЂРѕРІРєР°.pdf> <./images/РїСЂРёРјРµСЂ_РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёСЏ_РґРёСЃС‚РѕСЂСЃРёРё.png>]
+Overfull \hbox (37.23148pt too wide) in paragraph at lines 307--308
+\T2A/cmr/m/n/10 обработкой экспериментального сигнала выполняется геометрическая коррекция, переводящая его в неискаженное
  []
 
 
-Overfull \hbox (31.82199pt too wide) in paragraph at lines 301--302
-\T2A/cmr/m/n/14.4 между ними состоит в способе получения исходного сигнала, тогда как дальнейшая
+Overfull \hbox (11.7196pt too wide) in paragraph at lines 318--319
+[]\T2A/cmr/bx/n/10 Гауссово сглаживание. \T2A/cmr/m/n/10 К нормированному сигналу применяется гауссово сглаживание с параметром
  []
 
 
-Overfull \hbox (26.88799pt too wide) in paragraph at lines 301--302
-\T2A/cmr/m/n/14.4 обработка, выделение фронтов и восстановление битовой структуры выполняются
- []
-
-[40 <./images/РґРёСЃС‚РѕСЂСЃРёСЏ_РєР°Р»РёР±СЂРѕРІРєР°.pdf> <./images/РїСЂРёРјРµСЂ_РІРѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёСЏ_РґРёСЃС‚РѕСЂСЃРёРё.png>]
-Overfull \hbox (21.93465pt too wide) in paragraph at lines 307--308
-[]\T2A/cmr/m/n/14.4 В соответствии с рассмотренной ранее моделью дисторсии (см. подраздел []4.5[]),
+Overfull \hbox (0.5799pt too wide) in paragraph at lines 328--330
+\T2A/cmr/m/n/10 Данная операция компенсирует неравномерность амплитуды сигнала вдоль матрицы, обусловленную
  []
 
 
-Overfull \hbox (67.81686pt too wide) in paragraph at lines 307--308
-\T2A/cmr/m/n/14.4 перед дальнейшей обработкой экспериментального сигнала выполняется геометрическая
+Overfull \hbox (8.68655pt too wide) in paragraph at lines 347--348
+[]\T2A/cmr/m/n/10 Экстремумы первой производной соответствуют наиболее резким переходам между соседними участками
  []
 
 
-Overfull \hbox (25.11188pt too wide) in paragraph at lines 318--319
-[]\T2A/cmr/bx/n/14.4 Гауссово сглаживание. \T2A/cmr/m/n/14.4 К нормированному сигналу применяется гауссово
+Overfull \hbox (17.6159pt too wide) in paragraph at lines 347--348
+\T2A/cmr/m/n/10 растра. Вторая производная используется как вспомогательная величина для точного определения положений
  []
 
-
-Overfull \hbox (55.01212pt too wide) in paragraph at lines 323--324
-[]\T2A/cmr/bx/n/14.4 Коррекция виньетирования. \T2A/cmr/m/n/14.4 Сглаженный сигнал делится на нормированный
+[27]
+Overfull \hbox (13.19257pt too wide) in paragraph at lines 396--397
+[]\T2A/cmr/bx/n/10 Восстановление положений битов. \T2A/cmr/m/n/10 Внутри каждого сегмента левые границы битов распределяются
  []
 
-[41]
-Overfull \hbox (9.21661pt too wide) in paragraph at lines 328--330
-\T2A/cmr/m/n/14.4 вдоль матрицы, обусловленную виньетированием объектива, и тем самым
- []
-
-
-Overfull \hbox (2.34975pt too wide) in paragraph at lines 334--335
-[]\T2A/cmr/m/n/14.4 Для оценки локальных изменений сигнала применяется КИХ-фильтр Блэ--
- []
-
-
-Overfull \hbox (19.14697pt too wide) in paragraph at lines 341--343
-\T2A/cmr/m/n/14.4 Повторное применение того же ядра к $\OML/cmm/m/it/14.4 D[]$ \T2A/cmr/m/n/14.4 дает сглаженную вторую производную: 
- []
-
-
-Overfull \hbox (11.1075pt too wide) in paragraph at lines 347--348
-[]\T2A/cmr/m/n/14.4 Экстремумы первой производной соответствуют наиболее резким переходам
- []
-
-
-Overfull \hbox (12.60077pt too wide) in paragraph at lines 347--348
-\T2A/cmr/m/n/14.4 вспомогательная величина для точного определения положений этих переходов. 
- []
-
-
-Overfull \hbox (65.42793pt too wide) in paragraph at lines 352--353
-[]\T2A/cmr/bx/n/14.4 Определение нулей второй производной. \T2A/cmr/m/n/14.4 Положения фронтов соответствуют
- []
-
-
-Overfull \hbox (11.50722pt too wide) in paragraph at lines 352--353
-\T2A/cmr/m/n/14.4 точкам смены знака с последующим субпиксельным уточнением линейной
- []
-
-
-Overfull \hbox (27.44826pt too wide) in paragraph at lines 361--362
-[]\T2A/cmr/bx/n/14.4 Пороговая фильтрация по амплитуде. \T2A/cmr/m/n/14.4 Из числа найденных кандидатов
- []
-
-
-Overfull \hbox (38.33047pt too wide) in paragraph at lines 361--362
-\T2A/cmr/m/n/14.4 сохраняются только те, для которых абсолютное значение первой производной
- []
-
-
-Overfull \hbox (8.24905pt too wide) in paragraph at lines 366--367
-\T2A/cmr/m/n/14.4 ширина бита в пикселях, а $\OML/cmm/m/it/14.4 ^^L$ \T2A/cmr/m/n/14.4 --- настраиваемый коэффициент, сохраняется
- []
-
-[42]
-Overfull \hbox (20.61292pt too wide) in paragraph at lines 374--375
-\T2A/cmr/m/n/14.4 геометрическая разметка структуры сигнала, отражающая положения переходов
- []
-
-
-Overfull \hbox (2.75307pt too wide) in paragraph at lines 379--380
-[]\T2A/cmr/bx/n/14.4 Построение битовых сегментов. \T2A/cmr/m/n/14.4 По массиву обнаруженных фронтов
- []
-
-
-Overfull \hbox (0.45445pt too wide) in paragraph at lines 379--380
-\T2A/cmr/m/n/14.4 определяется как ближайшее целое к отношению его длины к априорной
- []
-
-
-Overfull \hbox (44.85358pt too wide) in paragraph at lines 391--392
-[]\T2A/cmr/bx/n/14.4 Оценка локального периода. \T2A/cmr/m/n/14.4 Для каждого видимого сегмента определяется
- []
-
-
-Overfull \hbox (4.74205pt too wide) in paragraph at lines 402--403
-[]\T2A/cmr/bx/n/14.4 Оценка точности восстановления битовой последовательности[][][].
- []
-
-
-Overfull \hbox (33.76633pt too wide) in paragraph at lines 402--403
-\T2A/cmr/m/n/14.4 Для оценки достоверности восстановленной последовательности применяется
- []
-
-
-Overfull \hbox (9.01762pt too wide) in paragraph at lines 402--403
-\T2A/cmr/m/n/14.4 относительно эталонного, и для каждого смещения подсчитывается число
- []
-
-
-Overfull \hbox (8.995pt too wide) in paragraph at lines 407--408
-[]\T2A/cmr/bx/n/14.4 Оценка погрешности положений фронтов.[]  \T2A/cmr/m/n/14.4 Для каждого истинного
- []
-
-
-Overfull \hbox (41.46652pt too wide) in paragraph at lines 407--408
-\T2A/cmr/m/n/14.4 фронта $\OML/cmm/m/it/14.4 t[]$ \T2A/cmr/m/n/14.4 из эталонного массива методом ближайшего соседа, при ограничении
- []
-
-[43]
-Overfull \hbox (15.61963pt too wide) in paragraph at lines 410--412
-\T2A/cmr/m/n/14.4 По массиву ошибок $\OMS/cmsy/m/n/14.4 f\OML/cmm/m/it/14.4 e[]\OMS/cmsy/m/n/14.4 g$ \T2A/cmr/m/n/14.4 определяется среднеквадратическая погрешность: 
- []
-
-<images/Р¦РёС„СЂРѕРІР°СЏ_РјРѕРґРµР»СЊ.pdf, id=897, 798.58348pt x 733.54048pt>
+<images/Р¦РёС„СЂРѕРІР°СЏ_РјРѕРґРµР»СЊ.pdf, id=817, 798.58348pt x 733.54048pt>
 File: images/Р¦РёС„СЂРѕРІР°СЏ_РјРѕРґРµР»СЊ.pdf Graphic file (type pdf)
 <use images/Р¦РёС„СЂРѕРІР°СЏ_РјРѕРґРµР»СЊ.pdf>
 Package pdftex.def Info: images/Р¦РёС„СЂРѕРІР°СЏ_РјРѕРґРµР»СЊ.pdf  used on input line 420.
 (pdftex.def)             Requested size: 483.69687pt x 444.30263pt.
-[44]
-<images/diagnostic_blur=0.05_noise=200.pdf, id=907, 437.9562pt x 370.74509pt>
+
+Underfull \hbox (badness 1107) in paragraph at lines 421--421
+\T2A/cmr/m/n/9 определения положений фронтов менее $\OT1/cmr/m/n/9 0\OML/cmm/m/it/9 :\OT1/cmr/m/n/9 1$ \T2A/cmr/m/n/9 пиксела, что составляет менее $\OT1/cmr/m/n/9 2%$ \T2A/cmr/m/n/9 ширины бита. Точность
+ []
+
+[28]
+<images/diagnostic_blur=0.05_noise=200.pdf, id=845, 437.9562pt x 370.74509pt>
 File: images/diagnostic_blur=0.05_noise=200.pdf Graphic file (type pdf)
 <use images/diagnostic_blur=0.05_noise=200.pdf>
 Package pdftex.def Info: images/diagnostic_blur=0.05_noise=200.pdf  used on input line 431.
 (pdftex.def)             Requested size: 232.17242pt x 196.5392pt.
-<images/diagnostic_blur=0.2_noise=200.pdf, id=908, 436.5108pt x 370.02242pt>
+<images/diagnostic_blur=0.2_noise=200.pdf, id=846, 436.5108pt x 370.02242pt>
 File: images/diagnostic_blur=0.2_noise=200.pdf Graphic file (type pdf)
 <use images/diagnostic_blur=0.2_noise=200.pdf>
 Package pdftex.def Info: images/diagnostic_blur=0.2_noise=200.pdf  used on input line 438.
 (pdftex.def)             Requested size: 232.17242pt x 196.81105pt.
- [45 <./images/Р¦РёС„СЂРѕРІР°СЏ_РјРѕРґРµР»СЊ.pdf>]
-<images/diagnostic_N=2_bit=6.pdf, id=1031, 433.62pt x 361.35pt>
+
+Underfull \hbox (badness 1337) in paragraph at lines 439--439
+[]\T2A/cmr/m/n/8 (b) |Уровень шума ок. 13 дБ, уровень размытия 20
+ []
+
+[29 <./images/Р¦РёС„СЂРѕРІР°СЏ_РјРѕРґРµР»СЊ.pdf>]
+<images/diagnostic_N=2_bit=6.pdf, id=969, 433.62pt x 361.35pt>
 File: images/diagnostic_N=2_bit=6.pdf Graphic file (type pdf)
 <use images/diagnostic_N=2_bit=6.pdf>
 Package pdftex.def Info: images/diagnostic_N=2_bit=6.pdf  used on input line 451.
 (pdftex.def)             Requested size: 232.17242pt x 193.47748pt.
-<images/diagnostic_N=4_bit=6.pdf, id=1032, 433.62pt x 361.35pt>
+<images/diagnostic_N=4_bit=6.pdf, id=970, 433.62pt x 361.35pt>
 File: images/diagnostic_N=4_bit=6.pdf Graphic file (type pdf)
 <use images/diagnostic_N=4_bit=6.pdf>
 Package pdftex.def Info: images/diagnostic_N=4_bit=6.pdf  used on input line 458.
 (pdftex.def)             Requested size: 232.17242pt x 193.47748pt.
-<images/Blais-Rioux Edge Detector.png, id=1033, 760.34062pt x 807.7678pt>
+<images/Blais-Rioux Edge Detector.png, id=971, 760.34062pt x 807.7678pt>
 File: images/Blais-Rioux Edge Detector.png Graphic file (type png)
 <use images/Blais-Rioux Edge Detector.png>
 Package pdftex.def Info: images/Blais-Rioux Edge Detector.png  used on input line 470.
 (pdftex.def)             Requested size: 483.69687pt x 513.87592pt.
- [46 <./images/diagnostic_blur=0.05_noise=200.pdf> <./images/diagnostic_blur=0.2_noise=200.pdf> <./images/diagnostic_N=2_bit=6.pdf> <./images/diagnostic_N=4_bit=6.pdf>]
-Overfull \hbox (17.00275pt too wide) in paragraph at lines 477--478
-[]\T2A/cmr/m/n/14.4 После восстановления битовой последовательности по сигналу ПЗС-матрицы
+ [30 <./images/diagnostic_blur=0.05_noise=200.pdf> <./images/diagnostic_blur=0.2_noise=200.pdf> <./images/diagnostic_N=2_bit=6.pdf> <./images/diagnostic_N=4_bit=6.pdf>] [31 <./images/Blais-Rioux Edge Detector.png (PNG copy)>]
+Overfull \hbox (23.21223pt too wide) in paragraph at lines 492--493
+[]\T2A/cmr/m/n/10 Для перехода от пиксельных координат к угловым используется масштабный коэффициент $\OML/cmm/m/it/10 ^^U$\T2A/cmr/m/n/10 , определяемый
  []
 
 
-Overfull \hbox (1.20226pt too wide) in paragraph at lines 481--482
-[]\T2A/cmr/m/n/14.4 Кодовая дорожка диска представляет собой двоичную последовательность
- []
-
-[47 <./images/Blais-Rioux Edge Detector.png (PNG copy)>]
-Overfull \hbox (15.03526pt too wide) in paragraph at lines 483--484
-[]\T2A/cmr/m/n/14.4 Для каждой начальной позиции $\OML/cmm/m/it/14.4 s \OMS/cmsy/m/n/14.4 2 \OT1/cmr/m/n/14.4 [0\OML/cmm/m/it/14.4 ;  N[]\OT1/cmr/m/n/14.4 )$ \T2A/cmr/m/n/14.4 из кодовой последовательности
+Overfull \hbox (29.73697pt too wide) in paragraph at lines 504--505
+[]\T2A/cmr/m/n/10 Для последующей оценки угла используются только те восстановленные биты, которые целиком принадлежат
  []
 
 
-Overfull \hbox (23.46387pt too wide) in paragraph at lines 487--489
-\T2A/cmr/m/n/14.4 де Брейна, все $\OML/cmm/m/it/14.4 N[]$ \T2A/cmr/m/n/14.4 кодовых слов различны, и построенная таблица соответствует
+Overfull \hbox (0.15611pt too wide) in paragraph at lines 510--511
+[]\T2A/cmr/m/n/10 По последовательности валидных битов строятся скользящие окна длиной $\OML/cmm/m/it/10 m$ \T2A/cmr/m/n/10 бит. Если число валидных
  []
 
 
-Overfull \hbox (37.93935pt too wide) in paragraph at lines 487--489
-\T2A/cmr/m/n/14.4 взаимно однозначному отображению между кодовым словом и угловой координатой
+Overfull \hbox (7.00739pt too wide) in paragraph at lines 518--519
+\T2A/cmr/m/n/10 вычетом углового смещения этого слова относительно центра матрицы. Таким образом, оценка абсолютного
  []
 
 
-Overfull \hbox (16.05266pt too wide) in paragraph at lines 492--493
-[]\T2A/cmr/m/n/14.4 Для перехода от пиксельных координат к угловым используется масштабный
+Overfull \hbox (12.3801pt too wide) in paragraph at lines 525--526
+[]\T2A/cmr/m/n/10 Биты, расположенные вблизи краев поля зрения матрицы значительнее всего были подвержены обработке
+ []
+
+[32]) (discussion.tex
+Overfull \hbox (1.64758pt too wide) in paragraph at lines 1--2
+\T2A/cmr/m/n/10 вращении кодового диска прецизионным шаговым двигателем по и против часовой стрелки. Эксперименты
  []
 
 
-Overfull \hbox (36.77669pt too wide) in paragraph at lines 492--493
-\T2A/cmr/m/n/14.4 величина оценивается по битовым сегментам, выделенным на этапе восстановления: 
+Overfull \hbox (15.34793pt too wide) in paragraph at lines 1--2
+\T2A/cmr/m/n/10 выполнялись как для каждой из двух диаметрально противоположных считывающих головок по отдельности,
  []
 
 
-Overfull \hbox (12.97916pt too wide) in paragraph at lines 507--509
-\T2A/cmr/m/n/14.4 Для каждого корректно определенного бита сохраняются его бинарное значение
+Overfull \hbox (3.59155pt too wide) in paragraph at lines 1--2
+\T2A/cmr/m/n/10 так и для их совместного использования. Для каждого отсчета определялись среднее значение абсолютного
  []
 
 
-Overfull \hbox (8.18677pt too wide) in paragraph at lines 507--509
-\OML/cmm/m/it/14.4 b[] \OMS/cmsy/m/n/14.4 2 f\OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 1\OMS/cmsy/m/n/14.4 g$\T2A/cmr/m/n/14.4 , координата центра $\OML/cmm/m/it/14.4 x[] \OT1/cmr/m/n/14.4 = \OML/cmm/m/it/14.4 b[] \OT1/cmr/m/n/14.4 + \OML/cmm/m/it/14.4 k[]=\OT1/cmr/m/n/14.4 2$ \T2A/cmr/m/n/14.4 и ширина $\OML/cmm/m/it/14.4 k[]$\T2A/cmr/m/n/14.4 , равная локальному
+Overfull \hbox (17.55927pt too wide) in paragraph at lines 3--4
+\T2A/cmr/m/n/10 настройка. В рамках этой процедуры измерялись плоские поля, характеризующие виньетирование оптической
  []
 
 
-Overfull \hbox (5.36766pt too wide) in paragraph at lines 510--511
-\T2A/cmr/m/n/14.4 координат входящих в него битов, где весом служит ширина соответствующего
- []
-
-[48]
-Overfull \hbox (3.68951pt too wide) in paragraph at lines 516--517
-[]\T2A/cmr/m/n/14.4 Для каждого окна формируется кодовое слово $\OML/cmm/m/it/14.4 c[]$\T2A/cmr/m/n/14.4 , составленное из значений
+Overfull \hbox (7.61835pt too wide) in paragraph at lines 3--4
+\T2A/cmr/m/n/10 визуализации определялось эффективное фокусное расстояние для каждой головки. Такой подход позволил
  []
 
 
-Overfull \hbox (16.80118pt too wide) in paragraph at lines 518--519
-[]\T2A/cmr/m/n/14.4 Угол центра поля зрения матрицы равен углу центра распознанного кодового
+Overfull \hbox (15.76816pt too wide) in paragraph at lines 5--6
+[]\T2A/cmr/m/n/10 Анализ среднего значения угла позволяет оценить систематическую составляющую погрешности энкодера.
  []
 
 
-Overfull \hbox (4.97124pt too wide) in paragraph at lines 518--519
-\T2A/cmr/m/n/14.4 слова на диске за вычетом углового смещения этого слова относительно центра
+Overfull \hbox (44.69263pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/10 Анализ среднеквадратического отклонения характеризует повторяемость и стабильность измерений. Сопоставление
  []
 
 
-Overfull \hbox (61.52298pt too wide) in paragraph at lines 525--526
-\T2A/cmr/m/n/14.4 всего были подвержены обработке как по коррекции дисторсии, так по виньетированию.
+Overfull \hbox (5.89655pt too wide) in paragraph at lines 7--8
+\T2A/cmr/m/n/10 периодов, внутри которых сигнал приводился к общей фазовой сетке. Для каждой точки фазы вычислялась
  []
 
 
-Overfull \hbox (10.30952pt too wide) in paragraph at lines 535--537
-\T2A/cmr/m/n/14.4 где $\OML/cmm/m/it/14.4 ^^T$ \T2A/cmr/m/n/14.4 характеризует глубину виньетирования, $\OML/cmm/m/it/14.4 L$ \T2A/cmr/m/n/14.4 --- ширина матрицы в пикселях,
+Overfull \hbox (2.24002pt too wide) in paragraph at lines 9--10
+\T2A/cmr/m/n/10 собственной погрешности алгоритма обработки для одной головки, вычислялась как среднеквадратическое
+ []
+
+[33]
+Overfull \hbox (27.64124pt too wide) in paragraph at lines 14--15
+\T2A/cmr/m/n/10 направления измерений. Предположительно, наблюдаемая асимметрия связана с тем, что во всех экспериментах
  []
 
 
-Overfull \hbox (24.03421pt too wide) in paragraph at lines 540--541
-\T2A/cmr/m/n/14.4 восстановления отдельных битов. Для их исключения используется итерационная
+Overfull \hbox (0.57266pt too wide) in paragraph at lines 14--15
+\T2A/cmr/m/n/10 считывания с направлением вращения диска значение СКО уменьшалось, тогда как при противоположных
  []
 
 
-Overfull \hbox (29.37373pt too wide) in paragraph at lines 540--541
-\T2A/cmr/m/n/14.4 процедура, учитывающая циклическую структуру угловых величин, что критично
- []
-
-[49]
-Overfull \hbox (6.34828pt too wide) in paragraph at lines 553--554
-[]\T2A/cmr/m/n/14.4 шаги 1--3 повторяются до стабилизации набора точек либо до достижения
+Overfull \hbox (9.56232pt too wide) in paragraph at lines 16--17
+\T2A/cmr/m/n/10 гармоники и в остаточной зависимости наиболее выраженной оставалась вторая гармоника (см. []Приложение
  []
 
 
-Overfull \hbox (24.03622pt too wide) in paragraph at lines 564--565
-\T2A/cmr/m/n/14.4 отклонение, определяемое через нормированную длину результирующего вектора
- []
-
-)
-Overfull \hbox (30.25024pt too wide) in paragraph at lines 65--65
-[]\T2A/cmr/bx/n/20.74 Анализ результатов. Экспериментальная оценка
- []
-
-(discussion.tex
-Overfull \hbox (7.86426pt too wide) in paragraph at lines 1--2
-\T2A/cmr/m/n/14.4 измерений при равномерном вращении кодового диска прецизионным шаговым
+Overfull \hbox (16.40689pt too wide) in paragraph at lines 24--25
+[]\T2A/cmr/m/n/10 По результатам обработки строились диагностические графики, отражающие усредненную периодическую
  []
 
 
-Overfull \hbox (43.06694pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 плоские поля, характеризующие виньетирование оптической системы, и оценивались
- []
-
-
-Overfull \hbox (7.48402pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 коэффициенты дисторсии. Кроме того, по изображению в программной модели
- []
-
-
-Overfull \hbox (19.65402pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 головки. Такой подход позволил учесть индивидуальные особенности оптических
- []
-
-
-Overfull \hbox (55.83961pt too wide) in paragraph at lines 5--6
-[]\T2A/cmr/m/n/14.4 Анализ среднего значения угла позволяет оценить систематическую составляющую
- []
-
-
-Overfull \hbox (25.1776pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 погрешности энкодера. Анализ среднеквадратического отклонения характеризует
- []
-
-
-Overfull \hbox (31.64735pt too wide) in paragraph at lines 5--6
-\T2A/cmr/m/n/14.4 повторяемость и стабильность измерений. Сопоставление результатов, полученных
- []
-
-[50]
-Overfull \hbox (28.80684pt too wide) in paragraph at lines 7--8
-[]\T2A/cmr/m/n/14.4 Усреднение результатов выполнялось по отдельным полным периодам сигнала.
- []
-
-
-Overfull \hbox (18.70532pt too wide) in paragraph at lines 7--8
-\T2A/cmr/m/n/14.4 сигнал приводился к общей фазовой сетке. Для каждой точки фазы вычислялась
- []
-
-
-Overfull \hbox (0.61044pt too wide) in paragraph at lines 7--8
-\T2A/cmr/m/n/14.4 средняя детрендированная ошибка по всем периодам, что позволяло получить
- []
-
-
-Overfull \hbox (22.13585pt too wide) in paragraph at lines 7--8
-\T2A/cmr/m/n/14.4 усредненную фазовую зависимость систематической составляющей погрешности. 
- []
-
-
-Overfull \hbox (41.38004pt too wide) in paragraph at lines 9--10
-[]\T2A/cmr/m/n/14.4 Статистическая составляющая среднеквадратического отклонения определялась
- []
-
-
-Overfull \hbox (5.57605pt too wide) in paragraph at lines 9--10
-\T2A/cmr/m/n/14.4 Инструментальная составляющая, соответствующая собственной погрешности
- []
-
-
-Overfull \hbox (20.40874pt too wide) in paragraph at lines 9--10
-\T2A/cmr/m/n/14.4 алгоритма обработки для одной головки, вычислялась как среднеквадратическое
- []
-
-
-Overfull \hbox (12.23589pt too wide) in paragraph at lines 14--15
-[]\T2A/cmr/m/n/14.4 По результатам экспериментов было установлено, что среднеквадратическое
- []
-
-
-Overfull \hbox (24.23322pt too wide) in paragraph at lines 14--15
-\T2A/cmr/m/n/14.4 отклонение зависит от направления измерений. Предположительно, наблюдаемая
- []
-
-
-Overfull \hbox (13.17119pt too wide) in paragraph at lines 14--15
-\T2A/cmr/m/n/14.4 асимметрия связана с тем, что во всех экспериментах считывание ПЗС-матрицы
- []
-
-
-Overfull \hbox (18.50769pt too wide) in paragraph at lines 16--17
-\T2A/cmr/m/n/14.4 самокалибровке методом путевого усреднения []3.2.2[]. Поскольку рассматриваемая
- []
-
-
-Overfull \hbox (0.41289pt too wide) in paragraph at lines 16--17
-\T2A/cmr/m/n/14.4 величина является угловой, для объединения оценок использовалось круговое
- []
-
-
-Overfull \hbox (38.11542pt too wide) in paragraph at lines 16--17
-\T2A/cmr/m/n/14.4 среднее. По результатам такого объединения наблюдалось существенное подавление
- []
-
-
-Overfull \hbox (47.07028pt too wide) in paragraph at lines 16--17
-\T2A/cmr/m/n/14.4 периодической систематической погрешности: наблюдалось существенное ослабление
- []
-
-
-Overfull \hbox (12.79144pt too wide) in paragraph at lines 16--17
-\T2A/cmr/m/n/14.4 первой гармоники и в остаточной зависимости наиболее выраженной оставалась
- []
-
-
-Overfull \hbox (22.3197pt too wide) in paragraph at lines 21--23
-\T2A/cmr/m/n/14.4 близких уровнях это приводит к уменьшению среднеквадратического отклонения
- []
-
-
-Overfull \hbox (32.04028pt too wide) in paragraph at lines 21--23
-\T2A/cmr/m/n/14.4 результирующей оценки примерно в $[]$ раза, что было подтверждено измерениями
- []
-
-
-Overfull \hbox (19.8655pt too wide) in paragraph at lines 24--25
-[]\T2A/cmr/m/n/14.4 По результатам обработки строились диагностические графики, отражающие
- []
-
-[51]
-Overfull \hbox (9.97585pt too wide) in paragraph at lines 27--28
-[]\T2A/cmr/m/n/14.4 детрендированная усредненная зависимость ошибки от фазы с границами
- []
-
-
-Overfull \hbox (58.5236pt too wide) in paragraph at lines 28--29
-[]\T2A/cmr/m/n/14.4 фазовые зависимости статистической, инструментальной и полной составляющих
- []
-
-
-Overfull \hbox (15.32013pt too wide) in paragraph at lines 29--30
-[]\T2A/cmr/m/n/14.4 отдельные детрендированные реализации, наложенные на общую фазовую
- []
-
-
-Overfull \hbox (44.98575pt too wide) in paragraph at lines 33--34
-[]\T2A/cmr/m/n/14.4 Максимальное отклонение измеряемого угла (точность), полученная усреднением
- []
-
-
-Overfull \hbox (15.37778pt too wide) in paragraph at lines 33--34
-\T2A/cmr/m/n/14.4 показаний двух головок достигла в среднем не более $\OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 08$ \T2A/cmr/m/n/14.4 градусов при вращении
+Overfull \hbox (37.23587pt too wide) in paragraph at lines 33--34
+\T2A/cmr/m/n/10 головок достигла в среднем не более $\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 08$ \T2A/cmr/m/n/10 градусов при вращении противоположно считыванию, воспроизводимость
  []
 
 ) (conclusion.tex
-Overfull \hbox (3.67262pt too wide) in paragraph at lines 1--2
-[]\T2A/cmr/m/n/14.4 В ходе выполнения курсовой работы была рассмотрена актуальная научно-
+Overfull \hbox (10.8516pt too wide) in paragraph at lines 1--2
+[]\T2A/cmr/m/n/10 В ходе выполнения курсовой работы была рассмотрена актуальная научно-техническая задача, связанная
  []
 
 
-Overfull \hbox (5.7557pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 неба и создании высокоточных систем наведения, способных функционировать
+Overfull \hbox (5.90945pt too wide) in paragraph at lines 3--4
+[]\T2A/cmr/m/n/10 Значимость данной задачи определяется возрастающей потребностью в автоматизации астрономических
  []
 
 
-Overfull \hbox (4.43611pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 в составе современных роботизированных измерительных комплексов. Особую
+Overfull \hbox (25.53064pt too wide) in paragraph at lines 3--4
+\T2A/cmr/m/n/10 функционировать в составе современных роботизированных измерительных комплексов. Особую практическую
  []
 
 
-Overfull \hbox (19.84233pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 практическую важность работа приобретает в условиях дефицита отечественных
- []
-
-
-Overfull \hbox (84.7651pt too wide) in paragraph at lines 3--4
-\T2A/cmr/m/n/14.4 прецизионных энкодеров, пригодных для применения в астрономическом приборостроении. 
- []
-
-
-Overfull \hbox (42.71117pt too wide) in paragraph at lines 5--6
-[]\T2A/cmr/m/n/14.4 В процессе исследования был выполнен анализ существующих типов абсолютных
+Overfull \hbox (21.30945pt too wide) in paragraph at lines 5--6
+\T2A/cmr/m/n/10 отладка и серия испытаний. Полученные результаты позволили выявить как случайные, так и систематические
  []
 
 )
-Overfull \hbox (49.75543pt too wide) in paragraph at lines 7--69
-[]\T2A/cmr/m/n/14.4 Для обработки сигнала были применены методы математического и программного
+Overfull \hbox (18.212pt too wide) in paragraph at lines 7--69
+[]\T2A/cmr/m/n/10 Для обработки сигнала были применены методы математического и программного анализа, подтвердившие
  []
 
 
-Overfull \hbox (35.27509pt too wide) in paragraph at lines 7--69
-\T2A/cmr/m/n/14.4 программно-алгоритмической коррекции. Таким образом, поставленные в курсовой
+Overfull \hbox (25.78983pt too wide) in paragraph at lines 7--69
+\T2A/cmr/m/n/10 образом, поставленные в курсовой работе цели были достигнуты, а разработанный прототип продемонстрировал
  []
 
 
-Overfull \hbox (11.65486pt too wide) in paragraph at lines 7--69
-\T2A/cmr/m/n/14.4 быть использованы при создании отечественных высокоточных систем углового
+Overfull \hbox (7.29434pt too wide) in paragraph at lines 7--69
+\T2A/cmr/m/n/10 создании отечественных высокоточных систем углового позиционирования для астрономических телескопов
  []
 
-[52] (application.tex
-<images/СѓСЃС‚Р°РЅРѕРІРєР° РјР°С‚РѕРІС‹Р№.jpg, id=1272, 4015.0pt x 2854.665pt>
+(application.tex
+<images/СѓСЃС‚Р°РЅРѕРІРєР° РјР°С‚РѕРІС‹Р№.jpg, id=1194, 4015.0pt x 2854.665pt>
 File: images/СѓСЃС‚Р°РЅРѕРІРєР° РјР°С‚РѕРІС‹Р№.jpg Graphic file (type jpg)
 <use images/СѓСЃС‚Р°РЅРѕРІРєР° РјР°С‚РѕРІС‹Р№.jpg>
 Package pdftex.def Info: images/СѓСЃС‚Р°РЅРѕРІРєР° РјР°С‚РѕРІС‹Р№.jpg  used on input line 4.
 (pdftex.def)             Requested size: 580.43475pt x 412.67441pt.
-<images/СѓСЃС‚Р°РЅРѕРІРєР° РґРІРµ РіРѕР»РѕРІРєРё.jpg, id=1273, 4015.0pt x 2507.3675pt>
+<images/СѓСЃС‚Р°РЅРѕРІРєР° РґРІРµ РіРѕР»РѕРІРєРё.jpg, id=1195, 4015.0pt x 2507.3675pt>
 File: images/СѓСЃС‚Р°РЅРѕРІРєР° РґРІРµ РіРѕР»РѕРІРєРё.jpg Graphic file (type jpg)
 <use images/СѓСЃС‚Р°РЅРѕРІРєР° РґРІРµ РіРѕР»РѕРІРєРё.jpg>
 Package pdftex.def Info: images/СѓСЃС‚Р°РЅРѕРІРєР° РґРІРµ РіРѕР»РѕРІРєРё.jpg  used on input line 9.
 (pdftex.def)             Requested size: 435.32422pt x 271.8323pt.
- [53]
-<images/Р·РµР±СЂР° Рё РґРёСЃРє.jpg, id=1278, 4015.0pt x 2509.375pt>
+ [34]
+<images/Р·РµР±СЂР° Рё РґРёСЃРє.jpg, id=1205, 4015.0pt x 2509.375pt>
 File: images/Р·РµР±СЂР° Рё РґРёСЃРє.jpg Graphic file (type jpg)
 <use images/Р·РµР±СЂР° Рё РґРёСЃРє.jpg>
 Package pdftex.def Info: images/Р·РµР±СЂР° Рё РґРёСЃРє.jpg  used on input line 14.
 (pdftex.def)             Requested size: 483.69687pt x 302.299pt.
- [54 <./images/СѓСЃС‚Р°РЅРѕРІРєР° РјР°С‚РѕРІС‹Р№.jpg>]
-<images/3D РјРѕРґРµР»СЊ.png, id=1285, 963.6pt x 735.49782pt>
+ [35 <./images/СѓСЃС‚Р°РЅРѕРІРєР° РјР°С‚РѕРІС‹Р№.jpg>]
+<images/3D РјРѕРґРµР»СЊ.png, id=1211, 963.6pt x 735.49782pt>
 File: images/3D РјРѕРґРµР»СЊ.png Graphic file (type png)
 <use images/3D РјРѕРґРµР»СЊ.png>
 Package pdftex.def Info: images/3D РјРѕРґРµР»СЊ.png  used on input line 21.
 (pdftex.def)             Requested size: 435.32422pt x 332.27281pt.
-<images/СЂР°Р·СЂРµР· 3D РјРѕРґРµР»СЊ.png, id=1286, 963.6pt x 551.81157pt>
+<images/СЂР°Р·СЂРµР· 3D РјРѕРґРµР»СЊ.png, id=1212, 963.6pt x 551.81157pt>
 File: images/СЂР°Р·СЂРµР· 3D РјРѕРґРµР»СЊ.png Graphic file (type png)
 <use images/СЂР°Р·СЂРµР· 3D РјРѕРґРµР»СЊ.png>
 Package pdftex.def Info: images/СЂР°Р·СЂРµР· 3D РјРѕРґРµР»СЊ.png  used on input line 22.
 (pdftex.def)             Requested size: 435.32422pt x 249.28963pt.
- [55 <./images/СѓСЃС‚Р°РЅРѕРІРєР° РґРІРµ РіРѕР»РѕРІРєРё.jpg> <./images/Р·РµР±СЂР° Рё РґРёСЃРє.jpg>]
-<images/no_trash_2500.pdf, id=1294, 713.30492pt x 784.85219pt>
+ [36 <./images/СѓСЃС‚Р°РЅРѕРІРєР° РґРІРµ РіРѕР»РѕРІРєРё.jpg> <./images/Р·РµР±СЂР° Рё РґРёСЃРє.jpg>]
+<images/no_trash_2500.pdf, id=1221, 713.30492pt x 784.85219pt>
 File: images/no_trash_2500.pdf Graphic file (type pdf)
 <use images/no_trash_2500.pdf>
 Package pdftex.def Info: images/no_trash_2500.pdf  used on input line 32.
 (pdftex.def)             Requested size: 483.69687pt x 532.2194pt.
- [56 <./images/3D РјРѕРґРµР»СЊ.png> <./images/СЂР°Р·СЂРµР· 3D РјРѕРґРµР»СЊ.png>]
-<images/final_10_5000_head1.pdf, id=1300, 714.75032pt x 790.63379pt>
+ [37 <./images/3D РјРѕРґРµР»СЊ.png> <./images/СЂР°Р·СЂРµР· 3D РјРѕРґРµР»СЊ.png>]
+<images/final_10_5000_head1.pdf, id=1227, 714.75032pt x 790.63379pt>
 File: images/final_10_5000_head1.pdf Graphic file (type pdf)
 <use images/final_10_5000_head1.pdf>
 Package pdftex.def Info: images/final_10_5000_head1.pdf  used on input line 39.
 (pdftex.def)             Requested size: 483.69687pt x 535.06627pt.
- [57 <./images/no_trash_2500.pdf>]
-<images/final_10_5000_head2.pdf, id=1366, 713.30492pt x 789.91112pt>
+ [38 <./images/no_trash_2500.pdf>]
+<images/final_10_5000_head2.pdf, id=1294, 713.30492pt x 789.91112pt>
 File: images/final_10_5000_head2.pdf Graphic file (type pdf)
 <use images/final_10_5000_head2.pdf>
 Package pdftex.def Info: images/final_10_5000_head2.pdf  used on input line 46.
 (pdftex.def)             Requested size: 483.69687pt x 535.64992pt.
- [58 <./images/final_10_5000_head1.pdf>]
-<images/final_10_5000_avg.pdf, id=1435, 714.75032pt x 789.91112pt>
+ [39 <./images/final_10_5000_head1.pdf>]
+<images/final_10_5000_avg.pdf, id=1363, 714.75032pt x 789.91112pt>
 File: images/final_10_5000_avg.pdf Graphic file (type pdf)
 <use images/final_10_5000_avg.pdf>
 Package pdftex.def Info: images/final_10_5000_avg.pdf  used on input line 53.
 (pdftex.def)             Requested size: 483.69687pt x 534.5772pt.
- [59 <./images/final_10_5000_head2.pdf>]
-<images/final_reverse10_5000_head1.pdf, id=1504, 716.9184pt x 789.18839pt>
+ [40 <./images/final_10_5000_head2.pdf>]
+<images/final_reverse10_5000_head1.pdf, id=1432, 716.9184pt x 789.18839pt>
 File: images/final_reverse10_5000_head1.pdf Graphic file (type pdf)
 <use images/final_reverse10_5000_head1.pdf>
 Package pdftex.def Info: images/final_reverse10_5000_head1.pdf  used on input line 60.
 (pdftex.def)             Requested size: 483.69687pt x 532.46242pt.
- [60 <./images/final_10_5000_avg.pdf>]
-<images/final_reverse10_5000_head2.pdf, id=1574, 711.13678pt x 792.80193pt>
+ [41 <./images/final_10_5000_avg.pdf>]
+<images/final_reverse10_5000_head2.pdf, id=1501, 711.13678pt x 792.80193pt>
 File: images/final_reverse10_5000_head2.pdf Graphic file (type pdf)
 <use images/final_reverse10_5000_head2.pdf>
 Package pdftex.def Info: images/final_reverse10_5000_head2.pdf  used on input line 67.
 (pdftex.def)             Requested size: 483.69687pt x 539.24335pt.
- [61 <./images/final_reverse10_5000_head1.pdf>]
-<images/final_reverse10_5000_avg.pdf, id=1643, 712.58218pt x 792.0792pt>
+ [42 <./images/final_reverse10_5000_head1.pdf>]
+<images/final_reverse10_5000_avg.pdf, id=1571, 712.58218pt x 792.0792pt>
 File: images/final_reverse10_5000_avg.pdf Graphic file (type pdf)
 <use images/final_reverse10_5000_avg.pdf>
 Package pdftex.def Info: images/final_reverse10_5000_avg.pdf  used on input line 74.
 (pdftex.def)             Requested size: 483.69687pt x 537.664pt.
- [62 <./images/final_reverse10_5000_head2.pdf>]) [63 <./images/final_reverse10_5000_avg.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 79--84
-[]$\T2A/cmtt/m/n/14.4 https : / / www . dynapar . com / hubfs / uploadedFiles / Downloads / Encoder %
+ [43 <./images/final_reverse10_5000_head2.pdf>]) [44 <./images/final_reverse10_5000_avg.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+[]\T2A/cmr/m/n/10 Renishaw. The Accuracy of Rotary Encoders. []$\T2A/cmtt/m/n/10 https : / / www . renishaw . com / fr /
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 149--155
-[]\T2A/cmr/m/n/14.4 Е. А. Бачиш. Методы воспроизведения единицы плоского угла.
+Underfull \hbox (badness 1348) in paragraph at lines 211--216
+\T2A/cmr/m/n/10 ID 1401414. Traunreut, Germany, []$\T2A/cmtt/m/n/10 https : / / www . heidenhain . com / fileadmin / pdf / en / 01 _ Products /
  []
 
-[64
+[45
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 176--183
-[]\T2A/cmr/m/n/14.4 В. П. Кирьянов, А. Д. Петухов, А. В. Кирьянов. Анализ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--183
-\T2A/cmr/m/n/14.4 алгоритмов самокалибровки в оптических датчиках угловых
- []
-
-
-Underfull \hbox (badness 4036) in paragraph at lines 176--183
-\T2A/cmr/m/n/14.4 перемещений. Автометрия, Том 58, ќ3, 2022, с. 12--23, []$\T2A/cmtt/m/n/14.4 https :
- []
-
-
-Underfull \hbox (badness 2799) in paragraph at lines 202--209
-[]\T2A/cmr/m/n/14.4 T. Ishii, K. Taniguchi, K. Yamazaki, H. Aoyama. Development of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--216
-\T2A/cmtt/m/n/14.4 / / www . heidenhain . com / fileadmin / pdf / en / 01 _ Products / Prospekte /
- []
-
-
-Underfull \hbox (badness 1803) in paragraph at lines 227--230
-[]\T2A/cmr/m/n/14.4 ESO MIDAS software documentation. Horizon obstruction tables for
- []
-
-
-Underfull \hbox (badness 1342) in paragraph at lines 243--246
-[]\T2A/cmr/m/n/14.4 StellarMate / KStars EKOS documentation. Demystifying the EKOS
- []
-
-[65]
-Underfull \hbox (badness 10000) in paragraph at lines 254--259
-\T2A/cmr/m/n/14.4 View. Caltech, 2001. []$\T2A/cmtt/m/n/14.4 https : / / sites . astro . caltech . edu / ~srk / TP /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--274
-\T2A/cmr/m/n/14.4 самокалибровки в оптических датчиках угловых перемещений.
- []
-
-
-Underfull \hbox (badness 3088) in paragraph at lines 285--290
-[]\T2A/cmr/m/n/14.4 А. А. Боев, С. Н. Кузнецов, А. А. Паршин, С. Ю. Поляков,
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 285--290
-\T2A/cmr/m/n/14.4 С. Е. Широбакин. Способ измерения угла поворота и устройство
- []
-
-
-Underfull \hbox (badness 3148) in paragraph at lines 292--295
-[]\T2A/cmr/m/n/14.4 Абсолютный поворотный энкодер с однодорожечным кодом Грея
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 292--295
-[]$\T2A/cmtt/m/n/14.4 https : / / habr . com / ru / companies / ruvds / articles / 592201/$[] \T2A/cmr/m/n/14.4 (дата
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 313--318
-[]\T2A/cmr/m/n/14.4 J. Sawada. Cut-down de Bruijn sequences. Online resource, []$\T2A/cmtt/m/n/14.4 http : / /
- []
-
-
-Underfull \hbox (badness 3354) in paragraph at lines 320--327
-\T2A/cmr/m/n/14.4 line and edge detection. In: K. J. Bowyer, P. J. Phillips (eds.),
- []
-
-
-Underfull \hbox (badness 1769) in paragraph at lines 320--327
-\T2A/cmr/m/n/14.4 Empirical Evaluation Methods in Computer Vision. World Scientific,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 320--327
-\T2A/cmr/m/n/14.4 1998. []$\T2A/cmtt/m/n/14.4 https : / / mv . in . tum . de / _media / members / steger / publications /
- []
-
-[66]
-Underfull \hbox (badness 1783) in paragraph at lines 329--336
-[]\T2A/cmr/m/n/14.4 R. Grompone von Gioi, G. Randall. A sub-pixel edge detector: an
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 339--346
-\T2A/cmr/m/n/14.4 sensor arrays. Opto-Electronic Technology, Volume 1, Issue 2, 2025,
- []
-
-[67] (NIR.aux)
+] [46] (NIR.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
@@ -3172,17 +1869,17 @@ Package rerunfilecheck Info: File `NIR.out' has not changed.
 (rerunfilecheck)             Checksum: DF9343738B1F0A5E38CA7EFC8878863E;9226.
  ) 
 Here is how much of TeX's memory you used:
- 19527 strings out of 469447
- 377515 string characters out of 5460922
- 760701 words of memory out of 5000000
- 47921 multiletter control sequences out of 15000+600000
- 649594 words of font info for 104 fonts, out of 8000000 for 9000
+ 19711 strings out of 469447
+ 380896 string characters out of 5460922
+ 768910 words of memory out of 5000000
+ 48121 multiletter control sequences out of 15000+600000
+ 649156 words of font info for 98 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 74i,13n,79p,1726b,1183s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1440.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0700.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1728.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1440.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx2074.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1728.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1440.pk></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on NIR.pdf (68 pages, 13703790 bytes).
+ 74i,13n,79p,1726b,1233s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/latt1000.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0600.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0700.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0800.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm0900.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/lati1000.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1200.pk> </home/ilia/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi5.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi9.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr9.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy5.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb></home/ilia/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on NIR.pdf (47 pages, 13758177 bytes).
 PDF statistics:
- 2628 PDF objects out of 2984 (max. 8388607)
- 339 named destinations out of 1000 (max. 500000)
+ 2617 PDF objects out of 2984 (max. 8388607)
+ 318 named destinations out of 1000 (max. 500000)
  388 words of extra memory for PDF output out of 10000 (max. 10000000)
 

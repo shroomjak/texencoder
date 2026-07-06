@@ -1,97 +1,97 @@
-\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Введение}{2}{section.1}%
-\contentsline {section}{\numberline {2}Литературный обзор}{3}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Обзор конструкций}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Интерфейсы промышленных энкодеров}{7}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Классификация интерфейсов}{7}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Используемые интерфейсы}{8}{subsubsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.3}Характеристики энкодеров}{9}{subsection.2.3}%
-\contentsline {subsubsection}{\numberline {2.3.1}Основные метрологические параметры}{9}{subsubsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.4}Кодовые растры}{10}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Многодорожечные абсолютные энкодеры и код Грея.}{11}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Однодорожечные абсолютные энкодеры и псевдослучайные последовательности.}{12}{subsubsection.2.4.2}%
-\contentsline {subsubsection}{\numberline {2.4.3}Инкрементные энкодеры и квадратурные последовательности.}{12}{subsubsection.2.4.3}%
-\contentsline {subsubsection}{\numberline {2.4.4}Специализированные и комбинированные кодовые структуры.}{14}{subsubsection.2.4.4}%
-\contentsline {section}{\numberline {3}Постановка проблем и методик}{16}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Источники ошибок оптического энкодера}{16}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Оценка влияния на измерения в приближении малых ошибок}{16}{subsubsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.2}Методы калибровки поворотных энкодеров}{17}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Сравнительная калибровка}{18}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Методы самокалибровки}{18}{subsubsection.3.2.2}%
-\contentsline {paragraph}{Метод путевого усреднения (МПУ)}{18}{section*.11}%
-\contentsline {paragraph}{Метод усреднения при равном делении (EDA)}{19}{section*.12}%
-\contentsline {paragraph}{Метод Масуды}{19}{section*.13}%
-\contentsline {paragraph}{Мультикомбинационный метод Ватанабэ}{20}{section*.14}%
-\contentsline {paragraph}{VEDA-метод (Virtual Equal Division Averaged)}{20}{section*.15}%
-\contentsline {subsection}{\numberline {3.3}Запретные зоны телескопов и модель наведения}{21}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Определение и классификация запретных зон}{21}{subsubsection.3.3.1}%
-\contentsline {paragraph}{Механические запретные зоны.}{21}{section*.16}%
-\contentsline {paragraph}{Астрофизические и атмосферные ограничения.}{21}{section*.17}%
-\contentsline {paragraph}{Зависимые ограничения двухосных монтировок.}{22}{section*.18}%
-\contentsline {subsubsection}{\numberline {3.3.2}Запретные зоны в немецких экваториальных монтировках.}{22}{subsubsection.3.3.2}%
-\contentsline {paragraph}{Пример: КГО ГАИШ МГУ.}{22}{section*.19}%
-\contentsline {subsubsection}{\numberline {3.3.3}Влияние погрешностей энкодера на запретные зоны}{23}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}Модель наведения телескопа по звездам}{23}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Структура погрешностей наведения и их источники}{23}{subsubsection.3.4.1}%
-\contentsline {paragraph}{Индексные ошибки.}{24}{section*.20}%
-\contentsline {paragraph}{Геометрические ошибки неперпендикулярности осей.}{24}{section*.21}%
-\contentsline {paragraph}{Ошибки ориентации полярной оси.}{24}{section*.22}%
-\contentsline {paragraph}{Гнутия трубы.}{25}{section*.23}%
-\contentsline {subsubsection}{\numberline {3.4.2}Метод калибровки наведения по звездам (pointing model)}{25}{subsubsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.5}Алгоритмы субпиксельной точности}{26}{subsection.3.5}%
-\contentsline {subsubsection}{\numberline {3.5.1}Актуализация проблемы}{26}{subsubsection.3.5.1}%
-\contentsline {subsubsection}{\numberline {3.5.2}Метод центра масс \cite {blais_rioux_peak}}{26}{subsubsection.3.5.2}%
-\contentsline {subsubsection}{\numberline {3.5.3}Параболическая интерполяция \cite {phase_matching_sampling} \cite {blais_rioux_peak}}{27}{subsubsection.3.5.3}%
-\contentsline {subsubsection}{\numberline {3.5.4}Метод Блэ–Риу \cite {blais_rioux_peak}}{27}{subsubsection.3.5.4}%
-\contentsline {subsubsection}{\numberline {3.5.5}Метод нулевого перехода второй производной (метод Стегера) \cite {steger_subpixel}}{28}{subsubsection.3.5.5}%
-\contentsline {subsubsection}{\numberline {3.5.6}Субпиксельная детекция фронтов методом Кэнни–Деверне \cite {gioi_canny_devernay}}{28}{subsubsection.3.5.6}%
-\contentsline {subsubsection}{\numberline {3.5.7}Метод апсемплинга (передискретизации) \cite {phase_matching_sampling}}{28}{subsubsection.3.5.7}%
-\contentsline {subsection}{\numberline {3.6}Ограничения на кодовую последовательность псевдослучайного оптического растра}{29}{subsection.3.6}%
-\contentsline {subsubsection}{\numberline {3.6.1}Структура кодовой последовательности}{29}{subsubsection.3.6.1}%
-\contentsline {subsubsection}{\numberline {3.6.2}Угловое разрешение}{29}{subsubsection.3.6.2}%
-\contentsline {subsubsection}{\numberline {3.6.3}Число допустимых кодов}{29}{subsubsection.3.6.3}%
-\contentsline {subsubsection}{\numberline {3.6.4}Геометрическое условие размещения растра на диске}{30}{subsubsection.3.6.4}%
-\contentsline {subsubsection}{\numberline {3.6.5}Ограничения применимости и влияние аберраций линзы}{31}{subsubsection.3.6.5}%
-\contentsline {paragraph}{Дисторсия и нелинейность увеличения.}{31}{section*.25}%
-\contentsline {paragraph}{Аберрации и конечная глубина резкости.}{31}{section*.26}%
-\contentsline {paragraph}{Непараллельность оси линзы и плоскости растра.}{31}{section*.27}%
-\contentsline {paragraph}{Практический вывод.}{31}{section*.28}%
-\contentsline {section}{\numberline {4}Ход выполнения работы}{31}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Анализ предметной области и формирование литературной базы}{31}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Уточнение постановки задачи}{32}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Специфика параметров прототипа}{32}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Проектирование прототипа и анализ технических ограничений}{33}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.4.1}Моделирование установки энкодера на телескопе АЗТ-6}{33}{subsubsection.4.4.1}%
-\contentsline {subsubsection}{\numberline {4.4.2}Подбор компонентов и анализ ограничений прототипа}{34}{subsubsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.5}Модель дисторсии и ее коррекция}{34}{subsection.4.5}%
-\contentsline {subsubsection}{\numberline {4.5.1}Обоснование необходимости коррекции}{34}{subsubsection.4.5.1}%
-\contentsline {subsubsection}{\numberline {4.5.2}Математическая модель}{34}{subsubsection.4.5.2}%
-\contentsline {subsubsection}{\numberline {4.5.3}Обратное преобразование}{35}{subsubsection.4.5.3}%
-\contentsline {subsubsection}{\numberline {4.5.4}Калибровка по образу периодической структуры}{35}{subsubsection.4.5.4}%
-\contentsline {subsubsection}{\numberline {4.5.5}Восстановление сигнала}{36}{subsubsection.4.5.5}%
-\contentsline {paragraph}{Две постановки задачи восстановления.}{36}{section*.30}%
-\contentsline {paragraph}{Алгоритм восстановления, используемый в реализации.}{37}{section*.31}%
-\contentsline {subsubsection}{\numberline {4.5.6}Практическая реализация}{38}{subsubsection.4.5.6}%
-\contentsline {subsection}{\numberline {4.6}Модель формирования, обработки и восстановления сигнала}{41}{subsection.4.6}%
-\contentsline {subsubsection}{\numberline {4.6.1}Геометрическая коррекция дисторсии}{41}{subsubsection.4.6.1}%
-\contentsline {subsubsection}{\numberline {4.6.2}Нормализация и сглаживание}{41}{subsubsection.4.6.2}%
-\contentsline {subsubsection}{\numberline {4.6.3}Фильтр Блэ--Риу и вычисление производных}{42}{subsubsection.4.6.3}%
-\contentsline {subsubsection}{\numberline {4.6.4}Обнаружение фронтов}{42}{subsubsection.4.6.4}%
-\contentsline {subsubsection}{\numberline {4.6.5}Восстановление битовой последовательности}{43}{subsubsection.4.6.5}%
-\contentsline {subsubsection}{\numberline {4.6.6}Результаты на синтетическом сигнале}{45}{subsubsection.4.6.6}%
-\contentsline {subsubsection}{\numberline {4.6.7}Результаты на действительном сигнале}{47}{subsubsection.4.6.7}%
-\contentsline {subsection}{\numberline {4.7}Оценка абсолютного угла диска}{47}{subsection.4.7}%
-\contentsline {subsubsection}{\numberline {4.7.1}Кодовая дорожка и таблица кодовых слов}{48}{subsubsection.4.7.1}%
-\contentsline {subsubsection}{\numberline {4.7.2}Масштабный коэффициент угол/пиксель}{48}{subsubsection.4.7.2}%
-\contentsline {subsubsection}{\numberline {4.7.3}Скользящее окно и оценка угла}{48}{subsubsection.4.7.3}%
-\contentsline {subsubsection}{\numberline {4.7.4}Весовая функция виньетирования}{49}{subsubsection.4.7.4}%
-\contentsline {subsubsection}{\numberline {4.7.5}Фильтрация выбросов}{49}{subsubsection.4.7.5}%
-\contentsline {subsubsection}{\numberline {4.7.6}Итоговая оценка угла}{50}{subsubsection.4.7.6}%
-\contentsline {section}{\numberline {5}Анализ результатов. Экспериментальная оценка точности}{50}{section.5}%
-\contentsline {section}{\numberline {6}Заключение}{52}{section.6}%
-\contentsline {section}{\numberline {7}Приложение}{54}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Приложение 1. Демонстрация установки}{54}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Приложение 2. Демонстрация 3D-модели установки}{56}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Приложение 3. Программный код}{56}{subsection.7.3}%
-\contentsline {subsection}{\numberline {7.4}Приложение 4. Диагностические графики точности}{57}{subsection.7.4}%
-\contentsline {section}{Список литературы}{64}{figure.caption.49}%
+\contentsline {section}{\numberline {2}Литературный обзор}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Обзор конструкций}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Интерфейсы промышленных энкодеров}{5}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Классификация интерфейсов}{5}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Используемые интерфейсы}{5}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Характеристики энкодеров}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Основные метрологические параметры}{6}{subsubsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.4}Кодовые растры}{7}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Многодорожечные абсолютные энкодеры и код Грея.}{7}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Однодорожечные абсолютные энкодеры и псевдослучайные последовательности.}{8}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Инкрементные энкодеры и квадратурные последовательности.}{8}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Специализированные и комбинированные кодовые структуры.}{9}{subsubsection.2.4.4}%
+\contentsline {section}{\numberline {3}Постановка проблем и методик}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Источники ошибок оптического энкодера}{11}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Оценка влияния на измерения в приближении малых ошибок}{11}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Методы калибровки поворотных энкодеров}{12}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Сравнительная калибровка}{12}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Методы самокалибровки}{13}{subsubsection.3.2.2}%
+\contentsline {paragraph}{Метод путевого усреднения (МПУ)}{13}{section*.11}%
+\contentsline {paragraph}{Метод усреднения при равном делении (EDA)}{13}{section*.12}%
+\contentsline {paragraph}{Метод Масуды}{13}{section*.13}%
+\contentsline {paragraph}{Мультикомбинационный метод Ватанабэ}{14}{section*.14}%
+\contentsline {paragraph}{VEDA-метод (Virtual Equal Division Averaged)}{14}{section*.15}%
+\contentsline {subsection}{\numberline {3.3}Запретные зоны телескопов и модель наведения}{14}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Определение и классификация запретных зон}{14}{subsubsection.3.3.1}%
+\contentsline {paragraph}{Механические запретные зоны.}{14}{section*.16}%
+\contentsline {paragraph}{Астрофизические и атмосферные ограничения.}{15}{section*.17}%
+\contentsline {paragraph}{Зависимые ограничения двухосных монтировок.}{15}{section*.18}%
+\contentsline {subsubsection}{\numberline {3.3.2}Запретные зоны в немецких экваториальных монтировках.}{15}{subsubsection.3.3.2}%
+\contentsline {paragraph}{Пример: КГО ГАИШ МГУ.}{15}{section*.19}%
+\contentsline {subsubsection}{\numberline {3.3.3}Влияние погрешностей энкодера на запретные зоны}{16}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Модель наведения телескопа по звездам}{16}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Структура погрешностей наведения и их источники}{16}{subsubsection.3.4.1}%
+\contentsline {paragraph}{Индексные ошибки.}{16}{section*.20}%
+\contentsline {paragraph}{Геометрические ошибки неперпендикулярности осей.}{16}{section*.21}%
+\contentsline {paragraph}{Ошибки ориентации полярной оси.}{16}{section*.22}%
+\contentsline {paragraph}{Гнутия трубы.}{17}{section*.23}%
+\contentsline {subsubsection}{\numberline {3.4.2}Метод калибровки наведения по звездам (pointing model)}{17}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Алгоритмы субпиксельной точности}{17}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Актуализация проблемы}{17}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Метод центра масс \cite {blais_rioux_peak}}{18}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Параболическая интерполяция \cite {phase_matching_sampling} \cite {blais_rioux_peak}}{18}{subsubsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.4}Метод Блэ–Риу \cite {blais_rioux_peak}}{18}{subsubsection.3.5.4}%
+\contentsline {subsubsection}{\numberline {3.5.5}Метод нулевого перехода второй производной (метод Стегера) \cite {steger_subpixel}}{19}{subsubsection.3.5.5}%
+\contentsline {subsubsection}{\numberline {3.5.6}Субпиксельная детекция фронтов методом Кэнни–Деверне \cite {gioi_canny_devernay}}{19}{subsubsection.3.5.6}%
+\contentsline {subsubsection}{\numberline {3.5.7}Метод апсемплинга (передискретизации) \cite {phase_matching_sampling}}{19}{subsubsection.3.5.7}%
+\contentsline {subsection}{\numberline {3.6}Ограничения на кодовую последовательность псевдослучайного оптического растра}{19}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Структура кодовой последовательности}{19}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Угловое разрешение}{19}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.3}Число допустимых кодов}{20}{subsubsection.3.6.3}%
+\contentsline {subsubsection}{\numberline {3.6.4}Геометрическое условие размещения растра на диске}{20}{subsubsection.3.6.4}%
+\contentsline {subsubsection}{\numberline {3.6.5}Ограничения применимости и влияние аберраций линзы}{21}{subsubsection.3.6.5}%
+\contentsline {paragraph}{Дисторсия и нелинейность увеличения.}{21}{section*.25}%
+\contentsline {paragraph}{Аберрации и конечная глубина резкости.}{21}{section*.26}%
+\contentsline {paragraph}{Непараллельность оси линзы и плоскости растра.}{21}{section*.27}%
+\contentsline {paragraph}{Практический вывод.}{21}{section*.28}%
+\contentsline {section}{\numberline {4}Ход выполнения работы}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Анализ предметной области и формирование литературной базы}{21}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Уточнение постановки задачи}{21}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Специфика параметров прототипа}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Проектирование прототипа и анализ технических ограничений}{22}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Моделирование установки энкодера на телескопе АЗТ-6}{22}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Подбор компонентов и анализ ограничений прототипа}{22}{subsubsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.5}Модель дисторсии и ее коррекция}{23}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Обоснование необходимости коррекции}{23}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}Математическая модель}{23}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}Обратное преобразование}{23}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}Калибровка по образу периодической структуры}{23}{subsubsection.4.5.4}%
+\contentsline {subsubsection}{\numberline {4.5.5}Восстановление сигнала}{24}{subsubsection.4.5.5}%
+\contentsline {paragraph}{Две постановки задачи восстановления.}{24}{section*.30}%
+\contentsline {paragraph}{Алгоритм восстановления, используемый в реализации.}{25}{section*.31}%
+\contentsline {subsubsection}{\numberline {4.5.6}Практическая реализация}{25}{subsubsection.4.5.6}%
+\contentsline {subsection}{\numberline {4.6}Модель формирования, обработки и восстановления сигнала}{26}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}Геометрическая коррекция дисторсии}{27}{subsubsection.4.6.1}%
+\contentsline {subsubsection}{\numberline {4.6.2}Нормализация и сглаживание}{27}{subsubsection.4.6.2}%
+\contentsline {subsubsection}{\numberline {4.6.3}Фильтр Блэ--Риу и вычисление производных}{27}{subsubsection.4.6.3}%
+\contentsline {subsubsection}{\numberline {4.6.4}Обнаружение фронтов}{28}{subsubsection.4.6.4}%
+\contentsline {subsubsection}{\numberline {4.6.5}Восстановление битовой последовательности}{28}{subsubsection.4.6.5}%
+\contentsline {subsubsection}{\numberline {4.6.6}Результаты на синтетическом сигнале}{29}{subsubsection.4.6.6}%
+\contentsline {subsubsection}{\numberline {4.6.7}Результаты на действительном сигнале}{31}{subsubsection.4.6.7}%
+\contentsline {subsection}{\numberline {4.7}Оценка абсолютного угла диска}{31}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Кодовая дорожка и таблица кодовых слов}{31}{subsubsection.4.7.1}%
+\contentsline {subsubsection}{\numberline {4.7.2}Масштабный коэффициент угол/пиксель}{32}{subsubsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.3}Скользящее окно и оценка угла}{32}{subsubsection.4.7.3}%
+\contentsline {subsubsection}{\numberline {4.7.4}Весовая функция виньетирования}{32}{subsubsection.4.7.4}%
+\contentsline {subsubsection}{\numberline {4.7.5}Фильтрация выбросов}{33}{subsubsection.4.7.5}%
+\contentsline {subsubsection}{\numberline {4.7.6}Итоговая оценка угла}{33}{subsubsection.4.7.6}%
+\contentsline {section}{\numberline {5}Анализ результатов. Экспериментальная оценка точности}{33}{section.5}%
+\contentsline {section}{\numberline {6}Заключение}{34}{section.6}%
+\contentsline {section}{\numberline {7}Приложение}{35}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Приложение 1. Демонстрация установки}{35}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Приложение 2. Демонстрация 3D-модели установки}{37}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Приложение 3. Программный код}{37}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Приложение 4. Диагностические графики точности}{38}{subsection.7.4}%
+\contentsline {section}{Список литературы}{45}{figure.caption.49}%
