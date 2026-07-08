@@ -154,7 +154,7 @@
 
 \subsubsection*{Сравнительный анализ}
 
-\begin{table}[h]
+\begin{table}[ht!]
     \centering
     \begin{tabular}{|l|c|c|c|c|}
         \hline
@@ -220,9 +220,9 @@
 
 Кодовый растр оптического энкодера представляет собой систему из одной или нескольких концентрических дорожек с чередованием прозрачных и непрозрачных участков, считываемых головками энкодера. Каждая дорожка формирует один бит в многодорожечных абсолютных энкодерах или один/несколько квадратурных сигналов в инкрементных энкодерах. В общем случае различают два принципиальных подхода к построению оптического растра: многодорожечные (традиционные) и однодорожечные кодовые диски (компактные энкодеры) (см. рис. \ref{fig:track_disk}).
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
-    \includegraphics[width=\linewidth]{images/многодорожечные диски.png}
+    \includegraphics[width=\linewidth]{BespyatyyIV/images/многодорожечные диски.png}
     \caption{Примеры многодорожечных кодовых дисков}
     \label{fig:track_disk}
 \end{figure}
@@ -234,9 +234,9 @@
 
 В многодорожечных многооборотных энкодерах кодовый растр дополняется дополнительными дорожками или отдельным кодовым диском, что позволяет измерять как положение в пределах одного оборота, так и число совершенных оборотов.
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
-    \includegraphics[width=0.7\linewidth]{images/двоичный и грей.png}
+    \includegraphics[width=0.7\linewidth]{BespyatyyIV/images/двоичный и грей.png}
     \caption{Сравнение для $n=5$}
     \label{fig:gray_code_tracks}
 \end{figure}
@@ -255,16 +255,16 @@
 
 Разрешение инкрементного энкодера определяется числом периодов сигнала на оборот (числом штрихов), при этом при учете всех фронтов сигналов A и B достигается четырехкратное повышение эффективного числа отсчетов (режим $\times 4$-квадратурного счета). Возможны также многодорожечные инкрементные структуры, в которых на дополнительный канал выносятся, например, сдвинутые по фазе последовательности или сигналы с другим шагом (верньерное измерение \cite{bahn_vernier}, комбинирование нескольких каналов, аналогично принципу работы штангенциркуля см. рис. \ref{fig:vernier_track});
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
-    \includegraphics[width=0.9\linewidth]{images/ABZ инкрементальный диск .png}
+    \includegraphics[width=0.9\linewidth]{BespyatyyIV/images/ABZ инкрементальный диск .png}
     \caption{Квадратурные сигналы A и B, а также референтный импульс Z инкрементного энкодера.}
     \label{fig:quadrature_signals}
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
-    \includegraphics[width=0.85\linewidth]{images/верньерные дорожки.png}
+    \includegraphics[width=0.85\linewidth]{BespyatyyIV/images/верньерные дорожки.png}
     \caption{Пример верньерных дорожек инкрементного диска}
     \label{fig:vernier_track}
 \end{figure}
@@ -273,17 +273,17 @@
 
 Существуют схемы кодирования абсолютного угла, основанные на оригинальных принципах построения кодового шаблона. В частности, однодорожечные коды Грея \cite{singletrack_gray} \cite{habr_encoder} реализуют абсолютное кодирование по одной кольцевой дорожке (см. рис. \ref{fig:single_gray}) за счет использования нескольких пространственно разнесенных считывающих головок (см. рис. \ref{fig:gray_heads}); при этом метки на шкале размещаются под строго рассчитанными углами, обеспечивающими однозначное восстановление положения по совокупности сигналов с головок. 
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
     \begin{subfigure}{0.5\textwidth}
         \centering
-        \includegraphics[width=0.65\textwidth]{images/однодор грей код.png}
+        \includegraphics[width=0.65\textwidth]{BespyatyyIV/images/однодор грей код.png}
         \caption{Код}
         \label{fig:single_gray}
     \end{subfigure}%
     \begin{subfigure}{0.5\textwidth}
         \centering
-        \includegraphics[width=0.65\textwidth]{images/однодор грей головки.png}
+        \includegraphics[width=0.65\textwidth]{BespyatyyIV/images/однодор грей головки.png}
         \caption{Расположение головок}
         \label{fig:gray_heads}
     \end{subfigure}
@@ -292,18 +292,18 @@
 
 Другой пример представляет собой кодовая структура вида «репер–код» \cite{mostkom_patent}, в которой шкала разделена на сегменты с выделенными реперными штрихами (опорными уникальными маркерами), а считывающее устройство определяет положения двух соседних реперов и по расположению кодовых меток между ними однозначно идентифицирует номер сегмента и положение внутри сегмента (см. рис. \ref{fig:mostkom_code}).
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
-    \includegraphics[width=0.75\linewidth]{images/мостком конфиг.png}
+    \includegraphics[width=0.75\linewidth]{BespyatyyIV/images/мостком конфиг.png}
     \caption{Конфигурация описанная в работе \cite{mostkom_patent}. Состоит из секторов (1), каждый из которых включает код сектора (2) и репер (3).}
     \label{fig:mostkom_code}
 \end{figure}
 
 Наконец, существуют комбинированные многодорожечные диски, сочетающие как инкрементальные, так и абсолютные растры (см. рис. \ref{fig:hybrid_track})
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
-    \includegraphics[width=0.9\linewidth]{images/однодорожечный диск.png}
+    \includegraphics[width=0.9\linewidth]{BespyatyyIV/images/однодорожечный диск.png}
     \caption{Пример комбинированного диска}
     \label{fig:hybrid_track}
 \end{figure}

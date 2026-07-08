@@ -18,7 +18,7 @@
 \end{enumerate}
 
 По результатам тестовых печатей и измерений были выбраны следующие масштабы:
-\begin{table}[H]
+\begin{table}[ht!]
     \centering
     \begin{tabular}{c|c|c}
         \hline
@@ -268,18 +268,18 @@ $\tilde{S} = [\tilde{s}_0, \tilde{s}_1, \ldots, \tilde{s}_{N'-1}]$,
 \begin{enumerate}
     \item \textbf{Калибровка}: на ПЗС-линейку проецируется образ зебры; по считанному сигналу определяется $k^*$ и заносится в модель.
 
-    \begin{figure}[H]
+    \begin{figure}[ht!]
         \centering
-        \includegraphics[width=0.5\linewidth]{images/Зебра.jpg}
+        \includegraphics[width=0.5\linewidth]{BespyatyyIV/images/Зебра.jpg}
         \caption{Зебра}
         \label{fig:zebra}
     \end{figure}
     
     Следует отметить, что на практике оценка коэффициента $k^*$ выполнялась не по всем обнаруженным фронтам, а только по одноименным, то есть либо только по восходящим, либо только по нисходящим (см. рис. \ref{fig:distortion_calibration}). Такой подход связан с тем, что при изготовлении растра методом 3D-печати размеры пропусков и заполнений не могут быть воспроизведены строго одинаковыми, поэтому расстояния между разноименными фронтами содержат дополнительную систематическую составляющую, не связанную с дисторсией оптической системы.
 
-    \begin{figure}[H]
+    \begin{figure}[ht!]
         \centering
-        \includegraphics[width=\linewidth]{images/дисторсия_калибровка.pdf}
+        \includegraphics[width=\linewidth]{BespyatyyIV/images/дисторсия_калибровка.pdf}
         \caption{Диагностические выводы процесса калибровки}
         \label{fig:distortion_calibration}
     \end{figure}
@@ -288,9 +288,9 @@ $\tilde{S} = [\tilde{s}_0, \tilde{s}_1, \ldots, \tilde{s}_{N'-1}]$,
 
     \item \textbf{Рабочий цикл}: при считывании произвольного растра значение $k^*$ используется для геометрической коррекции сигнала перед этапом битовой разметки (см. рис \ref{fig:distortion_correction}).
 
-    \begin{figure}[H]
+    \begin{figure}[ht!]
         \centering
-        \includegraphics[width=\linewidth]{images/пример_восстановления_дисторсии.png}
+        \includegraphics[width=\linewidth]{BespyatyyIV/images/пример_восстановления_дисторсии.png}
         \caption{Пример восстановления дисторсии в сигнале с матрицы после калибровки при $k = 0.05$}
         \label{fig:distortion_correction}
     \end{figure}
@@ -415,27 +415,27 @@ $\tilde{S} = [\tilde{s}_0, \tilde{s}_1, \ldots, \tilde{s}_{N'-1}]$,
 \end{enumerate}
 
 \subsubsection{Результаты на синтетическом сигнале}
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
-    \includegraphics[width=\linewidth]{images/Цифровая_модель.pdf}
+    \includegraphics[width=\linewidth]{BespyatyyIV/images/Цифровая_модель.pdf}
     \caption{Полный вывод с диагностическими графиками в синтетической модели. Было достигнуто СКО определения положений фронтов менее $0.1$ пиксела, что составляет менее $2\%$ ширины бита. Точность восстановления битовой последовательности составила $100\%$ при отношении сигнал/шум не менее $10$ дБ.}
     \label{fig:ыynth_model}
 \end{figure}
 
 В ходе статистического анализа работы модели на синтетическом сигнале в качестве рабочего был выбран порядок алгоритма Блэ-Риу равным $N=2$. Диагностические графики приведены ниже (рис.\ref{fig:wplots} и \ref{fig:bnplots}):
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
     \begin{subfigure}[b]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{images/diagnostic_blur=0.05_noise=200.pdf}
+        \includegraphics[width=\textwidth]{BespyatyyIV/images/diagnostic_blur=0.05_noise=200.pdf}
         \caption{Уровень шума ок. 13 дБ, уровень размытия 5 процентов от ширины бита}
         \label{fig:b0.05n200}
     \end{subfigure}
     \hfill
     \begin{subfigure}[b]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{images/diagnostic_blur=0.2_noise=200.pdf}
+        \includegraphics[width=\textwidth]{BespyatyyIV/images/diagnostic_blur=0.2_noise=200.pdf}
         \caption{Уровень шума ок. 13 дБ, уровень размытия 20 процентов от ширины бита}
         \label{fig:b0.2n200}
     \end{subfigure}
@@ -444,18 +444,18 @@ $\tilde{S} = [\tilde{s}_0, \tilde{s}_1, \ldots, \tilde{s}_{N'-1}]$,
     \label{fig:wplots}
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
     \begin{subfigure}[b]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{images/diagnostic_N=2_bit=6.pdf}
+        \includegraphics[width=\textwidth]{BespyatyyIV/images/diagnostic_N=2_bit=6.pdf}
         \caption{$N=2$}
         \label{fig:n2}
     \end{subfigure}
     \hfill
     \begin{subfigure}[b]{0.48\textwidth}
         \centering
-        \includegraphics[width=\textwidth]{images/diagnostic_N=4_bit=6.pdf}
+        \includegraphics[width=\textwidth]{BespyatyyIV/images/diagnostic_N=4_bit=6.pdf}
         \caption{$N=4$}
         \label{fig:bnplots}
     \end{subfigure}
@@ -465,9 +465,9 @@ $\tilde{S} = [\tilde{s}_0, \tilde{s}_1, \ldots, \tilde{s}_{N'-1}]$,
 \end{figure}
 
 \subsubsection{Результаты на действительном сигнале}
-\begin{figure}[H]
+\begin{figure}[ht!]
     \centering
-    \includegraphics[width=\linewidth]{images/Blais-Rioux Edge Detector.png}
+    \includegraphics[width=\linewidth]{BespyatyyIV/images/Blais-Rioux Edge Detector.png}
     \caption{Пример работы и восстановления на сигнале с матрицы}
     \label{fig:phys_model}
 \end{figure}
