@@ -36,7 +36,7 @@
   \clearpage
 }
 
-\graphicspath{ {./BespyatyyIV/images/} {./BespyatyyIV/images/logo/} }  %место где TeX будет искть рисунки
+\graphicspath{ {./images/} {./images/logo/} }  %место где TeX будет искть рисунки
 
 %Новые команды
 \newcommand{\const}{\operatorname{const} }
@@ -47,25 +47,24 @@
 \begin{document}
 \pagestyle{plain}
 \clearpage
-\input titlepageFKI.tex % Титул ФКИ
-\newpage
+\input{titlepageFKI.tex}% Титул ФКИ
 \tableofcontents
 \newpage
 \section{Введение}
-\input introduction.tex
-\section{Литературный обзор}
-\input literary_review.tex
+\input{introduction.tex}
+\section{Литературный обзор} \label{sec:literature_review}
+\input{literary_review.tex}
 \section{Постановка проблем и методик}
-\input problems.tex
+\input{problems.tex}
 %\section{Описание идеи}
 %\input description.tex
 
 \section{Ход выполнения работы}
-\input applying.tex
+\input{applying.tex}
 \section{Анализ результатов. Экспериментальная оценка точности}
-\input discussion.tex
+\input{discussion.tex}
 \section{Заключение}
-\input conclusion.tex
+\input{conclusion.tex}
 \section{Приложение}
 \input{application.tex}
 %\pagestyle{empty}
@@ -216,7 +215,7 @@ Traunreut, Germany,
 
 \bibitem{TPoint_Wallace}
 P.~T.~Wallace.
-TPOINT — Telescope Pointing Analysis System.
+TPOINT --- Telescope Pointing Analysis System.
 Starlink User Note 100.10,
 Particle Physics and Astronomy Research Council,
 Starlink Project,
